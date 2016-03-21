@@ -1,0 +1,25 @@
+nexus6 android M：
+
+json -> object
+jackson  1
+gson       1.5
+fastjson  4.5
+
+object -> json
+jackson  1
+gson       4
+fastjson 5
+
+注意：
+jackson第一次解析比gson性能差。
+jackson库比较大
+
+mem
+jackson     118k          210k
+gson          11k            48k
+fastjson    146k          230k
+jackson内存占用是gson的5-10倍
+
+dalvik
+gson == jackson = 1
+fastjson = 2

@@ -1,0 +1,1044 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 996,
+  "books": [
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s19273399.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "696",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s19273399.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s19273399.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s19273399.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/16528517\/",
+      "id": "16528517",
+      "publisher": "",
+      "isbn10": "1274974917",
+      "isbn13": "9781274974914",
+      "title": "Pompeianarum Antiquitatum Historia",
+      "url": "http:\/\/api.douban.com\/v2\/book\/16528517",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s19347560.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "808",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s19347560.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s19347560.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s19347560.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/16589158\/",
+      "id": "16589158",
+      "publisher": "",
+      "isbn10": "1275693407",
+      "isbn13": "9781275693401",
+      "title": "Pompeianarum Antiquitatum Historia",
+      "url": "http:\/\/api.douban.com\/v2\/book\/16589158",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s19592784.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "210",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s19592784.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s19592784.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s19592784.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/16785371\/",
+      "id": "16785371",
+      "publisher": "",
+      "isbn10": "1277892385",
+      "isbn13": "9781277892383",
+      "title": "Pompeianarum Antiquitatum Historia, Quam Ex Cod. Mss. Et a Schedis Diurnisque R. Alcubierre, C. Weber, M. Cixia, I. Corcoles, I. Perez-Conde, F. Et P.",
+      "url": "http:\/\/api.douban.com\/v2\/book\/16785371",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s7960989.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "202",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s7960989.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s7960989.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s7960989.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7723661\/",
+      "id": "7723661",
+      "publisher": "",
+      "isbn10": "1168197481",
+      "isbn13": "9781168197481",
+      "title": "Pompeianarvm Antiqvitatvm Historia V3, Complectens Commentarivm Perpetvvm Et Indices Locvpletissimos",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7723661",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 36.11"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Knabenbauer, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s15575239.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "530",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s15575239.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s15575239.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s15575239.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/14276679\/",
+      "id": "14276679",
+      "publisher": "",
+      "isbn10": "116098168X",
+      "isbn13": "9781160981682",
+      "title": "Commentarius in Danielem Prophetam Lamentationes Et Baruch",
+      "url": "http:\/\/api.douban.com\/v2\/book\/14276679",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fran Ios Xavier Borluut De Noortdonck"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s18592481.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "854",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s18592481.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s18592481.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s18592481.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/16078691\/",
+      "id": "16078691",
+      "publisher": "",
+      "isbn10": "124821837X",
+      "isbn13": "9781248218372",
+      "title": "Catalogue Des Livres, Manuscrits, Dessins Et Estampes, Formant Le Cabinet de Feu M. Borluut de Noortdonck, Dont La Vente Aura. Lieu",
+      "url": "http:\/\/api.douban.com\/v2\/book\/16078691",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s15568161.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "202",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s15568161.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s15568161.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s15568161.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/14272054\/",
+      "id": "14272054",
+      "publisher": "",
+      "isbn10": "116091320X",
+      "isbn13": "9781160913201",
+      "title": "Pompeianarvm Antiqvitatvm Historia V3, Complectens Commentarivm Perpetvvm Et Indices Locvpletissimos",
+      "url": "http:\/\/api.douban.com\/v2\/book\/14272054",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s7363621.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "202",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s7363621.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s7363621.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s7363621.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7711415\/",
+      "id": "7711415",
+      "publisher": "",
+      "isbn10": "1168072883",
+      "isbn13": "9781168072887",
+      "title": "Pompeianarvm Antiqvitatvm Historia V3, Complectens Commentarivm Perpetvvm Et Indices Locvpletissimos",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7711415",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 22.55"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Knabenbauer, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s7963245.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "530",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s7963245.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s7963245.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s7963245.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7556331\/",
+      "id": "7556331",
+      "publisher": "",
+      "isbn10": "1168265967",
+      "isbn13": "9781168265968",
+      "title": "Commentarius in Danielem Prophetam Lamentationes Et Baruch",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7556331",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 50.58"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Knabenbauer, Ios"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s8571017.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s8571017.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s8571017.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s8571017.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7718630\/",
+      "id": "7718630",
+      "publisher": "",
+      "isbn10": "1168146437",
+      "isbn13": "9781168146434",
+      "title": "Commentarius in Danielem Prophetam Lamentationes Et Baruch",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7718630",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 37.02"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Knabenbauer, Ios"
+      ],
+      "pubdate": "2010-3",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s5364416.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "530",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s5364416.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s5364416.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s5364416.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/5833798\/",
+      "id": "5833798",
+      "publisher": "",
+      "isbn10": "1160834687",
+      "isbn13": "9781160834681",
+      "title": "Commentarius in Danielem Prophetam Lamentationes Et Baruch",
+      "url": "http:\/\/api.douban.com\/v2\/book\/5833798",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 46.27"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Fiorelli, Ios"
+      ],
+      "pubdate": "2010-3",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s6323593.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "202",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s6323593.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s6323593.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s6323593.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/5793097\/",
+      "id": "5793097",
+      "publisher": "",
+      "isbn10": "1160752990",
+      "isbn13": "9781160752992",
+      "title": "Pompeianarvm Antiqvitatvm Historia V3, Complectens Commentarivm Perpetvvm Et Indices Locvpletissimos",
+      "url": "http:\/\/api.douban.com\/v2\/book\/5793097",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 28.19"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Gul Shambarov, Stepan Ios Fov Ch"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s25826853.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "192",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s25826853.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s25826853.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s25826853.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/22052916\/",
+      "id": "22052916",
+      "publisher": "",
+      "isbn10": "124952315X",
+      "isbn13": "9781249523154",
+      "title": "Essai D'Une Bibliographie G N Rale de L'Industrie Desp Troles",
+      "url": "http:\/\/api.douban.com\/v2\/book\/22052916",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 60,
+        "average": "8.6",
+        "min": 0
+      },
+      "subtitle": "For Xcode 4",
+      "author": [
+        "Joe Conway",
+        "Aaron Hillegass"
+      ],
+      "pubdate": "2012-3-20",
+      "tags": [
+        {
+          "count": 168,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 148,
+          "name": "iOS编程",
+          "title": "iOS编程"
+        },
+        {
+          "count": 75,
+          "name": "iPhone开发",
+          "title": "iPhone开发"
+        },
+        {
+          "count": 52,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 31,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 27,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 15,
+          "name": "iphone",
+          "title": "iphone"
+        },
+        {
+          "count": 8,
+          "name": "MACOS",
+          "title": "MACOS"
+        }
+      ],
+      "origin_title": "iOS Programming: The Big Nerd Ranch Guide (2nd Edition)",
+      "image": "https://img1.doubanio.com\/mpic\/s9042517.jpg",
+      "binding": "平装",
+      "translator": [
+        "夏伟频",
+        "李骏"
+      ],
+      "catalog": "简介\ti\n本书适合哪些读者\ti\n第二版有哪些更新？\ti\n教学理念\tii\n如何使用本书\tiii\n本书是如何组织的\tiii\n代码风格\tv\n版式说明\tvi\n开发所需的硬件与软件\tvi\n第1章  第一个简单的iOS应用\t1\n1.1  创建Xcode项目\t2\n1.2  创建界面\t5\n1.3  模型-视图-控制器\t10\n1.4  声明\t13\n声明实例变量\t13\n声明方法\t14\n1.5  创建关联\t15\n设置指针\t15\n设置目标（target）和动作（action）\t17\n关联小结\t19\n1.6  实现方法\t20\n1.7  针对模拟器构建并运行应用\t21\n1.8  安装应用\t23\n1.9  应用图标\t24\n1.10  启动图片\t27\n第2章  Objective-C\t31\n2.1  对象\t31\n2.2  使用实例\t32\n创建对象\t32\n发送消息\t33\n释放对象\t34\n2.3  编写命令行工具RandomPossessions\t35\nNSString\t38\nNSArray与NSMutableArray\t39\n2.4  子类化Objective-C类\t40\n实例变量\t44\n存取方法\t45\n实例方法\t48\n初始化方法\t49\n其他初始化方法与初始化方法链\t52\n类方法\t53\n测试子类\t55\n2.5  异常与控制台窗口\t56\n2.6  快速枚举\t57\n2.7  练习\t58\n第3章  内存管理\t59\n3.1  内存管理基础\t59\nC语言的内存管理\t59\n通过对象管理内存\t61\n3.2  引用计数\t61\n使用retain计数\t61\n使用autorelease\t64\n存取方法和内存管理\t67\n实现dealloc\t69\n通过属性机制简化存取方法\t70\ncopy和mutableCopy\t72\nRetain计数规则\t73\n3.3  深入学习：再谈内存管理\t74\n第4章  委托机制与Core Location\t77\n4.1  项目、目标和框架\t77\n4.2  Core Location\t79\n通过CLLocationManager获取更新数据\t81\n4.3  委托机制\t82\n协议\t83\n协议方法\t84\n委托机制、控制器对象和内存管理\t85\n4.4  使用调试器\t86\n4.5  练习：方位\t91\n4.6  深入学习：构建阶段、编译器错误和连接器错误\t91\n预处理（Preprocessing）\t92\n编译\t93\n连接\t94\n第5章  MapKit与文本输入\t97\n5.1  对象图\t97\n5.2  MapKit框架\t99\n5.3  界面属性\t99\n5.4  设置MapView对象的委托对象\t102\n使用文档\t103\n创建MKAnnotation子类\t108\n标记位置\t112\n完成Whereami\t113\n5.5  练习：扩充标注\t114\n5.6  练习：根据地理位置获取城市信息\t114\n第6章  创建UIView子类\t115\n6.1  创建自定义视图\t116\ndrawRect:方法\t116\n创建UIView实例\t118\n6.2  绘制文字和阴影\t120\n6.3  使用UIScrollView\t121\n6.4  实现缩放功能\t122\n6.5  隐藏状态条\t123\n6.6  练习：颜色\t125\n6.7  深入学习：Retain循环\t125\n6.8  深入学习：重画视图\t125\n第7章  视图控制对象\t127\n7.1  视图控制对象与XIB文件\t127\n7.2  使用视图控制对象\t129\n创建UITabBarController对象\t130\n创建视图控制对象和标签项\t131\n为视图控制对象创建视图\t135\n深入浅出XIB：介绍文件所有者\t137\n7.3  视图的显示和消失\t142\n7.4  视图控制对象的生命周期与内存过低警告\t142\n7.5  UIViewController子类与模板\t146\n7.6  练习：地图标签\t147\n第8章  方向感应器\t149\n8.1  设置方向感应器\t149\n8.2  获取方向感应器数据\t151\n8.3  加速方向与加速数值\t151\n8.4  使用加速感应器数据\t151\n8.5  使加速感应器数据更“平滑”\t152\n8.6  侦测摇动\t153\n8.7  练习：改变颜色\t155\n8.8  深入学习：滤波与频率\t155\n8.9  深入学习：Retina显示屏\t156\n第9章  通告机制与设备转动\t159\n9.1  通告中心\t159\n9.2  UIDevice通告\t160\n9.3  自动转屏\t161\n用代码设置自动缩放掩码与按位运算符\t167\n9.4  强制使用横排模式\t169\n9.5  练习：设备近身通告\t170\n深入学习：覆盖自动转屏\t170\n第10章  UITableView与UITableViewController\t171\n10.1  编写Homepwner应用\t171\n10.2  UITableViewController\t172\n创建UITableViewController子类\t173\n10.3  UITableView数据源\t176\nPossessionStore：单实例对象\t177\n实现数据源方法\t180\n10.4  UITableViewCell对象\t182\n创建并获取UITableViewCell对象\t183\n重用UITableViewCell对象\t185\n10.5  代码片段库\t186\n10.6  练习：表格段\t189\n第11章  编辑UITableView\t191\n11.1  编辑模式\t191\n11.2  增加行\t197\n11.3  删除行\t198\n11.4  移动行\t199\n第12章  UINavigationController\t203\n12.1  UINavigationController\t204\nUINavigationBar\t207\n12.2  加入额外的UIViewController\t211\n12.3  UINavigationController的导航功能\t217\n将视图控制对象压入栈\t217\n视图控制对象之间的数据传递\t219\n视图的显示和消失\t221\n12.4  练习：数字键盘（Number Pad）\t221\n第13章  相机\t223\n13.1  通过UIImageView显示图片\t223\n通过UIImagePickerController拍摄照片\t226\nImageStore\t231\nNSDictionary\t232\n创建并使用键\t234\n隐藏键盘\t237\n13.2  练习：删除图片\t238\n13.2  深入：摄像\t238\n第14章  UIPopoverController与模态视图控制对象\t241\n14.1  将Homepwner改写为通用应用\t242\n14.2  UIPopoverController\t244\n14.3  模态视图控制对象\t246\n关闭模态视图控制对象\t249\n模式视图控制对象的样式\t250\n编写视图控制对象的委托协议\t252\n模态视图控制对象的过渡动画\t254\n第15章  保存、读取与多任务处理\t257\n15.1  应用沙盒\t257\n获取文件路径\t258\n15.2  固化\t260\n对象的固化\t260\n对象的解固\t262\n15.3  应用状态、状态切换与多任务处理\t265\n15.4  通过NSData保存数据\t269\n15.5  再谈内存过低警告\t271\n15.6  “模型-视图-控制器-存储”设计模式\t272\n15.7  练习：为Whereami增加固化功能\t272\n15.8  深入：应用状态的切换\t272\n15.9  深入：文件系统的读取和写入\t273\n15.10  深入：程序包\t276\n第16章  创建UITableViewCell子类\t279\n16.1  创建HomepwnerItemCell\t280\n创建子视图\t281\n子视图的布局\t282\n使用UITableViewCell子类对象\t283\n16.2  处理图片\t284\n16.3  练习：辅助指示视图\t289\n16.4  练习：缩小原图\t289\n第17章  Core Data\t291\n17.1  对象-关系映射\t291\n17.2  用Core Data重写PossessionStore的数据保存功能\t291\n模型文件\t292\nNSManagedObject与NSManagedObject子类\t297\n更新PossessionStore\t301\n为Homepwner增加AssetType功能\t307\n17.3  再谈SQL\t311\n17.4  各种保存机制的优缺点\t314\n17.5  练习：增加AssetType对象\t315\n17.6  练习：AssetType对象的iPad界面\t315\n第18章  本地化\t317\n18.1  通过NSLocale实现国际化\t318\n18.2  资源的本地化\t319\n18.3  NSLocalizedString与字符串对照表\t322\n18.4  练习：增加一套本地化资源\t325\n18.5  深入：NSBundle在国际化中的作用\t325\n第19章  设置\t327\n19.1  更新Whereami\t327\n19.2  NSUserDefaults\t329\n19.3  深入：“设置”应用\t331\n第20章  触摸事件与UIResponder\t333\n20.1  触摸事件\t334\n20.2  创建TouchTracker应用\t335\n20.3  处理触摸事件并创建线条对象\t337\n20.4  响应对象链\t340\n20.5  练习：保存和读取\t341\n20.6  练习：圆圈\t341\n20.7  深入学习：UIControl\t341\n第21章  Instruments\t343\n21.1  静态分析器\t343\n21.2  Instruments\t345\n21.3  Allocations组件\t345\nAllocations组件的设置选项\t350\n内存堆快照分析\t352\nTime Profiler组件\t353\n21.3  Xcode方案\t355\n创建新方案\t357\n21.4  构建设置\t359\n第22章  Core Animation Layer\t363\n22.1  层与视图的关系\t363\n22.2  创建CALayer对象\t364\n22.3  层的显示内容\t367\n22.4  隐式可动画属性\t369\n22.5  深入：通过代码生成显示内容\t371\n22.6  深入：层、位图与上下文\t372\n22.7  练习：动态生成层的显示内容\t374\n第23章  通过CAAnimation控制动画\t375\n23.1  动画对象\t375\n23.2  通过CABasicAnimation实现旋转动画\t378\n速度控制函数\t381\n动画结束后的处理\t382\n23.3  通过CAKeyframeAnimation实现弹跳动画\t383\n23.4  练习：更多动画效果\t384\n23.5  深入：外观层和模型层\t384\n第24章  Block对象与范畴\t387\n24.1  为TouchDrawView上色\t387\n24.2  Block对象\t389\nBlock对象与变量\t389\n捕获变量\t393\n通过其他内建的方法使用Block对象\t396\n通过Block对象保持代码的短小精练\t396\n24.3  范畴\t397\n24.4  深入学习：内存管理与Block对象\t400\n24.5  深入学习：比较多种回调机制实现途径的优缺点\t403\n第15章  Web服务与UIWebView\t405\n25.1  Web服务\t406\n编写Nerdfeed\t407\n从指定的URL获取数据\t408\n使用NSURLConnection\t410\n解析XML数据\t412\n日志输出技巧\t423\n25.2  UIWebView\t424\n25.3  深入学习：NSXMLParser\t426\n25.4  深入学习：HTTP请求主体\t427\n25.5  深入学习：认证信息\t429\n25.6  练习：解析并显示更多数据\t430\n25.7  练习：加强UIWebView\t430\n第26章  UISplitViewController\t431\n26.1  在Nerdfeed中使用UISplitViewController\t432\n26.2  主、从视图控制对象间的通信\t436\n26.3  在竖排模式下显示主视图控制对象\t442\n26.4  将Nerdfeed改写为通用应用\t445\n第27章  多媒体播放与后台运行\t449\n27.1  创建MediaPlayer应用\t449\n27.2  系统声音\t452\n注册系统声音\t452\n播放系统声音\t453\n27.3  播放压缩格式的音频文件\t454\n27.4  播放视频文件\t455\nMPMoviePlayerViewController\t457\n视频文件的预读\t458\n27.5  后台运行\t458\n后台运行规则\t459\n其他形式的后台运行\t460\n27.6  底层API\t462\n27.7  练习：录音\t462\n第15章  Bonjour与Web服务端\t463\n28.1  Bonjour\t463\n创建CocoaServer\t464\n发布Bonjour服务\t467\n通过Bonjour查找服务\t469\n28.2  HTTP通信\t473\n用Objective-C编写Web服务端\t473\n获取服务端的网络地址信息\t474\n字节序\t475\n创建服务请求\t475\n接收Web请求\t477\n28.3  深入学习：TXTRecords\t479\n第29章  推送通知与网络编程\t481\n29.1  设置客户端，为接收推送通知做准备\t482\n注册客户端\t482\n创建并设置针对推送通知的provisioning profile\t483\n29.2  投递推送通知\t486\n向provider发送设备token\t486\n29.3  发送推送通知\t488\n通过NSStream和Apple服务器创建网络连接\t488\n通过NSStream建立网络连接\t489\n为Apple服务器提供数据\t493\n处理投递错误\t497\n再谈针对流连接的数据读取\t498\n29.4  几种额外的客户端通知处理机制\t498\n声音和图标标记\t499\n通过推送通知传送自定义数据\t500\n29.5  正式的通知服务器以及其他发布事宜\t502\n29.6  深入学习：反馈服务\t502\n第30章  后记\t503\n30.1  接下来做什么\t503\n30.2  结束语\t503\n索引\t505",
+      "pages": "544",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s9042517.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s9042517.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s9042517.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/10483197\/",
+      "id": "10483197",
+      "publisher": "华中科技大学出版社",
+      "isbn10": "7560976972",
+      "isbn13": "9787560976976",
+      "title": "iOS编程",
+      "url": "http:\/\/api.douban.com\/v2\/book\/10483197",
+      "alt_title": "iOS Programming: The Big Nerd Ranch Guide (2nd Edition)",
+      "author_intro": "Joe Conway是Big Nerd Ranch的资深教师，自iOS平台发布以来一直从事相关的咨询服务。Joe毕业于美国威斯康辛大学，在Mac OS X早期即开始编写Objective-C和Cocoa代码。他编写了Big Nerd Ranch的“iOS新手培训课程”教材。该教材广受好评，是本书的原型。\nAaron Hillegass曾就职于NeXT公司和苹果公司，目前在Big Nerd Ranch教授iOS编程课程。Aaron在NeXT时编写了第一本OpenStep教材（OpenStep是Cocoa的前身）。本书以Big Nerd Ranch的教学课程为基础，涵盖了近20年OpenStep和Cocoa的开发成果。",
+      "summary": "本书针对Xcode 4编写，涵盖了开发iOS应用所需知道的方方面面。从Objective-C基础知识到新增加的语言特性；从AppKit库到常见的Cocoa设计模式；从Xcode技巧到Instruments，等等。如果读者刚接触iOS编程，那么阅读本书的第一章和第二章能快让你速入门。如果读者已经 有大量的iOS编程经验，那么通读本书可以拾遗补缺。无论读者是开发新的应用，还是为应用增加新功能，十之八九能在书中找到答案或是解决思路。\n除了内容全，本书的另一个特点是教读者以正确的方法解决问题。Objective-C的习惯约定有哪些（例如命名约定，内存管理约定）？创建子类时如何处理初始化方法？Cocoa的常见设计模式有哪些？如何选择数据保存方法？等等。所有这些问题，如果读者自己摸索，自己查阅散落于各处文档的知识点，难免费时费力。本书已经将这些知识整理、归纳并清楚地呈现在读者面前。\n目前，iOS开发针对的设备有iPhone、iPod touch和iPad。因为使用的是同一个体系，所以本书介绍的绝大部分内容均可通用。对于有差异的部分（例如iPad界面），本书也做了一定的介绍。\n此外，作者在编写本书时使用的是当时最新的iOS SDK，其中包括4.1版本的Xcode。虽然iOS SDK一直在升级，但在本书译者翻译完全书之际，绝大部分和SDK有关的内容都是有效的。",
+      "series": {
+        "id": "13846",
+        "title": "The Big Nerd Ranch Guide"
+      },
+      "price": "88.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 97,
+        "average": "8.6",
+        "min": 0
+      },
+      "subtitle": "For Xcode 4.3",
+      "author": [
+        "Joe Conway",
+        "Aaron Hillegass"
+      ],
+      "pubdate": "2013-3-1",
+      "tags": [
+        {
+          "count": 122,
+          "name": "iOS编程",
+          "title": "iOS编程"
+        },
+        {
+          "count": 93,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 44,
+          "name": "iPhone开发",
+          "title": "iPhone开发"
+        },
+        {
+          "count": 25,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 18,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 14,
+          "name": "Big_Nerd_Ranch_Guide",
+          "title": "Big_Nerd_Ranch_Guide"
+        },
+        {
+          "count": 12,
+          "name": "移动",
+          "title": "移动"
+        },
+        {
+          "count": 10,
+          "name": "编程语言",
+          "title": "编程语言"
+        }
+      ],
+      "origin_title": "iOS Programming: The Big Nerd Ranch Guide (3rd Edition)",
+      "image": "https://img1.doubanio.com\/mpic\/s25011757.jpg",
+      "binding": "平装",
+      "translator": [
+        "夏伟频",
+        "李骏"
+      ],
+      "catalog": "前言\n第1章  第一个简单的iOS应用 1\n1.1  创建Xcode项目 2\n1.2  创建界面 5\n1.3  模型-视图-控制器 9\n1.4  声明 11\n1.5  创建关联 13\n1.6  实现方法 17\n1.7  针对模拟器构建并运行应用 20\n1.8  安装应用 22\n1.9  应用图标 23\n1.10  启动图片 25\n第2章  Objective-C 29\n2.1  对象 29\n2.2  使用实例 30\n2.3  编写命令行工具RandomPossessions 33\n2.4  创建Objective-C类的子类 39\n2.5  异常与未知选择器 56\n2.6  快速枚举 58\n第3章  通过ARC管理内存 61\n3.1  堆 61\n3.2  栈 62\n3.2  指针变量与对象所有权 63\n3.4  内存管理 64\n3.5  Strong引用与Weak引用 67\n3.6  属性 72\n3.7  copy特性 77\n3.8  用点号调用存取方法 78\n第4章  委托与Core Location 81\n4.1  项目、目标与框架 82\n4.2  Core Location 83\n4.3  委托 87\n4.4  使用调试器 91\n第5章  MapKit与文本输入 103\n5.1  对象图 103\n5.2  MapKit框架 104\n5.3  界面属性 105\n5.4  设置MapView对象的委托对象 108\n第6章  UIView子类与UIScrollView 121\n6.1  视图与视图层次结构 122\n6.2  创建自定义视图 124\n6.3  UIView的drawRect:方法 128\n6.4  Core Graphics 131\n6.5  UIKit中的绘图扩展 132\n6.6  重画视图 134\n6.7  运动事件 136\n6.8  使用UIScrollView 138\n6.9  隐藏状态条 142\n第7章  视图控制对象 145\n7.1  UIViewController 145\n7.2  UITabBarController 155\n7.3  视图控制对象的生命周期 159\n7.4  UIViewController子类与模板 168\n第8章  通告机制与自动转屏 173\n8.1  通告中心 173\n8.2  UIDevice通告 175\n8.3  自动转屏 176\n8.4  强制使用横排模式 184\n第9章  UITableView与UITableViewController 187\n9.1  编写Homepwner应用 187\n9.2  UITableViewController 189\n9.3  UITableView数据源 192\n9.4  UITableViewCell对象 198\n9.5  代码片段库 203\n第10章  编辑UITableView 207\n10.1  编辑模式 207\n10.2  增加行 213\n10.3  删除行 215\n10.4  移动行 216\n第11章  UINavigationController 219\n11.1  UINavigationController 219\n11.2  额外的视图控制对象 223\n11.3  UINavigationController的导航功能 228\n11.4  UINavigationBar 233\n第12章  相机 239\n12.1  通过UIImageView对象显示图片 239\n第13章  UIPopoverController与模态视图控制对象 261\n13.1  将Homepwner改为通用应用 261\n13.2  UIPopoverController 263\n13.3  更多的模态视图控制对象 266\n第14章  保存、读取与应用状态 279\n14.1  固化 279\n14.2  应用沙盒 281\n14.3  NSKeyedArchiver与NSKeyedUnarchiver 283\n14.4  应用状态与状态切换 286\n14.5  通过NSData将数据写入文件 289\n14.7  再谈内存过低警告 291\n14.8  模型-视图-控制器-存储设计模式 292\n第15章  创建UITableViewCell子类 299\n15.1  创建HomepwnerItemCell 299\n15.2  处理图片 305\n15.3  由UITableViewCell对象转发动作消息 308\n第16章  Core Data 317\n16.1  对象-关系映射 317\n16.2  用Core Data重写BNRItemStore的数据保存功能 318\n16.3  再谈SQL 336\n16.4  Faults 337\n16.5  各种存取机制的优缺点 339\n第17章  本地化 341\n17.1  通过NSLocale实施国际化 342\n17.2  资源的本地化 343\n17.3  NSLocalizedString与字符串对照表 347\n第18章  NSUserDefaults 351\n18.1  更新Whereami 351\n18.2  使用NSUserDefaults 353\n第19章  触摸事件与UIResponder 357\n19.1  触摸事件 357\n19.2  创建TouchTracker应用 359\n19.3  实现TouchDrawView，完成绘图功能 360\n19.4  处理触摸事件并创建线条对象 361\n19.5  响应对象链 364\n第20章  UIGestureRecognizer与UIMenuController 367\n20.1  UIGestureRecognizer子类 367\n20.2  用UITapGestureRecognizer对象识别“按下”手势 368\n20.3  UIMenuController 371\n20.4  UILongPressGestureRecognizer 372\n20.5  UIPanGestureRecognizer以及同时识别多个手势 374\n第21章  Instruments 380\n21.1  静态分析器 380\n21.2  Instruments 382\n21.3  Xcode方案 392\n21.9  创建新方案 394\n21.4  构建设置 396\n第22章  Core Animation Layer 399\n22.1  层与视图的关系 399\n22.2  创建CALayer对象 400\n22.3  层的显示内容 403\n22.4  隐式可动画属性 405\n第23章  通过CAAnimation控制动画 411\n23.1  动画对象 411\n23.2  通过CABasicAnimation实现旋转动画 414\n23.3  通过CAKeyframeAnimation实现弹跳动画 419\n第24章  UIStoryboard 423\n24.1  创建Storyboard文件 423\n24.2  Storyboard文件中的UITableViewController 427\n24.3  Segue 430\n24.4  Storyboards的优缺点 434\n第25章  Web服务与UIWebView 437\n25.1  Web服务 438\n25.2  UIWebView 456\n第26章  UISplitViewController与NSRegularExpression 463\n26.1  在Nerdfeed中使用UISplitViewController 464\n26.2  主、从视图控制对象间的通信 468\n26.3  在竖排模式下显示主视图控制对象 475\n26.4  将Nerdfeed改为通用应用 477\n26.5  NSRegularExpression 478\n第27章  Block对象 485\n27.1  Block对象及其语法 485\n27.2  浅谈如何使用Block对象 490\n27.3  捕获变量 493\n27.4  Block对象的常见用途 496\n第28章  模型-视图-控制器-存储 503\n28.1  为什么需要存储对象 503\n28.2  创建BNRFeedStore 506\n28.3  使用BNRFeedStore对象 508\n28.5  通过JSON格式传输数据 521\n28.6  再谈存储对象 526\n第29章  再谈MVCS 529\n29.1  缓存RSS数据 529\n29.2  高级缓存 535\n29.3  已读RSSItem对象与未读RSSItem对象 545\n29.4  使用存储对象的其他益处 550\n第30章  iCloud 555\n30.1  使用iCloud前的准备工作 556\n30.2  Ubiquity Container 556\n30.3  支持iCloud的provisioning profile 558\n30.4  Core Data与iCloud 561\n第31章  后记 569\n31.1  接下来做什么 569\n31.2  结束语 570\n索引 571",
+      "pages": "608",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s25011757.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s25011757.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s25011757.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/21356354\/",
+      "id": "21356354",
+      "publisher": "华中科技大学出版社",
+      "isbn10": "7560986056",
+      "isbn13": "9787560986050",
+      "title": "iOS编程",
+      "url": "http:\/\/api.douban.com\/v2\/book\/21356354",
+      "alt_title": "iOS Programming: The Big Nerd Ranch Guide (3rd Edition)",
+      "author_intro": "Joe Conway是Big Nerd Ranch的资深教师，自iOS平台发布以来一直从事相关的咨询服务。Joe毕业于美国威斯康辛大学，在Mac OS X早期即开始编写Objective-C和Cocoa代码。他编写了Big Nerd Ranch的“iOS新手培训课程”教材。该教材 广受好评，是本书的原型。\nAaron Hillegass曾就职于NeXT公司和Apple公司，目前在Big Nerd Ranch教授iOS编程课程。Aaron在NeXT时编写了第一本OpenStep教材（OpenStep是Cocoa的前身）。本书以Big Nerd Ranch的教学课程为基础，涵盖了近20年OpenStep和Cocoa的开发成果。",
+      "summary": "第3版更新了iOS5和Xcode4.3的内容。全书涵盖了开发iOS应用的方方面面。从Objective-C基础知识到新增加的语言特性；从AppKit库到常见的Cocoa设计模式；从Xcode技巧到Instrumen t st等。如果读者刚接触iOS编程，阅 读本书前两章可以快速入门。如果读者已经有iOS编程经验，阅读本书可以拾遗补缺。本书的另一个特色是教读者以正确的方法解决问题。Objective-C的习惯约定有哪些（例如命名约定，内存管理约定），创建子类时如何处理初始化方法，Cocoa的常见设计模式有哪些，如何选择数据保存方法等。这些问题，如果读者自己摸索，难免费时费力。本书已经将这些知识整理、归纳并清楚地呈现在读者面前。\nBig Nerd Ranch培训系列中文图书网站：http:\/\/www.iosprogrammingbook.com\/",
+      "series": {
+        "id": "13846",
+        "title": "The Big Nerd Ranch Guide"
+      },
+      "price": "99.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 42,
+        "average": "6.6",
+        "min": 0
+      },
+      "subtitle": "iPhone & iPad企业应用和游戏开发",
+      "author": [
+        "虞斌"
+      ],
+      "pubdate": "2011-5-1",
+      "tags": [
+        {
+          "count": 130,
+          "name": "IOS",
+          "title": "IOS"
+        },
+        {
+          "count": 59,
+          "name": "手机开发",
+          "title": "手机开发"
+        },
+        {
+          "count": 51,
+          "name": "iphone",
+          "title": "iphone"
+        },
+        {
+          "count": 38,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 20,
+          "name": "Xcode",
+          "title": "Xcode"
+        },
+        {
+          "count": 16,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 13,
+          "name": "计算机科学",
+          "title": "计算机科学"
+        },
+        {
+          "count": 13,
+          "name": "程序",
+          "title": "程序"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s6477176.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "第1章  iPhone开发环境设置\t1\n1.1  安装雪豹操作系统\t2\n1.2  安装iPhone SDK\t5\n1.3  无证书开发环境Xcode设置\t7\n1.4  有证书开发环境Xcode设置\t11\n1.5  安装源代码版本管理工具\t12\n1.6  安装Wine\t12\n1.7  使用Wine安装Source Insight\t13\n1.8  相关网络资源\t14\n第2章  Objective-C编程基础\t15\n2.1  Objective-C介绍\t16\n2.2  第一个iPhone程序\t16\n2.3  Objective-C基本类型\t17\n2.3.1  id\t17\n2.3.2  SEL\t17\n2.3.3  BOOL\t18\n2.3.4  nil、NULL和NSNull\t18\n2.4  常量声明和预处理宏\t20\n2.5  使用#import包含头文件\t22\n2.6  使用#pragma mark分隔代码块\t22\n2.7  Objective-C内存管理：retain和release\t22\n2.8  字符串操作\t26\n2.8.1  字符串常量\t26\n2.8.2  获取子字符串\t27\n2.8.3  合并和格式化字符串\t28\n2.8.4  分隔字符串\t28\n2.8.5  NSString和char*之间的转换\t29\n2.8.6  字符串比较\t29\n2.9  处理数值对象\t30\n2.10  处理日期时间NSDate\t31\n2.11  处理NSData类型\t32\n2.12  集合操作\t32\n2.12.1  数组操作：NSArray和NSMutableArray\t32\n2.12.2  字典操作：NSDictionary和NSMutableDictionary\t42\n2.12.3  集合操作：NSSet和NSMutableSet\t47\n2.12.4  堆栈操作\t49\n2.13  面向对象编程：类、实例和消息\t50\n2.13.1  类定义\t50\n2.13.2  类构造和构析函数\t51\n2.13.3  Singleton模式\t53\n2.13.4  @class、@protocol前向声明\t53\n2.13.5  self和super\t54\n2.13.6  实例方法和类方法\t54\n2.13.7  对象属性（@property）\t55\n2.13.8  静态属性（static attributes）\t58\n2.14  类扩展（Class Categories）\t59\n2.15  Objective-C接口编程\t60\n2.15.1  接口编程之@protocol\t60\n2.15.2  接口编程之后台线程\t63\n2.15.3  接口编程之Notifications\t65\n2.15.4  接口编程之NSOperationQueue\t68\n2.15.5  接口编程之私有方法\t69\n2.15.6  接口编程之静态库隐藏类\t70\n2.15.7  接口编程之@protocol封装类\t72\n2.15.8  接口稳定性和接口继承\t73\n2.16  定时器（NSTimer）编程\t77\n2.17  序列化和反序列化\t78\n2.17.1  序列化方法之Property List\t78\n2.17.2  序列化方法之NSKeyedArchiver\t78\n2.17.3  序列化方法之Core Data\t79\n2.18  Objective-C和C、C++混合编程\t80\n2.19  消息和NSInvocation\t87\n2.20  方法混合（Method Swizzling）\t90\n2.21  使用NSAssert进行代码调试\t93\n2.22  本章总结\t93\n2.23  参考书籍\t93\n第3章  iPhone SDK开发基础\t95\n3.1  iPhone SDK介绍\t96\n3.2  第一个iPhone 界面程序\t99\n3.3  iPhone程序启动过程\t105\n3.4  iPhone程序生命周期\t107\n3.5  掌握iPhone程序通信中心UIApplication和UIApplicationDelegate\t110\n3.6  iPhone坐标系统\t111\n3.7  UIView层次管理\t116\n3.8  触控（Touch）测试\t120\n3.9  多点触控（MultiTouch）和物体移动\t122\n3.10  UIView旋转和缩放\t125\n3.11  UIScrollView编程\t127\n3.12  iPhone程序框架\t129\n3.12.1  使用UINavigationController组织和管理UIView\t130\n3.12.2  使用UITabBarController组织和管理UIView\t130\n3.12.3  使用UISplitViewController组织和管理UIView\t133\n3.13  旋转屏幕（Screen Rotations）\t135\n3.14  掌握UIButton编程\t138\n3.15  管理界面字体\t139\n3.16  使用UILabel管理界面文本\t141\n3.17  管理界面颜色\t143\n3.18  界面风格（TRANSITIONING STYLES）\t148\n3.19  单词排序表格编程\t149\n3.20  NSUserDefaults和Property List文件\t150\n3.21  文件系统和外部资源管理\t152\n3.22  简单动画制作\t155\n3.23  闪屏制作——程序启动动画\t157\n3.24  多行文本输入控件制作\t159\n3.25  图片处理\t162\n3.26  Core Audio编程\t163\n3.27  UITableView编程\t165\n3.28  UISegmentedControl编程\t167\n3.29  OpenFlow编程\t169\n3.30  UIPageControl编程\t172\n3.31  自定义仪表控件\t175\n3.32  本章总结\t180\n第4章  iPhone SDK高级编程\t181\n4.1  Base64编解码\t182\n4.2  Web Service和XML数据解析\t183\n4.3  JSON数据解析\t184\n4.4  掌握SQLite管理用户数据\t187\n4.5  缓存（Caching）及Core Data数据管理\t191\n4.6  使用AES算法进行数据加解密\t207\n4.7  电子商务安全基础——RSA算法和数据加密\t210\n4.7.1  开发.NET版本RSA算法库\t210\n4.7.2  建立iPhone版本RSA算法库\t217\n4.8  自定义用户界面控件制作\t220\n4.8.1  ComboBox控件和UIPikerView设计\t220\n4.8.2  自定义UIDatePicker制作\t224\n4.9  UIWebView和JavaScript高级编程\t229\n4.10  本章总结\t236\n第5章  iPhone企业应用实例分析\t237\n5.1  综合应用概述\t238\n5.2  系统介绍\t238\n5.3  系统需求和主要用例\t239\n5.4  程序处理流程\t241\n5.5  主要实现类和相互关系\t242\n5.6  程序框架分析\t244\n5.7  技术要点分析\t249\n5.7.1  异步网络通信\t249\n5.7.2  Core Data缓存数据\t252\n5.7.3  RSA算法加解密\t258\n5.7.4  自定义控件制作\t258\n5.7.5  表格控件定制\t260\n5.7.6  自定义UIToolbar\t266\n5.7.7  目录浏览器制作\t268\n5.7.8  文件上传和下载\t273\n5.8  本章总结\t277\n第6章  iPad软件开发基础\t279\n6.1  iPad软件开发介绍\t280\n6.2  UISplitViewController编程\t280\n6.3  UIPopoverController编程\t287\n6.4  定制MPMoviePlayerController进行视频播放\t290\n6.5  开发调色板（Palette）控件\t294\n6.6  发送邮件\t296\n6.7  Google地图编程\t297\n6.8  本章总结\t314\n第7章  iPad商业软件实例分析\t317\n7.1  综合应用概述\t318\n7.2  系统介绍\t318\n7.3  系统需求和主要用例\t319\n7.4  程序处理流程\t321\n7.5  主要实现类和相互关系\t321\n7.6  程序框架\t323\n7.7  技术要点分析\t335\n7.7.1  图片分页和滚动显示\t335\n7.7.2  动态管理多国语言界面\t340\n7.7.3  播放网络视频\t341\n7.8  本章总结\t344\n第8章  iOS游戏开发基础\t345\n8.1  概述\t346\n8.2  cocos2d系统介绍\t346\n8.3  cocos2d编程基础\t349\n8.3.1  第一个cocos2d程序\t349\n8.3.2  基本动画\t353\n8.4  Box2D物理引擎\t356\n8.4.1  核心概念\t356\n8.4.2  碰撞检测\t357\n8.5  Chipmuck物理引擎\t361\n8.5.1  重要概念\t361\n8.5.2  物理模拟和碰撞检测\t363\n8.6  粒子系统\t365\n8.6.1  轨道卫星（Orbit Satellite）\t366\n8.6.2  太空陨石（Space Rocks）\t367\n8.7  本章总结\t369\n第9章  iOS商业游戏实例分析\t371\n9.1  概述\t372\n9.2  闪回（Flash Back）\t372\n9.3  法术的释放（Ghost Castle）\t376\n9.3.1  GhostCastle中的Tile Map管理\t378\n9.3.2  cocos2d中的Tile Map管理\t381\n9.4  甜蜜的梦（Sweet Dreams）\t384\n9.5  毁灭之战（RavagedByWar）\t391\n9.5.1  A*算法\t392\n9.5.2  毁灭之战中的A*算法实现\t397\n9.6  吹吹鱼（PuffPuff）\t399\n9.7  本章总结\t403\n第10章  iPhone软件发布\t405\n10.1  App Store概述\t406\n10.2  iPhone软件发布步骤\t406\n10.3  ipa安装包制作\t410\n10.4  iOS配置文件和Settings系统编程\t411\n10.5  本章总结\t415\n附录\t417",
+      "pages": "440",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s6477176.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s6477176.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s6477176.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6392055\/",
+      "id": "6392055",
+      "publisher": "电子工业出版社",
+      "isbn10": "7121133024",
+      "isbn13": "9787121133022",
+      "title": "iOS软件开发揭密",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6392055",
+      "alt_title": "",
+      "author_intro": "虞斌：高级系统架构师，IT高级顾问，软件开发专家，有着极为丰富的工程项目背景，技术领域涵盖了从芯片设计，微控制器\/嵌入式系统设计和开发，手机\/移动设备，到网络安全设备,高性能网站和大型企业应用的系统架构设计和开发。专业架构设计技术顾问，项目管理和软件质量保证专家,主要研究实时系统（RTOS），手机软件和信息安全相关领域,并提供相关产品和解决方案，是集软硬件专业技术和现代企业管理于一身的优秀复合型人才。作为Scrum敏捷过程管理高级顾问，精益软件开发和软件架构培训讲师，独立设计并开发了( ClearWorks )精益研发平台，帮助企业改进他们的软件开发方式，并提供敏捷过程管理培训和咨询服务。在经过多年的技术积累后,创建了四川赛文纳克软件有限公司(www.sevenuc.com)， 提供 iPhone,Android,Symbain等移动平台的游戏和手机软件外包,以及微电子系统，嵌入式系统,高性能电子商务网站和大型企业应用系统的技术架构咨询,方案设计以及开发服务。",
+      "summary": "本书以严密的体系性提供了iPhone和iPad软件开发从入门到专家的系统性知识，并提供来源于真实项目的可重用商业代码。书中的每个实例都是项目经验的提炼，深入浅出地讲解iPhone和iPad软件开发的核心技术要点，基本涵盖了iOS软件开发在真实商业项目中所需要的所有主题，并将实例介绍的技术深度和超值的实用性结合在一起，成为本书的特色。\n随书附赠的光盘中包含了书中大量案例的完整工程源代码，可以让读者参考学习。\n本书既可以作为大学教材、企业培训教材，亦可作为苹果技术专业参考书籍，适合大学师生、企业管理人员、开发人员、培训机构教师和学员、IT业界人士等参考和阅读。",
+      "price": "79.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 99,
+        "average": "9.2",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美] Christian Keur",
+        "[美] Aaron Hillegass",
+        "[美] Joe Conway"
+      ],
+      "pubdate": "2015-1-1",
+      "tags": [
+        {
+          "count": 127,
+          "name": "iOS编程",
+          "title": "iOS编程"
+        },
+        {
+          "count": 89,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 43,
+          "name": "iPhone开发",
+          "title": "iPhone开发"
+        },
+        {
+          "count": 28,
+          "name": "Objective-C",
+          "title": "Objective-C"
+        },
+        {
+          "count": 26,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 22,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 20,
+          "name": "移动开发",
+          "title": "移动开发"
+        },
+        {
+          "count": 18,
+          "name": "计算机",
+          "title": "计算机"
+        }
+      ],
+      "origin_title": "iOS Progarmming, 4th Edition",
+      "image": "https://img3.doubanio.com\/mpic\/s27970290.jpg",
+      "binding": "平装",
+      "translator": [
+        "丁道骏",
+        "张召",
+        "吴春燕"
+      ],
+      "catalog": "前言 xiii\n本书适合哪些读者 xiii\n第4版有哪些更新 xiii\n教学理念 xiv\n如何使用本书 xv\n本书是如何组织的 xv\n代码风格 xvii\n版式说明 xvii\n开发所需的硬件与软件 xviii\n第1章  第一个简单的iOS应用 1\n1.1  创建Xcode项目 2\n1.2  模型-视图-控制器 4\n1.3  设计Quiz 5\n1.4  创建视图控制器 6\n1.5  创建界面 8\n1.6  创建关联 14\n1.7  创建模型对象 18\n1.8  大功告成 21\n1.7  在模拟器上运行应用 22\n1.9  安装应用 23\n1.9  应用图标 25\n1.10  启动图片 27\n第2章  Objective-C 29\n2.1  对象 29\n2.2  使用对象 30\n2.3  编写命令行工具RandomItems 33\n2.4  创建Objective-C类的子类 38\n2.5  深入学习NSArray与NSMutableArray 58\n2.6  异常与未知选择器 60\n2.7  练习 62\n2.8  初级练习：查找问题 62\n2.9  中级练习：另一个初始化方法 62\n2.10  高级练习：另一个类 63\n2.11  关于深入学习部分 63\n2.12  深入学习：如何为类命名 63\n2.13  深入学习：#import和@import 64\n第3章  通过ARC管理内存 65\n3.1  栈 65\n3.2  堆 66\n3.3  指针变量与对象所有权 66\n3.4  强引用与弱引用 70\n3.5  属性 75\n3.6  深入学习：属性合成 81\n3.7  深入学习：Autorelease池与ARC历史 83\n第4章  视图与视图层次结构 85\n4.1  视图基础 86\n4.2  视图层次结构 86\n4.3  创建UIView子类 88\n4.4  在drawRect:方法中自定义绘图 94\n4.5  关于开发者文档 105\n4.6  初级练习：绘制图像 106\n4.7  深入学习：Core Graphics 106\n4.8  高级练习：阴影和渐变 108\n第5章  视图：重绘与UIScrollView 111\n5.1  运行循环和重绘视图 112\n5.2  类扩展 114\n5.3  使用UIScrollView 115\n第6章  视图控制器 119\n6.1  创建UIViewController子类 120\n6.2  另一个视图控制器 123\n6.3  UITabBarController 130\n6.4  视图控制器的初始化方法 134\n6.5  添加本地通知 135\n6.6  加载和显示视图 136\n6.7  与视图控制器及其视图进行交互 138\n6.8  初级练习：增加一个标签项 139\n6.9  中级练习：控制逻辑 139\n6.10  深入学习：键值编码 139\n6.11  深入学习：Retina显示屏 140\n第7章  委托与文本输入 143\n7.1  文本框（UITextField） 143\n7.2  委托 146\n7.3  协议 148\n7.4  向屏幕中添加UILabel对象 150\n7.5  运动效果 152\n7.6  使用调试器 153\n7.7  深入学习：main()与UIApplication 157\n7.8  中级练习：捏合-缩放 157\n第8章  UITableView与UITableViewController 159\n8.1  编写Homepwner应用 159\n8.2  UITableViewController 160\n8.3  UITableView数据源 164\n8.4  UITableViewCell对象 170\n8.5  代码片段库 175\n8.6  初级练习：表格段 178\n8.7  中级练习：固定行 178\n8.8  高级练习：修改UITableView对象的外观 178\n第9章  编辑UITableView 179\n9.1  编辑模式 179\n9.2  增加行 185\n9.3  删除行 187\n9.4  移动行 188\n9.5  初级练习：更改“删除”按钮的标题 190\n9.6  中级练习：禁止移动某个表格行 190\n9.7  高级练习：彻底禁止移动某个表格行 190\n第10章  UINavigationController 191\n10.1  UINavigationController对象 192\n10.2  额外的视图控制器 196\n10.3  UINavigationController的导航功能 201\n10.4  UINavigationBar 205\n10.5  初级练习：显示数字键盘 210\n10.6  中级练习：关闭数字键盘 210\n10.7  高级练习：压入更多视图控制器 210\n第11章  相机 211\n11.1  通过UIImageView对象显示照片 212\n11.2  通过UIImagePickerController拍摄照片 216\n11.3  创建BNRImageStore 220\n11.4  NSDictionary 222\n11.5  创建并使用键 225\n11.6  使用BNRImageStore 227\n11.7  关闭键盘 228\n11.8  初级练习：编辑照片 230\n11.9  中级练习：删除照片 230\n11.10  高级练习：Camera Overlay 230\n11.11  深入学习：导航实现文件 230\n11.12  深入学习：摄像 233\n第12章  触摸事件与UIResponder 235\n12.1  触摸事件 235\n12.2  创建TouchTracker应用 237\n12.3  实现BNRDrawView，完成绘图功能 239\n12.4  处理触摸事件并创建线条对象 240\n12.5  初级练习：保存与读取 245\n12.6  中级练习：颜色 245\n12.7  高级练习：圆圈 246\n12.8  深入学习：响应对象链 246\n12.9  深入学习：UIControl 247\n第13章  UIGestureRecognizer与UIMenuController 249\n13.1  UIGestureRecognizer子类 250\n13.2  用UITapGestureRecognizer对象识别“按下”手势 250\n13.3  同时添加多种触摸手势 252\n13.4  UIMenuController 254\n13.5  UILongPressGestureRecognizer 256\n13.6  UIPanGestureRecognizer以及同时识别多个手势 257\n13.7  深入学习：UIMenuController与UIResponderStandardEditActions 260\n13.8  深入学习：再谈UIGestureRecognizer 261\n13.9  中级练习：修正错误 262\n13.10  高级练习：速度与宽度 262\n13.11  高级练习：颜色 262\n第14章  调试工具 263\n14.1  仪表 263\n14.2  Instruments 265\n14.3  静态分析器 275\n14.4  项目、目标和构建设置 277\n第15章  自动布局入门 283\n15.1  通用化Homepwner 283\n15.2  自动布局系统 285\n15.3  在Interface Builder中添加约束 289\n15.4  调试约束问题 298\n15.5  初级练习：打造完美界面 306\n15.6  中级练习：通用化Quiz 307\n15.7  深入学习：使用_autolayoutTrace方法调试约束问题 307\n15.8  深入学习：使用多个XIB文件 308\n第16章  在代码中使用自动布局 309\n16.1  视觉化格式语言 310\n16.2  创建约束 311\n16.3  添加约束 312\n16.4  固有内容大小 315\n16.5  另一种添加方式 316\n16.6  深入学习：NSAutoresizingMaskLayoutConstraint 318\n第17章  自动转屏，UIPopoverController与模态视图控制器 321\n17.1  自动转屏 321\n17.2  自动转屏通告机制 324\n17.3  UIPopoverController 326\n17.4  更多的模态视图控制器 329\n17.5  线程安全的单例 337\n17.6  初级练习：为另一个类添加线程安全的单例 339\n17.7  高级练习：UIPopoverController对象的外观 339\n17.8  深入学习：位掩码 339\n17.9  深入学习：视图控制器之间的关系 340\n第18章  保存、读取与应用状态 345\n18.1  固化 345\n18.2  应用沙盒 348\n18.3  NSKeyedArchiver与NSKeyedUnarchiver 350\n18.4  应用状态与状态切换 353\n18.5  通过NSData将数据写入文件 356\n18.6  NSNotificationCenter和内存过低警告 358\n18.7  模型-视图-控制器-存储设计模式 361\n18.8  初级练习：PNG 361\n18.9  深入学习：应用的状态切换 362\n18.10  深入学习：文件系统的读取和写入 363\n18.11  深入学习：应用程序包 366\n第19章  创建UITableViewCell子类 369\n19.1  创建BNRItemCell 369\n19.2  处理图片 377\n19.3  由UITableViewCell对象转发动作消息 380\n19.4  捕获变量 385\n19.5  初级练习：设置颜色 386\n19.6  高级练习：缩放 387\n19.7  深入练习：UICollectionView 387\n第20章  动态字体 389\n20.1  使用用户首选字体 390\n20.2  响应用户首选字体的改变 392\n20.3  修改自动布局约束 393\n20.4  确定用户首选字体大小 395\n20.5  修改BNRItemCell 397\n第21章  Web服务与UIWebView 403\n21.1  Web服务 404\n21.2  UIWebView 414\n21.3  认证信息 416\n25.4  中级练习：加强UIWebView 418\n21.5  高级练习：课程预告 418\n21.6  深入学习：HTTP请求主体 419\n第23章  Core Data 431\n23.1  对象-关系映射 431\n23.2  用Core Data重写BNRItemStore的数据保存功能 432\n23.3  再谈SQL 450\n23.4  Faults 451\n23.5  各种存取机制的优缺点 453\n23.6  初级练习：Asset的iPad界面 454\n23.7  中级练习：增加BNRAssetType对象 454\n23.8  高级练习：显示某种类型的BNRItem对象 454\n第24章  状态恢复 455\n24.1  状态恢复的工作原理 455\n24.2  启用状态恢复 456\n24.3  恢复标识和恢复类 457\n24.4  状态恢复与应用生命周期 459\n24.5  恢复视图控制器 461\n24.6  编码状态数据 464\n24.7  保存视图状态 465\n24.8  中级练习：为另一个应用启用状态恢复 467\n24.9  深入学习：设置快照 467\n第25章  本地化 469\n25.1  通过NSNumberFormatter实施国际化 470\n25.2  资源的本地化 473\n25.3  NSLocalizedString()与字符串对照表 477\n25.4  初级练习：再添加一套本地化资源 480\n25.5  深入学习：NSBundle在国际化过程中的作用 480\n25.6  深入学习：不通过基础国际化对XIB文件实施本地化 481\n第26章  NSUserDefaults 483\n26.1  NSUserDefaults 483\n26.2  设置束 487\n第27章  控制动画 491\n27.1  基础动画 491\n27.2  关键帧动画 494\n27.3  在动画完成后执行特定的代码 496\n27.4  弹簧动画 497\n27.5  中级练习：提升Quiz的用户体验 498\n第28章  UIStoryboard 499\n28.1  创建Storyboard文件 499\n28.2  Storyboard文件中的UITableViewController 503\n28.3  Segue 506\n28.4  改变颜色 512\n28.5  传递数据 513\n28.6  Storyboards的优缺点 520\n28.7  深入学习：状态恢复 521\n第29章  后记 523\n29.1  接下来做什么 523\n29.2  结束语 524\n第22章  UISplitViewController 421\n22.1  在Nerdfeed中使用UISplitViewController 422\n22.2  在竖排模式下显示主视图控制器 425\n22.3  将Nerdfeed改为通用应用 428\n索引 525",
+      "pages": "560",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s27970290.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s27970290.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s27970290.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/26287812\/",
+      "id": "26287812",
+      "publisher": "华中科技大学出版社",
+      "isbn10": "7560997902",
+      "isbn13": "9787560997902",
+      "title": "iOS编程（第4版）",
+      "url": "http:\/\/api.douban.com\/v2\/book\/26287812",
+      "alt_title": "iOS Progarmming, 4th Edition",
+      "author_intro": "Christian Keur是Big Nerd Ranch的高级讲师和软件工程师，负责编写Big Nerd Ranch的“iOS新手培训课程”教材。该教材广受好评，是本书的原型。Christian毕业于美国佐治亚理工学院计算机科学系，目前居住在亚特兰大。\nAaron Hillegass是Big Nerd Ranch的创始人之一，曾就职于NeXT公司和Apple公司，他拥有近20年的Objective-C、Cocoa、iOS开发与教学经验。Aaron与他人合著了《Mac OS X编程》和《Objectibe-C编程》。\nJoe Conway曾参与编写了“iOS新手培训课程”教材。他最近创办了stable\/kernel 公司，开发高质量的移动应用。",
+      "summary": "《iOS编程》荣获Jolt生产力大奖。第4版更新了iOS7和Xcode5的内容。全书涵盖了开发iOS应用的方方面面。从Objective-C基础知识到新增加的语言特性；从AppKit库到常见的Cocoa设计模式；从Xcode技巧到Instruments等。如果读者刚 接触iOS编程，阅读本书前两章可以快速入门。如果读者已经有iOS编程经验，阅读本书可以拾遗补缺。",
+      "series": {
+        "id": "13846",
+        "title": "The Big Nerd Ranch Guide"
+      },
+      "price": "99.90"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 56,
+        "average": "8.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "芈峮"
+      ],
+      "pubdate": "2014-4-25",
+      "tags": [
+        {
+          "count": 108,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 77,
+          "name": "测试",
+          "title": "测试"
+        },
+        {
+          "count": 31,
+          "name": "软件测试",
+          "title": "软件测试"
+        },
+        {
+          "count": 21,
+          "name": "IOS测试之父",
+          "title": "IOS测试之父"
+        },
+        {
+          "count": 6,
+          "name": "软件工程",
+          "title": "软件工程"
+        },
+        {
+          "count": 6,
+          "name": "呵呵",
+          "title": "呵呵"
+        },
+        {
+          "count": 6,
+          "name": "iOS测试之父",
+          "title": "iOS测试之父"
+        },
+        {
+          "count": 5,
+          "name": "科幻",
+          "title": "科幻"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s27255167.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "第1章 软件测试与iOS测试\n1.1 什么是软件测试\n1.1.1 测试活动何时展开\n1.1.2 软件测试与软件缺陷\n1.1.3 软件测试与软件质量\n1.2 软件测试的类型\n1.2.1 单元测试\n1.2.2 集成测试\n1.2.3 系统测试\n1.3 iOS平台的一些性\n1.4 iOS测试需要做么\n第2章 iOS环境准备\n2.1 开发测试设备\n2.2 安装和设置Xcode\n2.3 iOS开发者书\n2.4 知识的准备\n第3章 iOS单元测试\n3.1 单元测试工具\n3.1.1 OCUnit\n3.1.2 GHUnit\n3.1.3 GTM\n3.2 单元测试实践\n3.2.1 实践项目介绍\n3.2.2 Model的单元测试\n3.2.3 Controller和View的单元测试\n3.3 单元测试的扩展工具\n3.3.1 OCHamcrest\n3.3.2 OCMockito\n￼第4章 iOS的UI自动化测试\n4.1 UI Automation的运行\n4.2 Instruments工具的简要介绍\n4.3 UI Automation入门\n4.3.1 UI Automation脚本开发之前\n4.3.2 UI Automation脚本编辑\n4.3.3 UI Automation实践\n4.3.4 UI Automation脚本的录制\n4.3.5 UI Automation在真实设备上的运行\n4.4 深入了解UI Automation API\n4.4.1 Logger日志输出\n4.4.2 Element和ElementArray\n4.4.3 手势动作的模拟\n4.4.4 延时处理\n4.4.5 Target对象的一些系统级别的操作\n4.5 测试用例的组织\n4.6 第三方测试工具介绍\n4.6.1 TuneupJs的使用\n4.6.2 ynm3k的使用\n第5章 iOS Web应用程序的自动化测试\n5.1 使用Selenium进行iOS Web自动化测试\n5.1.1 WebDriver原理结构\n5.1.2 iPhoneDriver实践\n5.1.3 iPhoneDriver的缺陷\n5.2 使用Appium进行iOS Web自动化测试\n5.2.1 Appium初窥\n5.2.2 Appium实践\n5.3 Appium常用方法介绍\n5.3.1 Appium控件定位方法\n5.3.2 Appium控件操作方法\n￼第6章 iOS的持续集成\n6.1 持续集成工具\n6.1.1 Jenkins和Hudson\n6.1.2 Jenkins的安装和使用\n6.1.3 Jenkins相关插件介绍\n6.2 iOS持续集成实践\n6.2.1 iOS Web自动化测试的持续集成\n6.2.2 iOS UI自动化测试的持续集成\n6.2.3 iOS单元测试的持续集成\n第7章 iOS测试策略及测试方法\n7.1 iOS测试策略\n7.2 兼容性测试\n7.3 网络流量测试\n7.4 升级测试\n7.5 性能测试\n7.6 稳定性测试\n第8章 iOS测试框架实践\n8.1 iOS测试框架总览\n8.2 UI Automation扩展工具实践\n8.3 UI Automation驱动测试框架介绍\n8.3.1 UI Automation驱动类测试框架介绍\n8.3.2 Appium测试实践\n8.4 非UI Automation测试框架实践\n8.5 BDD测试框架介绍\n8.5.1 Frank测试实践\n8.5.2 再谈BDD\n8.6 自动化测试框架剖析\n￼第9章 Xcode 5测试的新特性\n9.1 Xcode 5中的单元测试\n9.1.1 XCTest测试框架\n9.1.2 便捷的单元测试管理\n9.1.3 XCTest Refactoring Tool\n9.1.4 新版本的命令和持续集成\n9.2 iOS持续集成工具OS X Server\n9.2.1 安装配置OS X Server\n9.2.2 Web端的Bots设置和持续集成\n9.2.3 Xcode 5和OS X Server的双剑合璧",
+      "pages": "220",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s27255167.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s27255167.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s27255167.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/25861674\/",
+      "id": "25861674",
+      "publisher": "电子工业出版社",
+      "isbn10": "7121227584",
+      "isbn13": "9787121227585",
+      "title": "iOS测试指南",
+      "url": "http:\/\/api.douban.com\/v2\/book\/25861674",
+      "alt_title": "",
+      "author_intro": "芈峮，发音（mi jun），但是输入法需要输入（mi qun）。具体为什么我不想太较真了，害怕最后发现自己把自己的名字读错30年的尴尬。也可以叫我老芈，或者厚脸皮（豆瓣的ID）等。不管名字叫什么或者昵称是什么，我就是我，一个想混进程序员队伍未果的非主流测试工程师。\n业界人称中国iOS测试之父。",
+      "summary": "《iOS 测试指南》是一本专注于 iOS 测试领域的书。其中重点讲述了各个测试阶段 的具体实践方法,并且通过持续集成串联了各个测试阶段的活动。本书中所有的测试 实践并非纸上谈兵,而是出自于笔者实际工作中的探索和实践。在测试实例上有一定 的简化,是为了脱离复杂的业务。本书的重点在于对方法的介绍。\n以下几个方面的读者可能会受益:有一定技术功底的测试工程师;有一定经验的 移动测试工程师;iOS 开发工程师;测试技术爱好者。",
+      "price": "55.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 88,
+        "average": "9.3",
+        "min": 0
+      },
+      "subtitle": "User Experience",
+      "author": [
+        "Apple"
+      ],
+      "pubdate": "",
+      "tags": [
+        {
+          "count": 75,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 46,
+          "name": "交互设计",
+          "title": "交互设计"
+        },
+        {
+          "count": 41,
+          "name": "设计",
+          "title": "设计"
+        },
+        {
+          "count": 27,
+          "name": "人机界面",
+          "title": "人机界面"
+        },
+        {
+          "count": 24,
+          "name": "苹果",
+          "title": "苹果"
+        },
+        {
+          "count": 20,
+          "name": "interface",
+          "title": "interface"
+        },
+        {
+          "count": 19,
+          "name": "产品设计",
+          "title": "产品设计"
+        },
+        {
+          "count": 17,
+          "name": "指导手册",
+          "title": "指导手册"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s27290288.jpg",
+      "binding": "e-book",
+      "translator": [],
+      "catalog": "",
+      "pages": "165",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s27290288.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s27290288.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s27290288.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/10465946\/",
+      "id": "10465946",
+      "publisher": "",
+      "isbn10": "7106123455",
+      "isbn13": "9787106123451",
+      "title": "iOS Human Interface Guidelines",
+      "url": "http:\/\/api.douban.com\/v2\/book\/10465946",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "http:\/\/developer.apple.com\/library\/ios\/#documentation\/UserExperience\/Conceptual\/MobileHIG\/Introduction\/Introduction.html",
+      "price": "free"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 36,
+        "average": "7.4",
+        "min": 0
+      },
+      "subtitle": "从零基础到App Store上架",
+      "author": [
+        "关东升"
+      ],
+      "pubdate": "2013-8-1",
+      "tags": [
+        {
+          "count": 92,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 35,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 27,
+          "name": "Objective-C",
+          "title": "Objective-C"
+        },
+        {
+          "count": 22,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 10,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 7,
+          "name": "Cocoa",
+          "title": "Cocoa"
+        },
+        {
+          "count": 7,
+          "name": "技术",
+          "title": "技术"
+        },
+        {
+          "count": 3,
+          "name": "移动开发",
+          "title": "移动开发"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s27255846.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "目　录\n\n第一部分　基础篇\n第1章　开篇综述　　2\n1.1 　iOS概述　　2\n1.1.1 　iOS介绍　　2\n1.1.2 　iOS 6新特性　　2\n1.2 　开发环境及开发工具　　3\n1.3 　本书中的约定　　4\n1.3.1 　案例代码约定　　4\n1.3.2 　图示的约定　　5\n第2章　第一个iOS应用程序　　7\n2.1 　创建基于nib的HelloWorld工程　　7\n2.1.1 　创建工程　　7\n2.1.2 　Xcode中的iOS工程模板　　10\n2.1.3 　应用剖析　　11\n2.2 　基于故事板的HelloWorld工程　　13\n2.2.1 　使用故事板重构HelloWorld　　14\n2.2.2 　nib、xib与故事板　　15\n2.2.3 　故事板中的Scene和Segue　　16\n2.3 　应用生命周期　　17\n2.3.1 　非运行状态——应用启动场景　　18\n2.3.2 　点击Home键——应用退出场景　　19\n2.3.3 　挂起重新运行场景　　20\n2.3.4 　内存清除——应用终止场景　　21\n2.4 　视图生命周期　　21\n2.4.1 　视图生命周期与视图控制器关系　　22\n2.4.2 　iOS 6 UI状态保持和恢复　　23\n2.5 　设置产品属性　　25\n2.5.1 　Xcode中的Project和Target　　25\n2.5.2 　设置常用的产品属性　　27\n2.6 　iOS API简介　　29\n2.6.1 　API概述　　29\n2.6.2 　如何使用API帮助　　31\n2.7 　小结　　33\n第3章　iOS常用设计模式　　34\n3.1 　单例模式　　34\n3.1.1 　问题提出　　34\n3.1.2 　实现原理　　34\n3.1.3 　应用案例　　35\n3.2 　委托模式　　37\n3.2.1 　问题提出　　37\n3.2.2 　实现原理　　39\n3.2.3 　应用案例　　41\n3.3 　观察者模式　　44\n3.3.1 　问题提出　　44\n3.3.2 　实现原理　　45\n3.3.3 　通知机制和KVO机制　　47\n3.4 　MVC模式　　53\n3.4.1 　MVC模式概述　　53\n3.4.2 　Cocoa Touch中的MVC模式　　54\n3.5 　小结　　56\n第4章　UIView与控件　　57\n4.1 　视图“始祖”——UIView　　57\n4.1.1 　UIView“家族”　　57\n4.1.2 　应用界面的构建层次　　59\n4.1.3 　视图分类　　60\n4.2 　标签控件和按钮控件　　60\n4.2.1 　标签控件　　61\n4.2.2 　按钮控件　　61\n4.2.3 　动作和输出口　　63\n4.3 　TextField控件和TextView控件　　66\n4.3.1 　TextField控件　　66\n4.3.2 　TextView控件　　67\n4.3.3 　键盘的打开和关闭　　67\n4.3.4 　关闭和打开键盘的通知　　68\n4.3.5 　键盘的种类　　69\n4.4 　开关控件、滑块控件和分段控件　　70\n4.4.1 　开关控件　　71\n4.4.2 　滑块控件　　71\n4.4.3 　分段控件　　71\n4.5 　网页控件WebView　　72\n4.5.1 　WebView介绍　　72\n4.5.2 　使用WebView构建Hybrid应用　　75\n4.6 　屏幕滚动控件ScrollView　　80\n4.6.1 　ScrollView属性的设置　　80\n4.6.2 　键盘与其他控件的协同　　84\n4.7 　等待相关的控件与进度条　　86\n4.7.1 　活动指示器ActivityIndicatorView　　87\n4.7.2 　进度条ProgressView　　88\n4.8 　警告框和操作表　　88\n4.8.1 　警告框AlertView　　89\n4.8.2 　操作表ActionSheet　　90\n4.9 　工具栏和导航栏　　92\n4.9.1 　工具栏　　92\n4.9.2 　导航栏　　94\n4.10 　屏幕布局　　98\n4.10.1 　iPad与iPhone屏幕布局　　98\n4.10.2 　绝对布局和相对布局　　99\n4.10.3 　使用AutoLayout布局　　102\n4.10.4 　旋转你的屏幕　　103\n4.11 　选择器　　108\n4.11.1 　日期选择器　　108\n4.11.2 　普通选择器　　110\n4.11.3 　数据源协议与委托协议　　112\n4.12 　iOS 6中的集合视图　　113\n4.12.1 　集合视图介绍　　114\n4.12.2 　集合视图单元格　　116\n4.12.3 　数据源协议与委托协议　　118\n4.13 　小结　　119\n第5章　表视图　　120\n5.1 　概述　　120\n5.1.1 　表视图的组成　　120\n5.1.2 　表视图的相关类　　121\n5.1.3 　表视图分类　　122\n5.1.4 　单元格的组成和样式　　123\n5.1.5 　数据源协议与委托协议　　124\n5.2 　简单表视图　　125\n5.2.1 　创建简单表视图　　125\n5.2.2 　自定义单元格　　129\n5.2.3 　添加搜索栏　　133\n5.3 　分节表视图　　138\n5.3.1 　添加索引　　138\n5.3.2 　分组与静态表　　141\n5.4 　修改单元格　　144\n5.4.1 　删除和插入单元格　　144\n5.4.2 　移动单元格　　150\n5.5 　表视图UI设计模式　　152\n5.5.1 　分页模式　　152\n5.5.2 　下拉刷新模式　　152\n5.5.3 　iOS 6下拉刷新控件　　153\n5.6 　小结　　155\n第6章　视图控制器与导航模式　　156\n6.1 　概述　　156\n6.1.1 　视图控制器的种类　　156\n6.1.2 　导航模式　　156\n6.1.3 　模态视图　　157\n6.2 　平铺导航　　163\n6.2.1 　应用场景　　163\n6.2.2 　基于分屏导航的实现　　165\n6.2.3 　基于分页导航的实现　　168\n6.3 　标签导航　　173\n6.3.1 　应用场景　　174\n6.3.2 　nib实现　　174\n6.3.3 　故事板实现　　179\n6.4 　树形结构导航　　182\n6.4.1 　应用场景　　182\n6.4.2 　nib实现　　183\n6.4.3 　故事板实现　　189\n6.5 　组合使用导航模式　　193\n6.5.1 　应用场景　　193\n6.5.2 　故事板实现　　194\n6.6 　小结　　200\n第7章　iPhone与iPad应用开发的差异　　201\n7.1 　概述　　201\n7.1.1 　应用场景差异　　201\n7.1.2 　设计和开发需注意的问题　　201\n7.1.3 　构建自适应的iPhone和iPad工程　　204\n7.2 　iPad专用API　　206\n7.2.1 　UIPopoverController控制器　　206\n7.2.2 　UISplitViewController控制器　　209\n7.2.3 　模态视图专用属性　　215\n7.3 　Master-Detail应用程序模板　　219\n7.3.1 　nib实现　　220\n7.3.2 　故事板实现　　225\n7.4 　Utility应用程序模板　　228\n7.4.1 　nib实现　　229\n7.4.2 　故事板实现　　232\n7.5 　移动平台的分层架构设计　　234\n7.5.1 　低耦合企业级系统架构设计　　234\n7.5.2 　移动平台的分层架构设计　　235\n7.5.3 　基于同一工程的分层　　235\n7.5.4 　基于一个工作空间不同工程的分层　　241\n7.6 　小结　　244\n第8章　应用程序设置　　245\n8.1 　概述　　245\n8.1.1 　设置　　245\n8.1.2 　配置　　246\n8.2 　应用程序设置包　　247\n8.3 　设置项目种类　　248\n8.3.1 　文本字段　　251\n8.3.2 　开关　　253\n8.3.3 　滑块　　254\n8.3.4 　值列表　　256\n8.3.5 　子界面　　257\n8.4 　读取设置　　259\n8.5 　小结　　260\n第9章　应用程序本地化　　261\n9.1 　概述　　261\n9.1.1 　本地化内容　　261\n9.1.2 　本地化目录结构　　263\n9.2 　文本信息本地化　　263\n9.2.1 　系统按钮和信息本地化　　263\n9.2.2 　应用名称本地化　　265\n9.2.3 　程序代码输出的静态文本本地化　　266\n9.2.4 　使用genstring工具　　268\n9.3 　nib和故事板文件本地化　　268\n9.3.1 　添加本地化　　269\n9.3.2 　开关使用ibtool工具　　270\n9.4 　资源文件本地化　　271\n9.5 　小结　　273\n第10章　数据持久化　　274\n10.1 　概述　　274\n10.1.1 　沙箱目录　　274\n10.1.2 　持久化方式　　275\n10.2 　属性列表　　275\n10.3 　对象归档　　280\n10.4 　使用SQLite数据库　　285\n10.4.1 　SQLite数据类型　　285\n10.4.2 　创建数据库　　285\n10.4.3 　查询数据　　287\n10.4.4 　修改数据　　290\n10.5 　Core Data　　292\n10.5.1 　ORM　　292\n10.5.2 　Core Data堆栈　　293\n10.5.3 　建模和生成实体　　296\n10.5.4 　采用Core Data分层架构设计　　299\n10.5.5 　查询数据　　301\n10.5.6 　修改数据　　302\n10.6 　小结　　304\n第11章　访问通讯录　　305\n11.1 　概述　　305\n11.2 　读取联系人信息　　306\n11.2.1 　查询联系人记录　　307\n11.2.2 　读取单值属性　　309\n11.2.3 　读取多值属性　　311\n11.2.4 　读取图片属性　　313\n11.3 　写入联系人信息　　313\n11.3.1 　创建联系人　　315\n11.3.2 　修改联系人　　317\n11.3.3 　删除联系人　　318\n11.4 　高级API　　319\n11.4.1 　选择联系人　　319\n11.4.2 　显示和修改联系人　　322\n11.4.3 　创建联系人　　324\n11.5 　小结　　328\n第二部分　网络篇\n第12章　访问Web Service　　330\n12.1 　概述　　330\n12.2 　数据交换格式　　330\n12.2.1 　XML文档结构　　332\n12.2.2 　解析XML文档　　333\n12.2.3 　JSON文档结构　　340\n12.2.4 　JSON数据解码　　341\n12.3 　REST Web Service　　343\n12.3.1 　HTTP和HTTPS协议　　343\n12.3.2 　同步GET请求方法　　344\n12.3.3 　异步GET请求方法　　348\n12.3.4 　POST请求方式　　349\n12.3.5 　调用REST Web Service的插入、修改和删除方法　　350\n12.4 　使用ASIHTTPRequest框架　　355\n12.4.1 　安装和配置ASIHTTPRequest框架　　355\n12.4.2 　同步请求　　356\n12.4.3 　异步请求　　358\n12.4.4 　使用请求队列　　359\n12.4.5 　上传数据　　362\n12.5 　反馈网络信息改善用户体验　　364\n12.5.1 　iOS 6表视图刷新控件的使用　　364\n12.5.2 　使用等待指示器控件　　367\n12.5.3 　使用网络等待指示器　　369\n12.6 　小结　　370\n第13章　定位服务与地图应用　　371\n13.1 　定位服务　　371\n13.1.1 　定位服务编程　　371\n13.1.2 　地理信息反编码　　376\n13.1.3 　地理信息编码查询　　377\n13.1.4 　关于定位服务的测试　　379\n13.2 　使用iOS 6苹果地图　　382\n13.2.1 　显示地图　　382\n13.2.2 　添加标注　　384\n13.2.3 　跟踪用户位置变化　　387\n13.3 　使用程序外地图　　388\n13.3.1 　调用iOS 6苹果地图　　388\n13.3.2 　调用谷歌Web地图　　391\n13.4 　小结　　392\n第三部分　进阶篇\n第14章　iOS中的商业模式　　394\n14.1 　收费策略　　394\n14.1.1 　iOS如何赚钱　　394\n14.1.2 　避免定价策略误区　　395\n14.1.3 　免费软件的艺术　　395\n14.1.4 　在适当的时间、适当的地点植入广告　　395\n14.1.5 　尝试不同的盈利模式　　395\n14.2 　使用苹果iAd广告　　396\n14.2.1 　横幅广告　　396\n14.2.2 　插页广告　　401\n14.2.3 　查看你的收入　　406\n14.3 　使用谷歌AdMob广告　　408\n14.3.1 　注册AdMob账号和管理应用　　408\n14.3.2 　下载谷歌AdMob Ads SDK和示例代码　　412\n14.3.3 　添加AdMob横幅广告　　414\n14.3.4 　添加AdMob插页广告　　418\n14.3.5 　为广告提交用户和位置信息　　421\n14.3.6 　搜索广告　　422\n14.3.7 　查看你的收入　　424\n14.4 　应用内购买　　425\n14.4.1 　概述　　425\n14.4.2 　测试环境搭建　　426\n14.4.3 　在程序中实现应用内购买　　431\n14.4.4 　测试应用内购买　　437\n14.5 　小结　　439\n第15章　找出程序中的bug——调试　　440\n15.1 　Xcode调试工具　　440\n15.1.1 　定位编译错误　　440\n15.1.2 　查看和显示日志　　441\n15.1.3 　设置和查看断点　　442\n15.1.4 　调试工具栏　　446\n15.1.5 　输出窗口　　447\n15.1.6 　变量查看窗口　　448\n15.1.7 　查看线程　　449\n15.2 　日志与断言输出　　450\n15.2.1 　使用NSLog函数　　450\n15.2.2 　使用NSAssert宏　　451\n15.2.3 　移除NSLog和NSAssert　　452\n15.3 　LLDB调试工具　　455\n15.3.1 　断点命令　　455\n15.3.2 　观察点命令　　457\n15.3.3 　查看变量和计算表达式命令　　458\n15.4 　异常堆栈报告分析　　461\n15.4.1 　跟踪异常堆栈　　461\n15.4.2 　分析堆栈报告　　463\n15.5 　在iOS设备上调试　　464\n15.5.1 　创建开发者证书　　465\n15.5.2 　设备注册　　468\n15.5.3 　创建App ID　　470\n15.5.4 　创建配置概要文件　　471\n15.5.5 　设备调试　　473\n15.6 　Xcode设备管理工具　　474\n15.6.1 　管理设备配置概要文件　　474\n15.6.2 　查看设备上的应用程序　　475\n15.6.3 　设备控制台　　477\n15.6.4 　设备日志　　477\n15.7 　小结　　479\n第16章　基于测试驱动的iOS开发　　480\n16.1 　测试驱动的软件开发概述　　480\n16.1.1 　测试驱动的软件开发流程　　480\n16.1.2 　测试驱动的软件开发案例　　481\n16.1.3 　iOS单元测试框架　　486\n16.2 　使用OCUnit测试框架　　486\n16.2.1 　添加OCUnit到工程中　　486\n16.2.2 　应用测试和逻辑测试　　489\n16.2.3 　编写OCUnit测试方法　　489\n16.2.4 　分析测试报告　　494\n16.3 　使用GHUnit测试框架　　495\n16.3.1 　添加GHUnit到工程　　496\n16.3.2 　编写GHUnit测试用例　　498\n16.3.3 　分析测试报告　　500\n16.4 　使用伪对象　　502\n16.4.1 　添加OCMock到工程　　503\n16.4.2 　使用OCMock对象　　505\n16.5 　iOS单元测试最佳实践　　507\n16.5.1 　iOS单元测试策略　　507\n16.5.2 　测试数据持久层　　507\n16.5.3 　测试业务逻辑层　　512\n16.5.4 　测试表示层　　515\n16.6 　小结　　522\n第17章　让你的程序“飞”起来——性能优化　　523\n17.1 　内存优化　　523\n17.1.1 　内存泄漏问题的解决　　523\n17.1.2 　查找和解决僵尸对象　　531\n17.1.3 　autorelease的使用问题　　534\n17.1.4 　响应内存警告　　534\n17.1.5 　选择nib还是故事板　　536\n17.2 　优化资源文件　　537\n17.2.1 　图片文件优化　　537\n17.2.2 　音频文件优化　　538\n17.3 　延迟加载　　539\n17.3.1 　资源文件的延迟加载　　540\n17.3.2 　故事板和nib文件的延迟加载　　543\n17.4 　数据持久化的优化　　546\n17.4.1 　使用文件　　546\n17.4.2 　使用SQLite数据库　　549\n17.4.3 　使用Core Data　　550\n17.5 　可重用对象的使用　　552\n17.5.1 　表视图中的可重用对象　　553\n17.5.2 　集合视图中的可重用对象　　554\n17.5.3 　地图视图中的可重用对象　　555\n17.6 　并发处理与多核CPU　　556\n17.6.1 　主线程阻塞问题　　556\n17.6.2 　选择NSThread还是GCD　　557\n17.7 　编译器和编译参数　　558\n17.7.1 　GCC、LLVM GCC与Apple LLVM比较　　558\n17.7.2 　ARM架构　　559\n17.7.3 　Optimization Level　　561\n17.8 　小结　　562\n第18章　管理好你的程序代码——代码版本控制　　563\n18.1 　概述　　563\n18.1.1 　版本控制历史　　563\n18.1.2 　基本概念　　564\n18.2 　Git代码版本控制　　564\n18.2.1 　服务器搭建　　564\n18.2.2 　Gitolite服务器管理　　566\n18.2.3 　Git常用命令　　568\n18.2.4 　Git分支　　570\n18.2.5 　Git协同开发　　574\n18.2.6 　Xcode中Git的配置与使用　　576\n18.3 　GitHub代码托管服务　　583\n18.3.1 　创建和配置GitHub账号　　584\n18.3.2 　创建代码库　　586\n18.3.3 　派生代码库　　589\n18.3.4 　使用GitHub协同开发　　591\n18.3.5 　管理组织　　596\n18.4 　小结　　599\n第19章　把你的应用放到App Store上　　600\n19.1 　收官　　600\n19.1.1 　添加图标　　600\n19.1.2 　添加启动界面　　602\n19.1.3 　调整Application Target属性　　604\n19.1.4 　为发布进行编译　　605\n19.1.5 　应用打包　　609\n19.2 　发布流程　　610\n19.2.1 　创建应用及基本信息　　611\n19.2.2 　应用定价信息　　612\n19.2.3 　最后信息输入　　613\n19.2.4 　上传应用　　616\n19.3 　常见审核不通过的原因　　618\n19.4 　小结　　619\n第四部分　实战篇\n第20章　重构MyNotes应用——iOS网络通信中的设计模式与架构设计　　622\n20.1 　移动网络通信应用的分层架构设计　　622\n20.2 　基于委托模式实现　　623\n20.2.1 　网络通信与委托模式　　623\n20.2.2 　在异步网络通信中使用委托模式实现分层架构设计　　623\n20.2.3 　类图　　624\n20.2.4 　时序图　　626\n20.2.5 　数据持久层的代码实现　　629\n20.2.6 　业务逻辑层的代码实现　　631\n20.2.7 　表示层的代码实现　　632\n20.3 　基于观察者模式的通知机制实现　　637\n20.3.1 　观察者模式的通知机制回顾　　637\n20.3.2 　异步网络通信中通知机制的分层架构设计　　638\n20.3.3 　类图　　638\n20.3.4 　时序图　　639\n20.3.5 　数据持久层的代码实现　　642\n20.3.6 　业务逻辑层的代码实现　　643\n20.3.7 　表示层的代码实现　　644\n20.4 　小结　　649\n第21章　iOS敏捷开发项目实战——2016里约热内卢奥运会应用开发及App Store发布　　650\n21.1 　应用分析与设计　　650\n21.1.1 　应用概述　　650\n21.1.2 　需求分析　　650\n21.1.3 　原型设计　　651\n21.1.4 　数据库设计　　652\n21.1.5 　架构设计　　652\n21.2 　iOS敏捷开发　　653\n21.2.1 　敏捷开发宣言　　653\n21.2.2 　iOS适合敏捷开发？　　654\n21.2.3 　iOS敏捷开发最佳实践　　654\n21.3 　任务1：创建应用基本工作空间　　656\n21.4 　任务2：信息系统层与持久层开发　　657\n21.4.1 　迭代2.1：编写数据库DDL脚本　　657\n21.4.2 　迭代2.2：插入初始数据到数据库　　658\n21.4.3 　迭代2.3：编写实体类　　658\n21.4.4 　迭代2.4：DAO类GHUnit单元测试　　659\n21.4.5 　迭代2.5：编写DAO类　　663\n21.4.6 　迭代2.6：发布到GitHub　　666\n21.5 　任务3：业务逻辑层开发　　667\n21.5.1 　迭代3.1：比赛项目业务逻辑类GHUnit单元测试　　667\n21.5.2 　迭代3.2：编写比赛项目业务逻辑类　　668\n21.5.3 　迭代3.3：比赛日程业务逻辑类GHUnit单元测试　　669\n21.5.4 　迭代3.4：编写比赛日程业务逻辑类　　670\n21.5.5 　迭代3.5：发布到GitHub　　672\n21.6 　任务4：表示层开发　　672\n21.6.1 　迭代4.1：根据原型设计初步设计iPad故事板　　673\n21.6.2 　迭代4.2：根据原型设计初步设计iPhone故事板　　674\n21.6.3 　迭代4.3：首页模块　　674\n21.6.4 　迭代4.4：比赛项目模块　　675\n21.6.5 　迭代4.5：比赛日程模块　　679\n21.6.6 　迭代4.6：倒计时模块表示层　　681\n21.6.7 　迭代4.7：关于我们模块表示层　　683\n21.6.8 　迭代4.8：发布到GitHub　　683\n21.7 　任务5：收工　　684\n21.7.1 　迭代5.1：添加图标　　684\n21.7.2 　迭代5.2：设计和添加启动界面　　684\n21.7.3 　迭代5.3：植入谷歌AdMob横幅广告　　685\n21.7.4 　迭代5.4：性能测试与改善　　686\n21.7.5 　迭代5.5：发布到GitHub　　687\n21.7.6 　迭代5.6：在App Store上发布应用　　687\n21.8 　小结　　690",
+      "pages": "690",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s27255846.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s27255846.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s27255846.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/24846574\/",
+      "id": "24846574",
+      "publisher": "人民邮电出版社",
+      "isbn10": "7115324441",
+      "isbn13": "9787115324443",
+      "title": "iOS开发指南",
+      "url": "http:\/\/api.douban.com\/v2\/book\/24846574",
+      "alt_title": "",
+      "author_intro": "关东升\n国内知名iOS技术作家，iOS技术顾问，高级培训讲师，移动开发专家。精通iOS、Android和Windows Phone及HTML5等移动开发技术。曾先后主持开发大型网络游戏神农诀的iOS和Android客户端开发，国家农产品追溯系统的iPad客户端开发，酒店预订系统的iPhone客户端开发，金融系统微博的iOS、Windows Phone 7、Android客户端开发。在App Store上发布多款游戏和应用软件，擅长移动平台的应用和游戏类项目开发。近期为中国移动研究院、云南移动、东软、方正科技、大唐电信、中石油、深圳康拓普、上海财富168、天津港务局等企事业单位授课。\n著有《iOS网络编程与云端应用最佳实践》、《iPhone与iPad开发实战——iOS经典应用剖析》、《Android开发案例驱动教程》、《Android网络游戏开发实战》、《移动平台用户体验设计》以及《JSP网络程序设计》等图书。",
+      "summary": "内 容 提 要\n本书共4 部分：第一部分为基础篇，介绍了iOS 的一些基础知识；第二部分为网络篇，介绍了iOS 网络开发相关的知识；第三部分为进阶篇，介绍了iOS 高级内容、商业思考等；第四部分为实战篇，从无到有地介绍了两个真实的iOS 应用——MyNotes 应用和2016 里约热内卢奥运会应用。书中包括了100 多个完整的案例项目源代码，大家可以到本书网站http:\/\/www.iOSBook1.com 下载。\n本书适合iOS 开发人员阅读。",
+      "series": {
+        "id": "13000",
+        "title": "图灵原创"
+      },
+      "price": "CNY 99.00"
+    }
+  ]
+}
