@@ -41,6 +41,7 @@ public class JsonTestController {
         BookList list = JSON.parseObject(json, BookList.class);
         long end = System.currentTimeMillis();
         Log.i(TAG, "fast json path = " + path + " Seri time:" + (end - start));
+        System.out.println(TAG +  " fastJson path:" + path + " Seri time:" + (end - start));
         return list;
     }
 
@@ -49,6 +50,7 @@ public class JsonTestController {
         BookList list = gson.fromJson(json, BookList.class);
         long end = System.currentTimeMillis();
         Log.i(TAG, "gson  path = " + path + " Seri time:" + (end - start));
+        System.out.println(TAG +  " gson path:" + path + " Seri time:" + (end - start));
         return list;
     }
 
@@ -61,7 +63,8 @@ public class JsonTestController {
             e.printStackTrace();
         }
         long end = System.currentTimeMillis();
-        Log.i(TAG, "jacksonSeri  path = " + path + " time:" + (end - start));
+        Log.i(TAG, "jacksonSeri path = " + path + " time:" + (end - start));
+        System.out.println(TAG +  " jackson path:" + path + " Seri time:" + (end - start));
         return list;
     }
 
@@ -71,6 +74,7 @@ public class JsonTestController {
         long end = System.currentTimeMillis();
         Log.i(TAG, "fast json  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "fastJsonDes json = " + json);
+        System.out.println(TAG + " fastjson path = " + path + " dSeri time:" + (end - start));
         return json;
     }
 
@@ -80,6 +84,7 @@ public class JsonTestController {
         long end = System.currentTimeMillis();
         Log.i(TAG, "gson  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "gsonDes json = " + json);
+        System.out.println(TAG + " gson path = " + path + " dSeri time:" + (end - start));
         return json;
     }
 
@@ -94,6 +99,7 @@ public class JsonTestController {
         long end = System.currentTimeMillis();
         Log.i(TAG, "jackson  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "jacksonDes json = " + json);
+        System.out.println(TAG + " jackson path = " + path + " dSeri time:" + (end - start));
         return json;
     }
 }
