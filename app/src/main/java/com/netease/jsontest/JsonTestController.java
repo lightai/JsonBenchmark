@@ -1,4 +1,4 @@
-package com.netease.jsontest.jsontest;
+package com.netease.jsontest;
 
 import android.util.Log;
 
@@ -7,7 +7,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
-import com.netease.jsontest.jsontest.model.BookList;
+import com.netease.jsontest.model.BookList;
 
 import java.io.IOException;
 

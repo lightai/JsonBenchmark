@@ -1,0 +1,1155 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 6840,
+  "books": [
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 3,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "The OReilly Java Authors"
+      ],
+      "pubdate": "2003-9",
+      "tags": [
+        {
+          "count": 17,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 6,
+          "name": "最佳实践",
+          "title": "最佳实践"
+        },
+        {
+          "count": 6,
+          "name": "J2EE",
+          "title": "J2EE"
+        },
+        {
+          "count": 3,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 3,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 2,
+          "name": "O'Reilly",
+          "title": "O'Reilly"
+        },
+        {
+          "count": 2,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 2,
+          "name": "程序开发",
+          "title": "程序开发"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s1957104.jpg",
+      "binding": "简裝本",
+      "translator": [],
+      "catalog": "",
+      "pages": "318",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s1957104.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s1957104.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s1957104.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1246192\/",
+      "id": "1246192",
+      "publisher": "中国电力出版社",
+      "isbn10": "7508314131",
+      "isbn13": "9787508314136",
+      "title": "Java Enterprise最佳实践",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1246192",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "《Java Enterprise最佳实践》内容简介：Java 2企业版（J2EE）API已经改变了我们对企业计算的思维方式。不过，许多程序员都发现仅仅学习J2EE API是不够的。要使用Servlet、JDBC、XML、EJB和JSP来编写高效、健壮的企业级代码，可能是一项非常艰巨的任务。实际上，若想在编写J2EE应用代码方面成为一个专家，惟一的方法就是经过数年尝试与错误的历练。\n毋庸讳言，《Java Enterprise最佳实践》将为你提供这些作者的一些经验之谈，从而为你答疑解惑。《Java Enterprise最佳实践》并非教你学习一组Java Enterprise库，而是传授给你如何将它们有效并高效地运用在分布式应用中。是否需要对编组代码进行单元测试？为什么需要正确地引导DOM？什么是MBean外观模式以及它在何时有用？为什么许多数据库开发人员在创建其模式时未能将国际化考虑在内？\n《Java Enterprise最佳实践》凝炼了O'Reilly Java Enterprise畅销书作者们的真知灼见，并提供了有关以下J2EE主题的非常有用的技巧和诀窍：\n* Enterprise JavaBeans（EJB）。\n* JDBC。\n* Java Servlet。\n* JavaServer Pages（JSP）和定制标签库。\n* 远程方法调用（RMI）。\n* XML。\n* Java管理扩展（JMX）。\n* 国际化。\n* JavaMail。\n* 企业应用的性能调整。\n对于每一位严谨的Java Enterprise开发人员来说，《Java Enterprise最佳实践》都是一本必选的书。无论从对有关RMI对象的编组和解组规则的讨论来说，还是从提供处理数据库连接池的具体方法方面来说，《Java Enterprise最佳实践》都汇集了诸多睿智的建议，可以使你的“普普通通”的Java Enterprise应用变得“卓尔不群”。",
+      "price": "38.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 2,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "(美)James Gosling",
+        "Frank Yellin",
+        "Java 小组"
+      ],
+      "pubdate": "1997-10",
+      "tags": [
+        {
+          "count": 4,
+          "name": "JAVA应用程序设计",
+          "title": "JAVA应用程序设计"
+        },
+        {
+          "count": 1,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 1,
+          "name": "xxx",
+          "title": "xxx"
+        },
+        {
+          "count": 1,
+          "name": "其他",
+          "title": "其他"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s1022519.jpg",
+      "binding": "平装",
+      "translator": [
+        "钱涛\/党治林"
+      ],
+      "catalog": "（下册）\n前言\n简短历史\n关于Java丛书\nAPI工作成员\n关于Java包\n参考资料\n类层次图\n\n第一章 java．awt包类\n1．1 BorderLayout类\n1．2 Button类\n1．3 Canvas类\n1．4 CardLayout类\n1．5 Checkbox类\n1．6 CheckboxGroup类\n1．7 CheckboxMenuItem类\n1．8 Choice类\n1．9 Color类\n1．10 Component类\nl．11 Container类\n1．12 Dialog类\n1．13 Dimension类\n1．14 Event类\n1．15 FileDialog类\n1．16 FlowLayout类\n1．17 Font类\nl．18 FontMetrics类\n1．19 Frame类\n1．20 Graphics类\nl．21 GridBagConstraints类\n1．22 GridBagLayout类\n1．23 GridLayout类\n1．24 Image类\n1．25 Insets类\n1．26 Label类\n1．27 List类\n1．28 MediaTracker类\n1．29 Menu类\n1．30 MenuBar类\nl．31 MenuComponent类\n1．32 MenuItem类\n1．33 Panel类\n1．34 Point类\nl．35 Polygon类\nl．36 Rectangle类\n1．37 Scrollbar类\n1．38 TextArea类\n1．39 TextComponent类\n1．40 TextField类\n1．41 Toolkit类\n1．42 Window类\n接口（Interface）\n1．43 LayoutManager接口\n1．44 MenuContalner接口\n异常（Exception）\n1．45 AWTException类\n错误（Error）\n1．46 AWTError类\n\n第二章 java．awt．image包类\n2．1 ColorModel类\n2．2 CropImageFilter类\n2．3 DirectColorModel类\n2．4 FilteredImageSource类\n2．5 ImageFilter类\n2．6 IndexColorModel类\n2．7 MemoryImageSource类\n2．8 PixelGrabber类\n2．9 RGBImageFilter类\n接口\n2．10 ImageConsumer接口\n2．11 ImageObserver接口\n2．12 ImageProducer接口\n\n第三章 java．awt．peer包接口\n3．1 ButtonPeer接口\n3．2 CanvasPeer接口\n3．3 CheckboxMenuItemPeer接口\n3．4 CheckboxPeer接口\n3．5 CholcePeer接口\n3．6 ComponentPeer接口\n3．7 ContainerPeer接口\n3．8 DlaglogPeer接口\n3．9 FileDialogPeer接口\n3．10 FramePeer接口\n3．11 LabelPeer接口\n3．12 ListPeer接口\n3．13 MenuBarPeer接口\n3．14 MenuComponentPeer接口\n3．15 MenultemPeer接口\n3．16 MenuPeer接口\n3．17 PanelPeer接口\n3．18 ScrollbarPeer接口\n3．19 TextAreaPeer接口\n3．20 TextComponentPeer接口\n3．21 TextFieldPeer接口\n3．22 WindowPeer接口\n\n第四章 java．applet包类\n4．1 Applet类接口\n4．2 AppletContext接口\n4．3 AppletStub接口\n4．4 AudioClip接口\n\n\n",
+      "pages": "274",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s1022519.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s1022519.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s1022519.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1031368\/",
+      "id": "1031368",
+      "publisher": "北京大学出版社",
+      "isbn10": "730103475X",
+      "isbn13": "9787301034750",
+      "title": "Java应用程序设计接口(下册)--窗口工具箱和applet",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1031368",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "45.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "De Java-Suikerindustrie, Proefstation Vo"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s14643991.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "416",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s14643991.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s14643991.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s14643991.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/13552524\/",
+      "id": "13552524",
+      "publisher": "",
+      "isbn10": "114946223X",
+      "isbn13": "9781149462232",
+      "title": "Mededeelingen Van Het Proefstation Voor de Java-Suikerindustrie Volume Deel.11 1921",
+      "url": "http:\/\/api.douban.com\/v2\/book\/13552524",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Buitenzorg, Java 's Lands Plantentuin"
+      ],
+      "pubdate": "2010-2",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s5167197.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "414",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s5167197.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s5167197.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s5167197.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6189312\/",
+      "id": "6189312",
+      "publisher": "",
+      "isbn10": "1144147999",
+      "isbn13": "9781144147998",
+      "title": "Catalogus Plantarum Quae in Horto Botanico Bogoriensi Coluntur",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6189312",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "This is an EXACT reproduction of a book published before 1923. This IS NOT an OCR'd book with strange characters, introduced typographical errors, and jumbled words.  This book may have occasional imperfections such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, or were introduced by the scanning process. We believe this work is culturally important, and despite the imperfections, have elected to bring it back into print as part of our continuing commitment to the preservation of printed works worldwide. We appreciate your understanding of the imperfections in the preservation process, and hope you enjoy this valuable book.",
+      "price": "$ 39.27"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Java, Java"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s14706301.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "32",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s14706301.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s14706301.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s14706301.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/13588920\/",
+      "id": "13588920",
+      "publisher": "",
+      "isbn10": "1149930039",
+      "isbn13": "9781149930038",
+      "title": "Proceedings of the Court Martial, Held on the Officers and Crew of His Majesty's Late Ship, the Java.",
+      "url": "http:\/\/api.douban.com\/v2\/book\/13588920",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "De Java-Suikerindustrie, Proefstation Vo"
+      ],
+      "pubdate": "2010-5",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s22763119.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "",
+      "pages": "662",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s22763119.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s22763119.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s22763119.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/13552523\/",
+      "id": "13552523",
+      "publisher": "Nabu Press",
+      "isbn10": "1149462221",
+      "isbn13": "9781149462225",
+      "title": "Mededeelingen Van Het Proefstation Voor de Java-Suikerindustrie Volume Jaarg.1922",
+      "url": "http:\/\/api.douban.com\/v2\/book\/13552523",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 52.83"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "De Java-Suikerindustrie, Proefstation Vo"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s14643993.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "508",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s14643993.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s14643993.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s14643993.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/13552525\/",
+      "id": "13552525",
+      "publisher": "",
+      "isbn10": "1149462248",
+      "isbn13": "9781149462249",
+      "title": "Mededeelingen Van Het Proefstation Voor de Java-Suikerindustrie Volume Deel.9 1919",
+      "url": "http:\/\/api.douban.com\/v2\/book\/13552525",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "De Java-Suikerindustrie, Proefstation Vo"
+      ],
+      "pubdate": "2010-5",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s22763169.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "",
+      "pages": "650",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s22763169.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s22763169.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s22763169.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/13553357\/",
+      "id": "13553357",
+      "publisher": "Nabu Press",
+      "isbn10": "1149470739",
+      "isbn13": "9781149470732",
+      "title": "Mededeelingen Van Het Proefstation Voor de Java-Suikerindustrie Volume Deel.7 1917",
+      "url": "http:\/\/api.douban.com\/v2\/book\/13553357",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 52.83"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Christoph Gerhard Jonker, Java Johann"
+      ],
+      "pubdate": "2009-7",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s26351323.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "254",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s26351323.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s26351323.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s26351323.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/12704993\/",
+      "id": "12704993",
+      "publisher": "",
+      "isbn10": "1113075066",
+      "isbn13": "9781113075062",
+      "title": "Een Oud-Javaansch Wetboek Vergeleken Met Indische Rechtsbronnen",
+      "url": "http:\/\/api.douban.com\/v2\/book\/12704993",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 29.10"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Christoph Gerhard Jonker, Java Johann"
+      ],
+      "pubdate": "2009-7",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s26576965.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "254",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s26576965.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s26576965.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s26576965.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/12704994\/",
+      "id": "12704994",
+      "publisher": "",
+      "isbn10": "1113075090",
+      "isbn13": "9781113075093",
+      "title": "Een Oud-Javaansch Wetboek Vergeleken Met Indische Rechtsbronnen",
+      "url": "http:\/\/api.douban.com\/v2\/book\/12704994",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 35.02"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Java, L. Collins; Collins, Java L.;"
+      ],
+      "pubdate": "2009-6",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s4892849.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "132",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s4892849.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s4892849.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s4892849.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6150090\/",
+      "id": "6150090",
+      "publisher": "",
+      "isbn10": "0982058772",
+      "isbn13": "9780982058770",
+      "title": "A Hole in My Soul, My Father's Sin",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6150090",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "A HOLE IN MY SOUL: My Father's Sin Fatherless homes have never been much of a focus until recent years. It is a growing epidemic that fathers are no longer in the home for whatever cause. Th is gap is creating a negative eff ect both naturally and spiritually. Th is is a book for every person whose father has left, died, or was never there, and they feel like there is something missing. Like there is a hole in a part of them, a \"hole\" in their soul, which needs to be fi lled so that they can move on as a \"whole\" person. Th is book allows us to investigate and ask questions that some wish we would leave alone; but asking the questions and dealing with them will help strengthen you and help you gain freedom to become all that you can for the glory of God, sealing the hole as you become whole",
+      "price": "$ 16.89"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Collins, Java L."
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "Pap",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2841183\/",
+      "id": "2841183",
+      "publisher": "Cornerstone Pub Inc",
+      "isbn10": "1882185617",
+      "isbn13": "9781882185610",
+      "title": "A Letter To My Sisters",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2841183",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "131.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 2357,
+        "average": "9.1",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美] Bruce Eckel"
+      ],
+      "pubdate": "2007-6",
+      "tags": [
+        {
+          "count": 2144,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 781,
+          "name": "编程思想",
+          "title": "编程思想"
+        },
+        {
+          "count": 603,
+          "name": "TinkingInJava",
+          "title": "TinkingInJava"
+        },
+        {
+          "count": 589,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 461,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 340,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 285,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 178,
+          "name": "Programming",
+          "title": "Programming"
+        }
+      ],
+      "origin_title": "Thinking in Java",
+      "image": "https://img3.doubanio.com\/mpic\/s27243455.jpg",
+      "binding": "平装",
+      "translator": [
+        "陈昊鹏"
+      ],
+      "catalog": "读者评论\n前言\n简介\n第1章 对象导论\n1.1 抽象过程\n1.2 每个对象都有一个接口\n1.3 每个对象都提供服务\n1.4 被隐藏的具体实现\n1.5 复用具体实现\n1.6 继承\n1.6.1 “是一个”（is-a）与“像是一个”（is-like-a）关系\n1.7 伴随多态的可互换对象\n1.8 单根继承结构\n1.9 容器\n1.9.1 参数化类型（范型）\n1.10 对象的创建和生命期\n1.11 异常处理：处理错误\n1.12 并发编程\n1.13 Java与Internet\n1.13.1 Web是什么\n1.13.2 客户端编程\n1.13.3 服务器端编程\n1.22 总结\n第2章 一切都是对象\n2.1 用引用操纵对象\n2.2 必须由你创建所有对象\n2.2.1 存储到什么地方\n2.2.2 特例：基本类型\n2.2.3 Java中的数组\n2.3 永远不需要销毁对象\n2.3.1 作用域\n2.3.2 对象的作用域\n2.4 创建新的数据类型：类\n2.4.1 域和方法\n2.4.2 基本成员默认值\n2.5 方法、参数和返回值\n2.5.1 参数列表\n2.6 构建一个Java程序\n2.6.1 名字可见性\n2.6.2 运用其他构件\n2.6.3 static 关键字\n2.7 你的第一个Java程序\n编译和运行\n2.8 注释和嵌入式文档\n2.8.1 注释文档\n2.8.2 语法\n2.8.3 嵌入式HTML\n2.8.4 一些标签示例\n2.8.5 文档示例\n2.9 编码风格\n2.10 总结\n2.11 练习\n第3章 操作符\n3.1 更简单的打印语句\n3.2 使用Java操作符\n3.3 优先级\n3.4 赋值\n3.4.1 方法调用中的别名问题\n3.5 算术操作符\n3.5.1 一元加、减操作符\n3.6 自动递增和递减\n3.7 关系操作符\n3.7.1 测试对象的等价性\n3.8 逻辑操作符\n3.8.1 短路\n3.9 直接常量\n3.9.1 指数记数法\n3.10 按位操作符\n3.11 移位操作符\n3.12 三元操作符 if-else\n3.13 字符串操作符 + 和 +=\n3.14 使用操作符时常犯的错误\n3.15 类型转换操作符\n3.15.1 截尾和舍入\n3.15.2提升\n3.16 Java没有“sizeof”\n3.17 操作符小结\n3.18 总结\n第4章 控制执行流程\n4.1 true和false\n4.2 if-else\n4.3 迭代\n4.3.1 do-while\n4.3.2 for\n4.3.3 逗号操作符\n4.4 Foreach语法\n4.5 return\n4.6 break和 continue\n4.7 臭名昭著的“goto”\n4.8 switch\n4.9 总结\n第5章 初始化与清理\n5.1 用构造器确保初始化\n5.2 方法重载\n5.2.1 区分重载方法\n5.2.2 涉及基本类型的重载\n5.2.3 以返回值区分重载方法\n5.3 缺省构造器\n5.4 this关键字\n5.4.1 在构造器中调用构造器\n5.4.2 static的含义\n5.5 清理：终结处理和垃圾回收\n5.5.1 finalize()的用途何在\n5.5.2 你必须实施清理\n5.5.3 终结条件\n5.5.4 垃圾回收器如何工作\n5.6 成员初始化\n5.6.1 指定初始化\n5.7 构造器初始化\n5.7.1 初始化顺序\n5.7.2. 静态数据的初始化\n5.7.3. 显式的静态初始化\n5.7.4. 非静态实例初始化\n5.8 数组初始化\n5.8.1 可变参数列表\n5.9 枚举类型\n5.10 总结\n第6章 访问权限控制\n第7章 复用类\n第8章 多态\n第9章 接口\n第10章 内部类\n第11章 持有对象\n第12章 通过异常处理错误\n第13章 字符串\n第14章 类型信息\n第15章 泛型\n第16章 数组\n第17章 容器深入研究\n第18章 Java I\/O系统\n第19章 枚举类型\n第20章 注解\n第21章 并发\n第22章 图形化用户界面\n附录A 补充材料\n可下载的补充材料\nThinking in C：Java的基础\nJava编程思想 研讨课\nHands-on Java研讨课CD\nThinking in Objects研讨课\nThinking in Enterprise Java\nThinking in Patterns(with Java)\nThinking in Patterns研讨课\n设计咨询与复审\n附录B 资源\n软件\n编辑器与IDE\n书籍\n分析与设计\nPython\n我的著作列表\n索引",
+      "pages": "880",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s27243455.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s27243455.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s27243455.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2130190\/",
+      "id": "2130190",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111213823",
+      "isbn13": "9787111213826",
+      "title": "Java编程思想 （第4版）",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2130190",
+      "alt_title": "Thinking in Java",
+      "author_intro": "Bruce Eckel是MindView公司（www.MindView.net）的总裁，该公司向客户提供软件咨询和培训。他是C++标准委员会拥有表决权的成员之一，拥有应用物理学学士和计算机工程硕士学位。除本书外，他还是《C++编程思想》的作者，并与人合著了《C++编程思想 第2卷》（这两本书的英文影印版及中文版均已由机械工业出版社引进出版）及其他著作。他已经发表了150多篇论文，还经常参加世界各地的研讨会并进行演讲。",
+      "summary": "本书赢得了全球程序员的广泛赞誉，即使是最晦涩的概念，在Bruce Eckel的文字亲和力和小而直接的编程示例面前也会化解于无形。从Java的基础语法到最高级特性（深入的面向对象概念、多线程、自动项目构建、单元测试和调试等），本书都能逐步指导你轻松掌握。\n从本书获得的各项大奖以及来自世界各地的读者评论中，不难看出这是一本经典之作。本书的作者拥有多年教学经验，对C、C++以及Java语言都有独到、深入的见解，以通俗易懂及小而直接的示例解释了一个个晦涩抽象的概念。本书共22章，包括操作符、控制执行流程、访问权限控制、复用类、多态、接口、通过异常处理错误、字符串、泛型、数组、容器深入研究、Java I\/O系统、枚举类型、并发以及图形化用户界面等内容。这些丰富的内容，包含了Java语言基础语法以及高级特性，适合各个层次的Java程序员阅读，同时也是高等院校讲授面向对象程序设计语言以及Java语言的绝佳教材和参考书。\n第4版特点：\n适合初学者与专业人员的经典的面向对象叙述方式，为更新的Java SE5\/6增加了新的示例和章节。\n 测验框架显示程序输出。",
+      "series": {
+        "id": "1163",
+        "title": "计算机科学丛书"
+      },
+      "price": "108.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 935,
+        "average": "9.1",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Joshua Bloch"
+      ],
+      "pubdate": "2009-1-1",
+      "tags": [
+        {
+          "count": 853,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 384,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 374,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 272,
+          "name": "effective",
+          "title": "effective"
+        },
+        {
+          "count": 181,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 173,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 148,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 105,
+          "name": "软件开发",
+          "title": "软件开发"
+        }
+      ],
+      "origin_title": "Effective Java Second Edition",
+      "image": "https://img1.doubanio.com\/mpic\/s3479802.jpg",
+      "binding": "平装",
+      "translator": [
+        "俞黎敏"
+      ],
+      "catalog": "译者序\n序\n前言\n致谢\n第1章 引言\n第2章 创建和销毁对象\n第1条：考虑用静态工厂方法代替构造器\n第2条：遇到多个构造器参数时要考虑用构建器\n第3条：用私有构造器或者枚举类型强化Singleton属性\n第4条：通过私有构造器强化不可实例化的能力\n第5条：避免创建不必要的对象\n第6条：消除过期的对象引用\n第7条：避免使用终结方法\n第3章 对于所有对象都通用的方法\n第8条：覆盖equals时请遵守通用约定\n第9条：覆盖equals时总要覆盖hashCode\n第10条：始终要覆盖toString\n第11条：谨慎地覆盖clone\n第12条：考虑实现Comparable接口\n第4章 类和接口\n第13条：使类和成员的可访问性最小化\n第14条：在公有类中使用访问方法而非公有域\n第15条：使可变性最小化\n第16条：复合优先于继承\n第17条：要么为继承而设计，并提供文档说明，要么就禁止继承\n第18条：接口优于抽象类\n第19条：接口只用于定义类型\n第20条：类层次优于标签类\n第21条：用函数对象表示策略\n第22条：优先考虑静态成员类\n第5章 泛型\n第23条：请不要在新代码中使用原生态类型\n第24条：消除非受检警告\n第25条：列表优先于数组\n第26条：优先考虑泛型\n第27条：优先考虑泛型方法\n第28条：利用有限制通配符来提升API的灵活性\n第29条：优先考虑类型安全的异构容器\n第6章 枚举和注解\n第30条：用enum代替int常量\n第31条：用实例域代替序数\n第32条：用EnumSet代替位域\n第33条：用EnumMap代替序数索引\n第34条：用接口模拟可伸缩的枚举\n第35条：注解优先于命名模式\n第36条：坚持使用Override注解\n第37条：用标记接口定义类型\n第7章 方法\n第38条：检查参数的有效性\n第39条：必要时进行保护性拷贝\n第40条：谨慎设计方法签名\n第41条：慎用重载\n第42条：慎用可变参数\n第43条：返回零长度的数组或者集合，而不是：null\n第44条：为所有导出的API元素编写文档注释\n第8章 通用程序设计\n第45条：将局部变量的作用域最小化\n第46条：for-each循环优先于传统的for循环\n第47条：了解和使用类库\n第48条：如果需要精确的答案，请避免使用float和double\n第49条：基本类型优先于装箱基本类型\n第50条：如果其他类型更适合，则尽量避免使用字符串\n第51条：当心字符串连接的性能\n第52条：通过接口引用对象\n第53条：接口优先于反射机制\n第54条：谨慎地使用本地方法\n第55条：谨慎地进行优化\n第56条：遵守普遍接受的命名惯例\n第9章 异常\n第57条：只针对异常的情况才使用异常\n第58条：对可恢复的情况使用受检异常，对编程错误使用运行时异常\n第59条：避免不必要地使用受检的异常\n第60条：优先使用标准的异常\n第61条：抛出与抽象相对应的异常\n第62条：每个方法抛出的异常都要有文档\n第63条：在细节消息中包含能捕获失败的信息\n第64条：努力使失败保持原子性\n第65条：不要忽略异常\n第10章 并发\n第66条：同步访问共享的可变数据\n第67条：避免过度同步\n第68条：executor和task优先干线程\n第69条：并发工具优先于wait和notify\n第70条：线程安全性的文档化\n第71条：慎用延迟初始化\n第72条：不要依赖于线程调度器\n第73条：避免使用线程组\n第11章 序列化\n第74条：谨慎地实现Serializable接口\n第75条：考虑使用自定义的序列化形式\n第76条：保护性地编写readObject方法\n第77条：对于实例控制，枚举类型优先于readResolve\n第78条：考虑用序列化代理代替序列化实例\n附录 第1版与第2版条目对照\n中英文术语对照\n参考文献",
+      "pages": "287",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s3479802.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s3479802.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s3479802.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3360807\/",
+      "id": "3360807",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111255836",
+      "isbn13": "9787111255833",
+      "title": "Effective java 中文版（第2版）",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3360807",
+      "alt_title": "Effective Java Second Edition",
+      "author_intro": "Joshua Bloch是Google公司的首席Java架构师。是Jolt大奖的获得者。他曾是Sun公司的杰出工程师，和Transarc公司的高级系统设计师。Bloch曾带领团队设计和实现过无数的Java平台特性，包括JDK 5.0语言增强版和获奖的Java Collections Framework。他的著作还包括：《Java Puzzlers》、《Java Concurrency in Practive》等。",
+      "summary": "本书介绍了在Java编程中78条极具实用价值的经验规则，这些经验规则涵盖了大多数开发人员每天所面临的问题的解决方案。通过对Java平台设计专家所使用的技术的全面描述，揭示了应该做什么，不应该做什么才能产生清晰、健壮和高效的代码。\n本书中的每条规则都以简短、独立的小文章形式出现，并通过例子代码加以进一步说明。本书内容全面，结构清晰，讲解详细。可作为技术人员的参考用书。",
+      "series": {
+        "id": "28333",
+        "title": "Sun公司核心技术丛书"
+      },
+      "price": "52.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 531,
+        "average": "8.6",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "（美）文纳斯"
+      ],
+      "pubdate": "2003-9",
+      "tags": [
+        {
+          "count": 559,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 390,
+          "name": "jvm",
+          "title": "jvm"
+        },
+        {
+          "count": 378,
+          "name": "虚拟机",
+          "title": "虚拟机"
+        },
+        {
+          "count": 164,
+          "name": "深入Java虚拟机",
+          "title": "深入Java虚拟机"
+        },
+        {
+          "count": 112,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 101,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 75,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 74,
+          "name": "软件开发",
+          "title": "软件开发"
+        }
+      ],
+      "origin_title": "Inside the Java Virtual Machine",
+      "image": "https://img1.doubanio.com\/mpic\/s1106498.jpg",
+      "binding": "平装",
+      "translator": [
+        "曹晓钢",
+        "蒋靖"
+      ],
+      "catalog": "译者序\n前言\n第1章 Java体系结构介绍\n第2章 平台无关\n第3章 安全\n第4章 网络移动性\n第5章 Java虚拟机\n第6章 Java class文件\n第7章 类型的生命周期\n第8章 连接模型\n第9章 垃圾收集\n第10章 栈和局部变量操作\n第11章 类型转换\n第12章 整数运算\n第13章 逻辑运算\n第14章 浮点运算\n第15章 对象和数组\n第16章 控制流\n第17章 异常\n第18章 finally子句\n第19章 方法的调用与返回\n第20章 指令invokespecial\n第21章 线程同步\n附录A 按操作码助记符排列的指令集\n附录B 按功能排列的操作码助记符\n附录C 按操作码字节值排列的操作码助记符\n附录D Java虚拟机的一个模拟：“Slices of Pi”",
+      "pages": "461",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s1106498.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s1106498.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s1106498.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1138768\/",
+      "id": "1138768",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111128052",
+      "isbn13": "9787111128052",
+      "title": "深入Java虚拟机(原书第2版)",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1138768",
+      "alt_title": "Inside the Java Virtual Machine",
+      "author_intro": "Bill Venners有14年编写软件专著的经验。他在硅谷的Artima软件公司提供软件咨询和培训服务。自1996年以来，他已经编写了40多篇有关Java技术的文章。他在《Java World杂志》辟有热闹专栏，介绍Java内部细节、面向对象设计技术和Jini技术。他还是artima.com的作者和网站管",
+      "summary": "本书作者曾因本书荣获专业技术杂志《Java Report》评选的优秀作者奖，细心的读者可以从网上找到许多对本书第1版的赞誉。作者以易于理解的方式深入揭示了Java虚拟机的内部工作原理，深入理解这些内容，将对读者更快速地编写更高效的程序大有裨益！\n本书共分20章，第1-4章解释了Java虚拟机的体系结构，包括Java栈、堆、方法区、执行引擎等；第5-20章深入描述了Java技术的内部细节，包括垃圾收集、Java安全模型、Java的连接模型和动态扩展机制、class文件、运算及流程控制等等，其中第6章和附录A-C安全可以作为class文件和指令集的参考手册。本书还附带光盘，光盘中包含用以辅助说明正文内容的交互式例示applet及示例源代码。",
+      "price": "58.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 733,
+        "average": "8.9",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "（美）Joshua Bloch"
+      ],
+      "pubdate": "2003-1",
+      "tags": [
+        {
+          "count": 685,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 202,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 161,
+          "name": "effective",
+          "title": "effective"
+        },
+        {
+          "count": 117,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 90,
+          "name": "软件开发",
+          "title": "软件开发"
+        },
+        {
+          "count": 77,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 76,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 73,
+          "name": "程序设计",
+          "title": "程序设计"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s2008079.jpg",
+      "binding": "平装",
+      "translator": [
+        "潘爱民"
+      ],
+      "catalog": "译者序\n序\n前言\n第一章 引言\n第二章 创建和销毁对象\n第1条：考虑用静态工厂方法代替构造函数\n第2条：使用私有构造函数强化singleton属性\n第3条：通过私有构造函数强化不可实例化属性\n第4条：避免创建重复的对象\n条5条：消除对期的对象引用\n第6条：避免使用终结函数\n第三章 对于所有对象都通用的方法\n第四章 类和接口\n第五章 C语言结构的替代\n第六章 方法\n第七章 通用程序设计\n第八章 异常\n第九章 线程\n第十章 序列化\n中英文术语对照\n参考文献\n模式和习惯用法索引\n索引",
+      "pages": "225",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s2008079.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s2008079.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s2008079.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1103015\/",
+      "id": "1103015",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111113853",
+      "isbn13": "9787111113850",
+      "title": "Effective Java 中文版",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1103015",
+      "alt_title": "",
+      "author_intro": "Joshua Bloch是Sun公司的高级工程师，也是“Java平台核心组”的设计师。他设计并实现了获奖的Java Collections Framework和java.math软件包，并且对Java平台的其他部分也做出了贡献。Joshua是许多技术文章和论文的作者，他的关于抽象数据对象复制的博士论文获得过“ACM杰出博士论文奖”提名。他拥有哥伦比亚大学的学士学位和卡耐基-梅隆大学的博士学位。\n潘爱民  浙江海宁人，现任职于北京大学计算机科学技术研究所，副研究员；研究方向为信息安全（包括网络安全和公钥技术）和软件开发（包括组件技术和模式）；主要著作有《COM原理与应用》等，译著有《Visual C++技术内幕》（第4版）、《COM本质论》和《C++ Primer中文版》等。",
+      "summary": "本书介绍了在Java编程中57条极具实用价值的经验规则，这些经验规则涵盖了大多数开发人员每天所面临的问题的解决方案。通过对Java平台设计专家所使用的技术的全面描述，揭示了应该做什么，不应该做什么才能产生清晰、健壮的高效的代码。\n本书中的每条规则都以简短、独立的小文章形式出现，这些小文章包含了详细而精确的建议，以及对语言中许多细微之处的深入分析，并通过例子代码加以进一步说明。贯穿全书的是通用的语言用法的设计模式，以及一些具有启发意义的技巧的技术。",
+      "price": "39.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 670,
+        "average": "8.9",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Kathy Sierra,Bert Bates 著",
+        "杨尊一 编译 张然等 改编"
+      ],
+      "pubdate": "2007-2",
+      "tags": [
+        {
+          "count": 705,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 282,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 236,
+          "name": "HeadFirst",
+          "title": "HeadFirst"
+        },
+        {
+          "count": 144,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 115,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 97,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 95,
+          "name": "软件开发",
+          "title": "软件开发"
+        },
+        {
+          "count": 69,
+          "name": "programming",
+          "title": "programming"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s2171906.jpg",
+      "binding": "16开",
+      "translator": [
+        "杨尊一"
+      ],
+      "catalog": "序\n1 进入Java的世界\nJava的工作方式\nJava的程序结构\n剖析类\nmain（）方法\n循环\n条件分支\n设计程序\n术语制造机\n谈话录\n习题\n2 拜访对象村\n椅子大战\n继承\n覆盖\n什么是类？\n创建你的第一个对象\n使用main（）\n猜数字\n习题\n3 认识变量\n声明变量\nPrimitive主数据类型\nJava关键字\n引用变量\n对象的声明与赋值\n可回收堆空间\n数组\n习题\n4 对象的行为\n操作对象状态的方法\n方法参数与返回类型\n值传递\nGetters与Setters\n封装\n数组中的引用\n习题\n5 超强力方法\n创建战舰游戏\n简单版\n编写伪码\n测试\n编写程序\n完成版\n用Math.random（）产生随机数\n预先输入好的程序\n循环\n类型转换\n用Integer.parseInt（）转换字符串\n习题\n6 使用Java函数库\n7 对象村的优质生活\n8 深入多态\n9 对象的前世今生\n10 数字很重要\n11 有风险的行为\n12 看图说故事\n13 使用Swing\n14 保存对象\n15 网络联机\n16 数据结构\n17 发布程序\n18 分布式计算\n附录A：程序料理决定版\n附录B：十大遗珠之憾\n索引",
+      "pages": "600",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s2171906.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s2171906.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s2171906.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2000732\/",
+      "id": "2000732",
+      "publisher": "中国电力出版社",
+      "isbn10": "7508344987",
+      "isbn13": "9787508344980",
+      "title": "Head First Java（第二版·中文版）",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2000732",
+      "alt_title": "",
+      "author_intro": "Kathy从开始设计游戏（她为Virgin、MGM和Amblin等都编写过游戏）和开发AI应用以来，一直对学习理论很感兴趣。Head First系列的大多数格式都出自她之手，具体说来，都是她为UCLA Extension（加利福尼亚大学洛杉矶分校）的“EntertainmentaStudies”研究项目讲授“NewaMedia Interactivity”（新媒体交互）课程时完成的。最近，她成为Sun Microsystems公司的一名高级培训人员，负责教Sun的Java讲师如何讲授最新的Java技术，并参与开发了多个Sun的认证考试，其中就包括SCWCD考试。她与Bert Bates一道积极地使用Head First概念培训了成千上万的开发人员。她还是世界上最大的Java群体网站javaranch.com的创始人之一，这家网站赢得了2003和 2004年《软件开发》杂志生产力大奖。她的爱好包括跑步、滑雪、骑马、玩滑板，还有超自然科学。",
+      "summary": "《Head First Java》是本完整的面向对象（object-oriented，OO）程序设计和Java的学习指导。此书是根据学习理论所设计的，让你可以从学习程序语言的基础开始一直到包括线程、网络与分布式程序等项目。最重要的，你会学会如何像个面向对象开发者一样去思考。\n而且不只是读死书，你还会玩游戏、拼图、解谜题以及以意想不到的方式与Java交互。在这些活动中，你会写出一堆真正的Java程序，包括了一个船舰炮战游戏和一个网络聊天程序。\nHead First系列的图文并茂学习方式能让你快速地在脑海中掌握住知识。敞开心胸准备好学习这些关键性的主题：\n*Java程序语言\n*面向对象程序开发\n*Swing图形化接口\n*使用Java API函数库\n*编写、测试与布署应用程序\n*处理异常\n*多线程\n*网络程序设计\n*集合与泛型\n如果你想要看“一本正经”的书，去找其他的。但如果你真地想要好好地学习Java，你会需要《Head First Java》。这本书可是Amazon编辑推荐的十大好书之一！",
+      "series": {
+        "id": "10044",
+        "title": "O'Reilly深入浅出系列"
+      },
+      "price": "79.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 603,
+        "average": "8.6",
+        "min": 0
+      },
+      "subtitle": "JVM高级特性与最佳实践",
+      "author": [
+        "周志明"
+      ],
+      "pubdate": "2011-6",
+      "tags": [
+        {
+          "count": 636,
+          "name": "JVM",
+          "title": "JVM"
+        },
+        {
+          "count": 573,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 368,
+          "name": "虚拟机",
+          "title": "虚拟机"
+        },
+        {
+          "count": 178,
+          "name": "深入Java虚拟机",
+          "title": "深入Java虚拟机"
+        },
+        {
+          "count": 120,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 87,
+          "name": "java",
+          "title": "java"
+        },
+        {
+          "count": 80,
+          "name": "java虚拟机",
+          "title": "java虚拟机"
+        },
+        {
+          "count": 76,
+          "name": "编程",
+          "title": "编程"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s6564370.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "前　言\n致　谢\n第一部分　走近Java\n第1章　走近Java \/ 2\n1.1　概述 \/ 2\n1.2　Java技术体系 \/ 3\n1.3　Java发展史 \/ 5\n1.4　展望Java技术的未来 \/ 9\n1.4.1　模块化 \/ 9\n1.4.2　混合语言 \/ 9\n1.4.3　多核并行 \/ 11\n1.4.4　进一步丰富语法 \/ 12\n1.4.5　64位虚拟机 \/ 13\n1.5　实战：自己编译JDK \/ 13\n1.5.1　获取JDK源码 \/ 13\n1.5.2　系统需求 \/ 14\n1.5.3　构建编译环境 \/ 15\n1.5.4　准备依赖项 \/ 17\n1.5.5　进行编译 \/ 18\n1.6　本章小结 \/ 21\n第二部分　自动内存管理机制\n第2章　Java内存区域与内存溢出异常 \/ 24\n2.1　概述 \/ 24\n2.2　运行时数据区域 \/ 25\n2.2.1　程序计数器 \/ 25\n2.2.2　Java虚拟机栈 \/ 26\n2.2.3　本地方法栈 \/ 27\n2.2.4　Java堆 \/ 27\n2.2.5　方法区 \/ 28\n2.2.6　运行时常量池 \/ 29\n2.2.7　直接内存 \/ 29\n2.3　对象访问 \/ 30\n2.4　实战：OutOfMemoryError异常 \/ 32\n2.4.1　Java堆溢出 \/ 32\n2.4.2　虚拟机栈和本地方法栈溢出 \/ 35\n2.4.3　运行时常量池溢出 \/ 38\n2.4.4　方法区溢出 \/ 39\n2.4.5　本机直接内存溢出 \/ 41\n2.5　本章小结 \/ 42\n第3章　垃圾收集器与内存分配策略 \/ 43\n3.1　概述 \/ 43\n3.2　对象已死？ \/ 44\n3.2.1　引用计数算法 \/ 44\n3.2.2　根搜索算法 \/ 46\n3.2.3　再谈引用 \/ 47\n3.2.4　生存还是死亡？ \/ 48\n3.2.5　回收方法区 \/ 50\n3.3　垃圾收集算法 \/ 51\n3.3.1　标记 -清除算法 \/ 51\n3.3.2　复制算法 \/ 52\n3.3.3　标记-整理算法 \/ 54\n3.3.4　分代收集算法 \/ 54\n3.4　垃圾收集器 \/ 55\n3.4.1　Serial收集器 \/ 56\n3.4.2　ParNew收集器 \/ 57\n3.4.3　Parallel Scavenge收集器 \/ 59\n3.4.4　Serial Old收集器 \/ 60\n3.4.5　Parallel Old收集器 \/ 61\n3.4.6　CMS收集器 \/ 61\n3.4.7　G1收集器 \/ 64\n3.4.8　垃圾收集器参数总结 \/ 64\n3.5　内存分配与回收策略 \/ 65\n3.5.1　对象优先在Eden分配 \/ 66\n3.5.2　大对象直接进入老年代 \/ 68\n3.5.3　长期存活的对象将进入老年代 \/ 69\n3.5.4　动态对象年龄判定 \/ 71\n3.5.5　空间分配担保 \/ 73\n3.6　本章小结 \/ 75\n第4章　虚拟机性能监控与故障处理工具 \/ 76\n4.1　概述 \/ 76\n4.2　JDK的命令行工具 \/ 76\n4.2.1　jps：虚拟机进程状况工具 \/ 79\n4.2.2　jstat：虚拟机统计信息监视工具 \/ 80\n4.2.3　jinfo：Java配置信息工具 \/ 82\n4.2.4　jmap：Java内存映像工具 \/ 82\n4.2.5　jhat：虚拟机堆转储快照分析工具 \/ 84\n4.2.6　jstack：Java堆栈跟踪工具 \/ 85\n4.3　JDK的可视化工具 \/ 87\n4.3.1　JConsole：Java监视与管理控制台 \/ 88\n4.3.2　VisualVM：多合一故障处理工具 \/ 96\n4.4　本章小结 \/ 105\n第5章　调优案例分析与实战 \/ 106\n5.1　概述 \/ 106\n5.2　案例分析 \/ 106\n5.2.1　高性能硬件上的程序部署策略 \/ 106\n5.2.2　集群间同步导致的内存溢出 \/ 109\n5.2.3　堆外内存导致的溢出错误 \/ 110\n5.2.4　外部命令导致系统缓慢 \/ 112\n5.2.5　服务器JVM进程崩溃 \/ 113\n5.3　实战：Eclipse运行速度调优 \/ 114\n5.3.1　调优前的程序运行状态 \/ 114\n5.3.2　升级JDK 1.6的性能变化及兼容问题 \/ 117\n5.3.3　编译时间和类加载时间的优化 \/ 122\n5.3.4　调整内存设置控制垃圾收集频率 \/ 126\n5.3.5　选择收集器降低延迟 \/ 130\n5.4　本章小结 \/ 133\n第三部分　虚拟机执行子系统\n第6章　类文件结构 \/ 136\n6.1　概述 \/ 136\n6.2　无关性的基石 \/ 136\n6.3　Class类文件的结构 \/ 138\n6.3.1　魔数与Class文件的版本 \/ 139\n6.3.2　常量池 \/ 141\n6.3.3　访问标志 \/ 147\n6.3.4　类索引、父类索引与接口索引集合 \/ 148\n6.3.5　字段表集合 \/ 149\n6.3.6　方法表集合 \/ 153\n6.3.7　属性表集合 \/ 155\n6.4　Class文件结构的发展 \/ 168\n6.5　本章小结 \/ 170\n第7章　虚拟机类加载机制 \/ 171\n7.1　概述 \/ 171\n7.2　类加载的时机 \/ 172\n7.3　类加载的过程 \/ 176\n7.3.1　加载 \/ 176\n7.3.2　验证 \/ 178\n7.3.3　准备 \/ 181\n7.3.4　解析 \/ 182\n7.3.5　初始化 \/ 186\n7.4　类加载器 \/ 189\n7.4.1　类与类加载器 \/ 189\n7.4.2　双亲委派模型 \/ 191\n7.4.3　破坏双亲委派模型 \/ 194\n7.5　本章小结 \/ 197\n第8章　虚拟机字节码执行引擎 \/ 198\n8.1　概述 \/ 198\n8.2　运行时栈帧结构 \/ 199\n8.2.1　局部变量表 \/ 199\n8.2.2　操作数栈 \/ 204\n8.2.3　动态连接 \/ 206\n8.2.4　方法返回地址 \/ 206\n8.2.5　附加信息 \/ 207\n8.3　方法调用 \/ 207\n8.3.1　解析 \/ 207\n8.3.2　分派 \/ 209\n8.4　基于栈的字节码解释执行引擎 \/ 221\n8.4.1　解释执行 \/ 221\n8.4.2　基于栈的指令集与基于寄存器的指令集 \/ 223\n8.4.3　基于栈的解释器执行过程 \/ 224\n8.5　本章小结 \/ 230\n第9章　类加载及执行子系统的案例与实战 \/ 231\n9.1　概述 \/ 231\n9.2　案例分析 \/ 231\n9.2.1　Tomcat：正统的类加载器架构 \/ 232\n9.2.2　OSGi：灵活的类加载器架构 \/ 235\n9.2.3　字节码生成技术与动态代理的实现 \/ 238\n9.2.4　Retrotranslator：跨越JDK版本 \/ 242\n9.3　实战：自己动手实现远程执行功能 \/ 246\n9.3.1　目标 \/ 246\n9.3.2　思路 \/ 247\n9.3.3　实现 \/ 248\n9.3.4　验证 \/ 255\n9.4　本章小结 \/ 256\n第四部分　程序编译与代码优化\n第10章　早期（编译期）优化 \/ 258\n10.1　概述 \/ 258\n10.2　Javac编译器 \/ 259\n10.2.1　Javac的源码与调试 \/ 259\n10.2.2　解析与填充符号表 \/ 262\n10.2.3　注解处理器 \/ 264\n10.2.4　语义分析与字节码生成 \/ 264\n10.3　Java语法糖的味道 \/ 268\n10.3.1　泛型与类型擦除 \/ 268\n10.3.2　自动装箱、拆箱与遍历循环 \/ 273\n10.3.3　条件编译 \/ 275\n10.4　实战：插入式注解处理器 \/ 276\n10.4.1　实战目标 \/ 276\n10.4.2　代码实现 \/ 277\n10.4.3　运行与测试 \/ 284\n10.4.4　其他应用案例 \/ 286\n10.5　本章小结 \/ 286\n第11章　晚期（运行期）优化 \/ 287\n11.1　概述 \/ 287\n11.2　HotSpot虚拟机内的即时编译器 \/ 288\n11.2.1　解释器与编译器 \/ 288\n11.2.2　编译对象与触发条件 \/ 291\n11.2.3　编译过程 \/ 294\n11.2.4　查看与分析即时编译结果 \/ 297\n11.3　编译优化技术 \/ 301\n11.3.1　优化技术概览 \/ 301\n11.3.2　公共子表达式消除 \/ 305\n11.3.3　数组边界检查消除 \/ 307\n11.3.4　方法内联 \/ 307\n11.3.5　逃逸分析 \/ 309\n11.4　Java与C\/C++的编译器对比 \/ 311\n11.5　本章小结 \/ 313\n第五部分　高效并发\n第12章　Java内存模型与线程 \/ 316\n12.1　概述 \/ 316\n12.2　硬件的效率与一致性 \/ 317\n12.3　Java内存模型 \/ 318\n12.3.1　主内存与工作内存 \/ 319\n12.3.2　内存间交互操作 \/ 320\n12.3.3　对于volatile型变量的特殊规则 \/ 322\n12.3.4　对于long和double型变量的特殊规则 \/ 327\n12.3.5　原子性、可见性与有序性 \/ 328\n12.3.6　先行发生原则 \/ 330\n12.4　Java与线程 \/ 333\n12.4.1　线程的实现 \/ 333\n12.4.2　Java线程调度 \/ 337\n12.4.3　状态转换 \/ 339\n12.5　本章小结 \/ 341\n第13章　线程安全与锁优化 \/ 342\n13.1　概述 \/ 342\n13.2　线程安全 \/ 343\n13.2.1　Java语言中的线程安全 \/ 343\n13.2.2　线程安全的实现方法 \/ 348\n13.3　锁优化 \/ 356\n13.3.1　自旋锁与自适应自旋 \/ 356\n13.3.2　锁消除 \/ 357\n13.3.3　锁粗化 \/ 358\n13.3.4　轻量级锁 \/ 358\n13.3.5　偏向锁 \/ 361\n13.4　本章小结 \/ 362\n附录A　Java虚拟机家族 \/ 363\n附录B　虚拟机字节码指令表 \/ 366\n附录C　HotSpot虚拟机主要参数表 \/ 372\n附录D　对象查询语言（OQL）简介 \/ 376\n附录E　JDK历史版本轨迹 \/ 383",
+      "pages": "387",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s6564370.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s6564370.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s6564370.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6522893\/",
+      "id": "6522893",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111349660",
+      "isbn13": "9787111349662",
+      "title": "深入理解Java虚拟机",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6522893",
+      "alt_title": "",
+      "author_intro": "资深Java技术专家，对JavaEE企业级应用开发、OSGi、Java虚拟机和工作流等都有深入的研究，并在大量的实践中积累了丰富的经验。尤其精通Java虚拟机，撰写了大量与JVM相关的经典文章，被各大技术社区争相转载，是ITeye等技术社区公认的Java虚拟机方面的领袖人物之一。现任远光软件股份有限公司平台开发部经理兼平台架构师，先后参加与过国家电网、南方电网等多个国家级大型ERP项目的平台架构工作，对软件系统架构也有深刻的认识和体会。",
+      "summary": "《深入理解Java虚拟机:JVM高级特性与最佳实践》内容简介：作为一位Java程序员，你是否也曾经想深入理解Java虚拟机，但是却被它的复杂和深奥拒之门外？没关系，本书极尽化繁为简之妙，能带领你在轻松中领略Java虚拟机的奥秘。本书是近年来国内出版的唯一一本与Java虚拟机相关的专著，也是唯一一本同时从核心理论和实际运用这两个角度去探讨Java虚拟机的著作，不仅理论分析得透彻，而且书中包含的典型案例和最佳实践也极具现实指导意义。\n全书共分为五大部分。第一部分从宏观的角度介绍了整个Java技术体系的过去、现在和未来，以及如何独立地编译一个OpenJDK7，这对理解后面的内容很有帮助。第二部分讲解了JVM的自动内存管理，包括虚拟机内存区域的划分原理以及各种内存溢出异常产生的原因；常见的垃圾收集算法以及垃圾收集器的特点和工作原理；常见的虚拟机的监控与调试工具的原理和使用方法。第三部分分析了虚拟机的执行子系统，包括Class的文件结构以及如何存储和访问Class中的数据；虚拟机的类创建机制以及类加载器的工作原理和它对虚拟机的意义；虚拟机字节码的执行引擎以及它在实行代码时涉及的内存结构。第四部分讲解了程序的编译与代码的优化，阐述了泛型、自动装箱拆箱、条件编译等语法糖的原理；讲解了虚拟机的热点探测方法、HotSpot的即时编译器、编译触发条件，以及如何从虚拟机外部观察和分析JIT编译的数据和结果。第五部分探讨了Java实现高效并发的原理，包括JVM内存模型的结构和操作；原子性、可见性和有序性在Java内存模型中的体现；先行发生原则的规则和使用；线程在Java语言中的实现原理；虚拟机实现高效并发所做的一系列锁优化措施。\n本书适合所有Java程序员、系统调优师和系统架构师阅读。\n\n海报：\n\n \n\n  点击链接进入Java程序设计： \n《深入理解Java虚拟机:JVM高级特性与最佳实践》  \n《JAVA核心技术(卷1):基础知识(原书第8版)》  \n《JAVA核心技术卷2:高级特征》  \n《Java语言程序设计(基础篇)(原书第8版)》  \n《Java编程思想(第4版)》  \n《Effective Java中文版(第2版)》  \n《Java编程思想(英文版•第4版)》  \n《Java 实时编程》  \n《Java加密与解密的艺术》  \n《Eclipse插件开发(原书第3版)(畅销插件开发指南新版)》  \n《Java语言程序设计:进阶篇(原书第8版)》  \n《Maven实战》",
+      "price": "69.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 704,
+        "average": "8.7",
+        "min": 0
+      },
+      "subtitle": "基础知识",
+      "author": [
+        "[美] 霍斯特曼",
+        "[美] 科奈尔"
+      ],
+      "pubdate": "2006-5",
+      "tags": [
+        {
+          "count": 534,
+          "name": "JAVA",
+          "title": "JAVA"
+        },
+        {
+          "count": 191,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 123,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 99,
+          "name": "JAVA2核心技术",
+          "title": "JAVA2核心技术"
+        },
+        {
+          "count": 98,
+          "name": "java基础",
+          "title": "java基础"
+        },
+        {
+          "count": 82,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 74,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 72,
+          "name": "程序设计",
+          "title": "程序设计"
+        }
+      ],
+      "origin_title": "Core java 2. Volume I, Fundamentals",
+      "image": "https://img3.doubanio.com\/mpic\/s1815135.jpg",
+      "binding": "平装",
+      "translator": [
+        "叶乃文",
+        "邝劲筠 等"
+      ],
+      "catalog": "",
+      "pages": "691",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s1815135.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s1815135.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s1815135.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1781451\/",
+      "id": "1781451",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111185234",
+      "isbn13": "9787111185239",
+      "title": "JAVA 2核心技术 卷Ⅰ",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1781451",
+      "alt_title": "Core java 2. Volume I, Fundamentals",
+      "author_intro": "Cay S.Horstmann是圣何塞州立大学计算机科学系教授。他曾经是Preview Systems公司的副总裁和首席技术官，曾任许多大型公司，大学知组织的C++、Java与因特网编程顾问。他还撰写了众多技术和学术专著，并参与编写《Core JavaServer Faces》一书。",
+      "summary": "本书是Java技术经典参考书，多年畅销不衰，第7版在保留以前版本风格的基础上，涵盖Java2开发平台标准版J2SE5.0的基础知识，主要内容包括面各对象程序设计、反射与代理、接口与内部类、事件监听器模型、使用Swing UI工具箱进行图形用户界面设计，异常处理、流输入\/输出和对象序列化、泛型程序设计等。\n本书内容翔实、深入浅出，附有大量程序实例，极具实用价值，是Java初学者和Java程序员的必备参考书。",
+      "series": {
+        "id": "28333",
+        "title": "Sun公司核心技术丛书"
+      },
+      "price": "88.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 623,
+        "average": "8.7",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美] Bruce Eckel"
+      ],
+      "pubdate": "2002-9",
+      "tags": [
+        {
+          "count": 438,
+          "name": "Java",
+          "title": "Java"
+        },
+        {
+          "count": 141,
+          "name": "编程思想",
+          "title": "编程思想"
+        },
+        {
+          "count": 104,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 92,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 81,
+          "name": "软件开发",
+          "title": "软件开发"
+        },
+        {
+          "count": 75,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 53,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 38,
+          "name": "IT",
+          "title": "IT"
+        }
+      ],
+      "origin_title": "Thinking in Java",
+      "image": "https://img1.doubanio.com\/mpic\/s1085058.jpg",
+      "binding": "平装",
+      "translator": [
+        "侯捷"
+      ],
+      "catalog": "出版者的话\n专家指导委员会\n读者回应\n关于《Thinking in C++》\n题献\n译序\nJava环境设定\n序言\n简介\n第一章 对象导论\n第二章 万事万物皆对象\n第三章 控制程序流程\n第四章 初始化与清理\n第五章 隐藏实现细目\n第六章 重复运用Classes\n第七章 多态\n第八章 接口与内隐类\n……\n附录A 对象的传递和返回\n……\n索引",
+      "pages": "809",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s1085058.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s1085058.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s1085058.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1101158\/",
+      "id": "1101158",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111104412",
+      "isbn13": "9787111104414",
+      "title": "Java编程思想(第2版)",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1101158",
+      "alt_title": "Thinking in Java",
+      "author_intro": "Bruce Eckel是Thinking in C++和《C++编程思想》的作者。他有20年专业编程经验，并自1986年起教育人们如何撰写面向对象程序，足迹遍及全球，成为一位知名的C++教师和顾问，如今兼涉Java。Eckel是C++标准委员会拥有表决权的成员之一，曾经写过另五本面向对象编程书籍，发表过150篇以上的文章，是多本计算机杂志的专栏作家。",
+      "summary": "作者根据多年教学实践中发现的问题，通过简练的示例和叙述，阐明了在学习Java中特别容易混淆的诸多概念。与前一版相比，此第2版不但新增了Java2的语言特性，还根据语言的演变作出了彻底的更新，其中最主要的改变是第9章的群集。",
+      "price": "99.00元"
+    }
+  ]
+}

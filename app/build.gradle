@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.netease.jsontest.jsontest"
+        applicationId "com.netease.jsontest"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
@@ -22,6 +22,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:1.10.19'
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.alibaba:fastjson:1.2.8'
     compile 'com.google.code.gson:gson:2.6.2'

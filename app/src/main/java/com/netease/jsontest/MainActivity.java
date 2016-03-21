@@ -1,8 +1,7 @@
-package com.netease.jsontest.jsontest;
+package com.netease.jsontest;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AbsListView;
@@ -10,16 +9,7 @@ import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 
-import com.alibaba.fastjson.JSON;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.google.gson.Gson;
-import com.netease.jsontest.jsontest.model.Book;
-import com.netease.jsontest.jsontest.model.BookList;
-import com.netease.jsontest.jsontest.model.BookModel;
-
-import java.io.IOException;
+import com.netease.jsontest.model.BookModel;
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";

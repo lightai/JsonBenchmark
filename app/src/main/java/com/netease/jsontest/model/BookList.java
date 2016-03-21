@@ -1,4 +1,4 @@
-package com.netease.jsontest.jsontest.model;
+package com.netease.jsontest.model;
 
 import java.util.List;
 

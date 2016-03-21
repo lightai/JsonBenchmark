@@ -1,4 +1,4 @@
-package com.netease.jsontest.jsontest;
+package com.netease.jsontest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

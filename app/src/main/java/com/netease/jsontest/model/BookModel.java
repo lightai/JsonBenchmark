@@ -1,4 +1,4 @@
-package com.netease.jsontest.jsontest.model;
+package com.netease.jsontest.model;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -18,7 +18,7 @@ public class BookModel {
     public String getBookList(Context context) {
         if (TextUtils.isEmpty(json)) {
             try {
-                json = IOUtils.toString(context.getAssets().open("android.json"), "utf-8");
+                json = IOUtils.toString(context.getAssets().open("com.netease.jsontest.jsontest/android.json"), "utf-8");
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -30,7 +30,7 @@ public class BookModel {
     public String getPython(Context context) {
         if (TextUtils.isEmpty(json)) {
             try {
-                python = IOUtils.toString(context.getAssets().open("python.json"), "utf-8");
+                python = IOUtils.toString(context.getAssets().open("com.netease.jsontest.jsontest/python.json"), "utf-8");
             } catch (IOException e) {
                 e.printStackTrace();
             }
