@@ -37,7 +37,7 @@ public class JsonTestControllerTest {
         for (int i = 0; i < paths.length; i++) {
             String path = paths[i];
             String json = jsons[i];
-            controller.test(json, path);
+            controller.test(json, path + ".json");
         }
     }
 

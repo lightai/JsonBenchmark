@@ -5,6 +5,8 @@ import android.util.Log;
 import com.alibaba.fastjson.JSON;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.SerializationConfig;
+import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.netease.jsontest.model.BookList;
@@ -27,79 +29,86 @@ public class JsonTestController {
     public void test(String json, String tag) {
         BookList bookList;
 
-        bookList = fastJsonSeri(tag, json);
-        bookList = gsonSeri(tag, json);
-        bookList = jacksonSeri(tag, json);
+        bookList = fastJsonDSeri(tag, json);
+        bookList = gsonDSeri(tag, json);
+        bookList = jacksonDSeri(tag, json);
 
-        fastJsonDes(tag, bookList);
-        gsonDes(tag, bookList);
-        jacksonDes(tag, bookList);
+        fastJsonSeri(tag, bookList);
+        gsonSeri(tag, bookList);
+        jacksonSeri(tag, bookList);
     }
 
-    BookList fastJsonSeri(String path, String json) {
-        long start = System.currentTimeMillis();
+    BookList fastJsonDSeri(String path, String json) {
+        long start = System.nanoTime();
         BookList list = JSON.parseObject(json, BookList.class);
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "fast json path = " + path + " Seri time:" + (end - start));
-        System.out.println(TAG +  " fastJson path:" + path + " Seri time:" + (end - start));
+        System.out.println(TAG +  " fastJson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    BookList gsonSeri(String path, String json) {
-        long start = System.currentTimeMillis();
+    BookList gsonDSeri(String path, String json) {
+        long start = System.nanoTime();
         BookList list = gson.fromJson(json, BookList.class);
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "gson  path = " + path + " Seri time:" + (end - start));
-        System.out.println(TAG +  " gson path:" + path + " Seri time:" + (end - start));
+        System.out.println(TAG +  " gson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    BookList jacksonSeri(String path, String json) {
-        long start = System.currentTimeMillis();
+    BookList jacksonDSeri(String path, String json) {
+        long start = System.nanoTime();
         BookList list = null;
         try {
             list = objectMapper.readValue(json, BookList.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "jacksonSeri path = " + path + " time:" + (end - start));
-        System.out.println(TAG +  " jackson path:" + path + " Seri time:" + (end - start));
+        System.out.println(TAG +  " jackson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    String fastJsonDes(String path, BookList bookList) {
-        long start = System.currentTimeMillis();
+    String fastJsonSeri(String path, BookList bookList) {
+        long start = System.nanoTime();
         String json = JSON.toJSONString(bookList);
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "fast json  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "fastJsonDes json = " + json);
-        System.out.println(TAG + " fastjson path = " + path + " dSeri time:" + (end - start));
+        Log.d(TAG, "fastJsonSeri json = " + json);
+        System.out.println(TAG + " fastjson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
 
-    String gsonDes(String path, BookList bookList) {
-        long start = System.currentTimeMillis();
+    String gsonSeri(String path, BookList bookList) {
+        long start = System.nanoTime();
         String json = gson.toJson(bookList);
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "gson  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "gsonDes json = " + json);
-        System.out.println(TAG + " gson path = " + path + " dSeri time:" + (end - start));
+        Log.d(TAG, "gsonSeri json = " + json);
+        System.out.println(TAG + " gson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
 
-    String jacksonDes(String path, BookList bookList) {
-        long start = System.currentTimeMillis();
+    String jacksonSeri(String path, BookList bookList) {
+        long start = System.nanoTime();
         String json = null;
         try {
             json = objectMapper.writeValueAsString(bookList);
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
-        long end = System.currentTimeMillis();
+        long end = System.nanoTime();
         Log.i(TAG, "jackson  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "jacksonDes json = " + json);
-        System.out.println(TAG + " jackson path = " + path + " dSeri time:" + (end - start));
+        Log.d(TAG, "jacksonSeri json = " + json);
+        System.out.println(TAG + " jackson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
+    }
+
+    String time(long ns) {
+        long ms = ns / 1000 / 1000;
+        long us = ns / 1000 % 1000;
+        long remain = ns % 1000;
+        return String.format("%d,%03d,%03d", ms, us, remain);
     }
 }
