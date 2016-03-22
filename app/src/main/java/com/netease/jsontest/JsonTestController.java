@@ -42,7 +42,7 @@ public class JsonTestController {
         long start = System.nanoTime();
         BookList list = JSON.parseObject(json, BookList.class);
         long end = System.nanoTime();
-        Log.i(TAG, "fast json path = " + path + " Seri time:" + (end - start));
+//        Log.i(TAG, "fast json path = " + path + " Seri time:" + (end - start));
 //        System.out.println(TAG +  " fastJson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
@@ -51,7 +51,7 @@ public class JsonTestController {
         long start = System.nanoTime();
         BookList list = gson.fromJson(json, BookList.class);
         long end = System.nanoTime();
-        Log.i(TAG, "gson  path = " + path + " Seri time:" + (end - start));
+//        Log.i(TAG, "gson  path = " + path + " Seri time:" + (end - start));
 //        System.out.println(TAG +  " gson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
@@ -65,7 +65,7 @@ public class JsonTestController {
             e.printStackTrace();
         }
         long end = System.nanoTime();
-        Log.i(TAG, "jacksonSeri path = " + path + " time:" + (end - start));
+//        Log.i(TAG, "jacksonSeri path = " + path + " time:" + (end - start));
 //        System.out.println(TAG +  " jackson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
@@ -74,8 +74,8 @@ public class JsonTestController {
         long start = System.nanoTime();
         String json = JSON.toJSONString(bookList);
         long end = System.nanoTime();
-        Log.i(TAG, "fast json  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "fastJsonSeri json = " + json);
+//        Log.i(TAG, "fast json  path = " + path + " dSeri time:" + (end - start));
+//        Log.d(TAG, "fastJsonSeri json = " + json);
 //        System.out.println(TAG + " fastjson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
@@ -84,8 +84,8 @@ public class JsonTestController {
         long start = System.nanoTime();
         String json = gson.toJson(bookList);
         long end = System.nanoTime();
-        Log.i(TAG, "gson  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "gsonSeri json = " + json);
+//        Log.i(TAG, "gson  path = " + path + " dSeri time:" + (end - start));
+//        Log.d(TAG, "gsonSeri json = " + json);
 //        System.out.println(TAG + " gson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
@@ -99,8 +99,8 @@ public class JsonTestController {
             e.printStackTrace();
         }
         long end = System.nanoTime();
-        Log.i(TAG, "jackson  path = " + path + " dSeri time:" + (end - start));
-        Log.d(TAG, "jacksonSeri json = " + json);
+//        Log.i(TAG, "jackson  path = " + path + " dSeri time:" + (end - start));
+//        Log.d(TAG, "jacksonSeri json = " + json);
 //        System.out.println(TAG + " jackson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
