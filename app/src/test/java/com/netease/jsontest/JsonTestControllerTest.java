@@ -12,7 +12,9 @@ import java.io.IOException;
  * Created by light on 16-3-21.
  */
 public class JsonTestControllerTest {
-    final String[] paths = {"android", "android100", "c100", "ios", "java", "js", "mac", "python"};
+	static final int COUNT = 10000;
+	
+    final String[] paths = {"android"};//, "android100", "c100", "ios", "java", "js", "mac", "python"};
     final String[] jsons = new String[paths.length];
     BookList bookList;
 
@@ -28,7 +30,7 @@ public class JsonTestControllerTest {
                 e.printStackTrace();
             }
         }
-        bookList = controller.gsonDSeri(paths[1], jsons[1]);
+        bookList = controller.gsonDSeri(paths[0], jsons[0]);
     }
 
     @Before
@@ -48,7 +50,7 @@ public class JsonTestControllerTest {
     @Test
     public void testFastJsonSeri() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -56,14 +58,14 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("fastJson 序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 
     @Test
     public void testGsonSeri() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -71,14 +73,14 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("gson 序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 
     @Test
     public void testJacksonSeri() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -86,14 +88,14 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("jackSon 序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 
     @Test
     public void testFastJsonDes() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -101,14 +103,14 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("fastJson 反序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 
     @Test
     public void testGsonDes() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -116,14 +118,14 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("gson 反序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 
     @Test
     public void testJacksonDes() throws Exception {
         long t0 = System.nanoTime();
-        for (int j = 0; j < 1000; j++) {
+        for (int j = 0; j < COUNT; j++) {
             for (int i = 0; i < paths.length; i++) {
                 String path = paths[i];
                 String json = jsons[i];
@@ -131,7 +133,7 @@ public class JsonTestControllerTest {
             }
         }
         long t1 = System.nanoTime();
-        long ns = (t1 - t0) / 1000;
+        long ns = (t1 - t0) / COUNT;
         System.out.println("jackSon 反序列化 耗时：" + JsonTestController.time(ns) + "ns");
     }
 }

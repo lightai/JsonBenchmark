@@ -1,6 +1,7 @@
 package com.netease.jsontest.model;
 
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * Created by light on 16-3-20.
@@ -25,6 +26,7 @@ public class Book {
     public String catalog;
     public String ebook_url;
     public String ebook_price;
+	public List<String> translator;
 
     public Tag[] tags;
     public static class Tag {
@@ -32,5 +34,14 @@ public class Book {
         public String name;
         public String title;
     }
+
+	public Rate rating;
+	public static class Rate {
+		public int max;
+		public int numRaters;
+		public String average;
+		public int min;
+	}
+
     public HashMap<String, String> images;
 }

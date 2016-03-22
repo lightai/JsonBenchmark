@@ -1,0 +1,82 @@
+{
+  "rating": {
+	"max": 10,
+	"numRaters": 74,
+	"average": "7.9",
+	"min": 0
+  },
+  "subtitle": "",
+  "author": [
+	"罗伊・麦德维杰夫",
+	"王晓玉",
+	"姚强"
+  ],
+  "pubdate": "2005-1-1",
+  "tags": [
+	{
+	  "count": 44,
+	  "name": "历史",
+	  "title": "历史"
+	},
+	{
+	  "count": 42,
+	  "name": "苏联",
+	  "title": "苏联"
+	},
+	{
+	  "count": 22,
+	  "name": "政治",
+	  "title": "政治"
+	},
+	{
+	  "count": 6,
+	  "name": "苏联史",
+	  "title": "苏联史"
+	},
+	{
+	  "count": 6,
+	  "name": "世界历史",
+	  "title": "世界历史"
+	},
+	{
+	  "count": 4,
+	  "name": "苏联专题",
+	  "title": "苏联专题"
+	},
+	{
+	  "count": 3,
+	  "name": "苏东研究",
+	  "title": "苏东研究"
+	},
+	{
+	  "count": 3,
+	  "name": "民主",
+	  "title": "民主"
+	}
+  ],
+  "origin_title": "",
+  "image": "https://img1.doubanio.com\/mpic\/s2170804.jpg",
+  "binding": "平装(无盘)",
+  "translator": [
+	"王晓玉",
+	"姚强"
+  ],
+  "catalog": "",
+  "pages": "312",
+  "images": {
+	"small": "https://img1.doubanio.com\/spic\/s2170804.jpg",
+	"large": "https://img1.doubanio.com\/lpic\/s2170804.jpg",
+	"medium": "https://img1.doubanio.com\/mpic\/s2170804.jpg"
+  },
+  "alt": "http:\/\/book.douban.com\/subject\/1220700\/",
+  "id": "1220700",
+  "publisher": "社会科学文献出版社",
+  "isbn10": "7801902637",
+  "isbn13": "9787801902634",
+  "title": "苏联的最后一年",
+  "url": "http:\/\/api.douban.com\/v2\/book\/1220700",
+  "alt_title": "",
+  "author_intro": "",
+  "summary": "本书由俄罗斯著名史学家、政论家罗伊•麦德维杰夫撰写，主要讲述1991年“8•19”事件前后苏联的经济状况、人民群众的情绪、党的领导层的变动、事件过程中的一些关节点、重要人物，以及作者本人对这一事件的总结和反思。\n1991年，麦德维杰夫出任苏联最高苏维埃代表、苏共中央委员。作为局内人，麦德维杰夫与1991年苏联和俄罗斯的高层亲身接触，直接参与了一些具决定意义的会议，甚至持有一些重要人物如卢基扬诺夫关于“8•19”事件的笔记。\n作为史学家，麦德维杰夫在苏联解体十年后痛定思痛，根据史料和事实，对苏联解体的原因进行了深层的分析。麦德维杰夫的立论十分客观，对于人和事的评价基本上是公正的，对于中国读者了解这段历史，汲取苏联解体教训具有借鉴和启发意义。",
+  "price": "25.00元"
+}

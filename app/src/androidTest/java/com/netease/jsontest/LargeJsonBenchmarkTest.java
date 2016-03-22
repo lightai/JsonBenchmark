@@ -18,18 +18,18 @@ import org.junit.runner.RunWith;
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActivity> {
-	public static final String TAG = "MainActivityTest";
+public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<MainActivity> {
+	public static final String TAG = "LargeJsonBenchmarkTest";
 
 	final String[] paths = {"android", "android100", "c100", "ios", "java", "js", "mac", "python"};
 	final String[] jsons = new String[paths.length];
-	
+
 	final static int COUNT = 1000;
 
 	BookList bookList;
 	JsonTestController controller = new JsonTestController();
 
-	public MainActivityTest() {
+	public LargeJsonBenchmarkTest() {
 		super(MainActivity.class);
 	}
 
