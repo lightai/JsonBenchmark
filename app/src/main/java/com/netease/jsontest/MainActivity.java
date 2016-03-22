@@ -8,19 +8,24 @@ import android.widget.AbsListView;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.ListView;
+import android.widget.TextView;
 
+import com.netease.jsontest.model.BookList;
 import com.netease.jsontest.model.BookModel;
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";
 
     final String[] paths = {"android", "android100", "c100", "ios", "java", "js", "mac", "python"};
-    final JsonTestController testController = new JsonTestController();
+    final JsonTestController<BookList> testController = new JsonTestController(BookList.class);
+
+	TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+		textView = (TextView) findViewById(R.id.text_view);
         ((ListView) findViewById(R.id.list_view)).setAdapter(new ThisAdapter());
     }
 
@@ -51,9 +56,10 @@ public class MainActivity extends AppCompatActivity {
             button.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    testController.test(
-                            BookModel.get().getJson(v.getContext(), paths[position]),
-                            paths[position]);
+					String json = BookModel.get().getJson(v.getContext(), paths[position]);
+					BookList bookList = testController.gsonDSeri(paths[position], json);
+					String text = testController.jacksonSeri(paths[position], bookList);
+					textView.setText(text);
                 }
             });
             return button;

@@ -1,5 +1,6 @@
 package com.netease.jsontest;
 
+import com.netease.jsontest.model.Book;
 import com.netease.jsontest.model.User;
 
 import org.apache.commons.io.IOUtils;
@@ -18,10 +19,10 @@ public class MiddleJsonBenchmarkTest2 {
 	final String[] userPaths = {"android", "c", "js", "lisp", "mac", "music", "php", "python", "lisp"};
 	final String[] userJsons = new String[userPaths.length];
 
-	User bookList;
-	UserJsonTestController controller = new UserJsonTestController();
+	Book bookList;
+	JsonTestController<Book> controller = new JsonTestController<Book>(Book.class);
 
-	public SimpleJsonBenchmarkTest2() throws Exception {
+	public MiddleJsonBenchmarkTest2() throws Exception {
 		for (int i = 0; i < userPaths.length; i++) {
 			try {
 				userJsons[i] = IOUtils.toString(

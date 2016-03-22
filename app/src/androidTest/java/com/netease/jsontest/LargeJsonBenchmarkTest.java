@@ -27,7 +27,7 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 	final static int COUNT = 1000;
 
 	BookList bookList;
-	JsonTestController controller = new JsonTestController();
+	JsonTestController<BookList> controller = new JsonTestController(BookList.class);
 
 	public LargeJsonBenchmarkTest() {
 		super(MainActivity.class);
@@ -56,19 +56,6 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "fastJson 序列化 耗时：" + JsonTestController.time(ns) + "ns---------------------------");
-
-		gc();
-	}
-
-	private void gc() {
-//		Log.d(TAG, "sleep start");
-//		System.gc();
-//		try {
-//			Thread.currentThread().sleep(5000);
-//		} catch (InterruptedException e) {
-//			e.printStackTrace();
-//		}
-//		Log.d(TAG, "sleep end");
 	}
 
 	@Test
@@ -85,8 +72,6 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "gson 序列化 耗时：" + JsonTestController.time(ns) + "ns---------------------------------");
-
-		gc();
 	}
 
 	@Test
@@ -103,8 +88,6 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "jackSon 序列化 耗时：" + JsonTestController.time(ns) + "ns--------------------------------");
-
-		gc();
 	}
 
 	@Test
@@ -121,8 +104,6 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "fastJson 反序列化 耗时：" + JsonTestController.time(ns) + "ns-----------------------------");
-
-		gc();
 	}
 
 	@Test
@@ -139,8 +120,6 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "gson 反序列化 耗时：" + JsonTestController.time(ns) + "ns--------------------");
-
-		gc();
 	}
 
 	@Test
@@ -157,7 +136,5 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 		long t1 = System.nanoTime();
 		long ns = (t1 - t0) / COUNT;
 		Log.d(TAG, "jackSon 反序列化 耗时：" + JsonTestController.time(ns) + "ns-----------------------------");
-
-		gc();
 	}
 }

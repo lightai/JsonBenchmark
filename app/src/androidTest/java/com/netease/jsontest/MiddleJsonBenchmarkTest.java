@@ -6,7 +6,6 @@ import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 
 import com.netease.jsontest.model.Book;
-import com.netease.jsontest.model.User;
 import com.netease.jsontest.model.UserModel;
 
 import org.junit.Before;
@@ -27,7 +26,7 @@ public class MiddleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Ma
 	final String[] userJsons = new String[userPaths.length];
 
 	Book bookList;
-	UserJsonTestController controller = new UserJsonTestController();
+	JsonTestController<Book> controller = new JsonTestController(Book.class);
 
 	public MiddleJsonBenchmarkTest() {
 		super(MainActivity.class);

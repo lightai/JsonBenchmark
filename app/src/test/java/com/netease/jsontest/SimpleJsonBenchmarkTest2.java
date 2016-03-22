@@ -19,7 +19,7 @@ public class SimpleJsonBenchmarkTest2 {
 	final String[] userJsons = new String[userPaths.length];
 
 	User bookList;
-	UserJsonTestController controller = new UserJsonTestController();
+	JsonTestController<User> controller = new JsonTestController(User.class);
 
 	public SimpleJsonBenchmarkTest2() throws Exception {
 		for (int i = 0; i < userPaths.length; i++) {

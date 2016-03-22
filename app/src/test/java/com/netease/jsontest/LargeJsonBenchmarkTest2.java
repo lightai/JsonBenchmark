@@ -11,16 +11,16 @@ import java.io.IOException;
 /**
  * Created by light on 16-3-21.
  */
-public class JsonTestControllerTest {
+public class LargeJsonBenchmarkTest2 {
 	static final int COUNT = 10000;
 	
     final String[] paths = {"android"};//, "android100", "c100", "ios", "java", "js", "mac", "python"};
     final String[] jsons = new String[paths.length];
     BookList bookList;
 
-    JsonTestController controller = new JsonTestController();
+    JsonTestController<BookList> controller = new JsonTestController(BookList.class);
 
-    public JsonTestControllerTest() {
+    public LargeJsonBenchmarkTest2() {
         for (int i = 0; i < paths.length; i++) {
             try {
                 jsons[i] = IOUtils.toString(

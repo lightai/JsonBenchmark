@@ -5,8 +5,6 @@ import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 
-import com.netease.jsontest.model.BookList;
-import com.netease.jsontest.model.BookModel;
 import com.netease.jsontest.model.User;
 import com.netease.jsontest.model.UserModel;
 
@@ -28,7 +26,7 @@ public class SimpleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Ma
 	final String[] userJsons = new String[userPaths.length];
 
 	User bookList;
-	UserJsonTestController controller = new UserJsonTestController();
+	JsonTestController<User> controller = new JsonTestController(User.class);
 
 	public SimpleJsonBenchmarkTest() {
 		super(MainActivity.class);
