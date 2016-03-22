@@ -38,25 +38,25 @@ public class JsonTestController {
         jacksonSeri(tag, bookList);
     }
 
-    BookList fastJsonDSeri(String path, String json) {
+    public BookList fastJsonDSeri(String path, String json) {
         long start = System.nanoTime();
         BookList list = JSON.parseObject(json, BookList.class);
         long end = System.nanoTime();
         Log.i(TAG, "fast json path = " + path + " Seri time:" + (end - start));
-        System.out.println(TAG +  " fastJson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG +  " fastJson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    BookList gsonDSeri(String path, String json) {
+    public BookList gsonDSeri(String path, String json) {
         long start = System.nanoTime();
         BookList list = gson.fromJson(json, BookList.class);
         long end = System.nanoTime();
         Log.i(TAG, "gson  path = " + path + " Seri time:" + (end - start));
-        System.out.println(TAG +  " gson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG +  " gson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    BookList jacksonDSeri(String path, String json) {
+    public BookList jacksonDSeri(String path, String json) {
         long start = System.nanoTime();
         BookList list = null;
         try {
@@ -66,31 +66,31 @@ public class JsonTestController {
         }
         long end = System.nanoTime();
         Log.i(TAG, "jacksonSeri path = " + path + " time:" + (end - start));
-        System.out.println(TAG +  " jackson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG +  " jackson 反序列化" + path + " 耗时:" + time(end - start) + "ns");
         return list;
     }
 
-    String fastJsonSeri(String path, BookList bookList) {
+    public String fastJsonSeri(String path, BookList bookList) {
         long start = System.nanoTime();
         String json = JSON.toJSONString(bookList);
         long end = System.nanoTime();
         Log.i(TAG, "fast json  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "fastJsonSeri json = " + json);
-        System.out.println(TAG + " fastjson 序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG + " fastjson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
 
-    String gsonSeri(String path, BookList bookList) {
+    public String gsonSeri(String path, BookList bookList) {
         long start = System.nanoTime();
         String json = gson.toJson(bookList);
         long end = System.nanoTime();
         Log.i(TAG, "gson  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "gsonSeri json = " + json);
-        System.out.println(TAG + " gson 序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG + " gson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
 
-    String jacksonSeri(String path, BookList bookList) {
+    public String jacksonSeri(String path, BookList bookList) {
         long start = System.nanoTime();
         String json = null;
         try {
@@ -101,11 +101,11 @@ public class JsonTestController {
         long end = System.nanoTime();
         Log.i(TAG, "jackson  path = " + path + " dSeri time:" + (end - start));
         Log.d(TAG, "jacksonSeri json = " + json);
-        System.out.println(TAG + " jackson 序列化" + path + " 耗时:" + time(end - start) + "ns");
+//        System.out.println(TAG + " jackson 序列化" + path + " 耗时:" + time(end - start) + "ns");
         return json;
     }
 
-    String time(long ns) {
+    public static String time(long ns) {
         long ms = ns / 1000 / 1000;
         long us = ns / 1000 % 1000;
         long remain = ns % 1000;

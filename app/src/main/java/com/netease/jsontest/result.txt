@@ -20,7 +20,7 @@ gson          11k            48k
 fastjson    146k          230k
 jackson内存占用是gson的5-10倍
 
-dalvik
+dalvik kitkat x86模拟器
 gson == jackson = 1
 fastjson = 2
 
