@@ -1,0 +1,41 @@
+{
+  "rating": {
+	"max": 10,
+	"numRaters": 0,
+	"average": "0.0",
+	"min": 0
+  },
+  "subtitle": "",
+  "author": [
+	"陈英",
+	"姒茂新",
+	"贾震斌",
+	"姒茂新",
+	"贾震斌",
+	"陈英"
+  ],
+  "pubdate": "2005-1-1",
+  "tags": [],
+  "origin_title": "",
+  "image": "https://img3.doubanio.com\/mpic\/s1166856.jpg",
+  "binding": "平装(无盘)",
+  "translator": [],
+  "catalog": "",
+  "pages": "266",
+  "images": {
+	"small": "https://img3.doubanio.com\/spic\/s1166856.jpg",
+	"large": "https://img3.doubanio.com\/lpic\/s1166856.jpg",
+	"medium": "https://img3.doubanio.com\/mpic\/s1166856.jpg"
+  },
+  "alt": "http:\/\/book.douban.com\/subject\/1220600\/",
+  "id": "1220600",
+  "publisher": "电子工业出版社",
+  "isbn10": "712100030X",
+  "isbn13": "9787121000300",
+  "title": "Linux中文版应用基础",
+  "url": "http:\/\/api.douban.com\/v2\/book\/1220600",
+  "alt_title": "",
+  "author_intro": "",
+  "summary": "《Linux中文版应用基础》以Red Hat Linux9.0的最新版本Fedora Cora 1 Linux为平台，介绍了Linux中文版操作系统的基本操作及其主要应用。全书共9章，主要内容涉及：Linux操作系统的安装、配置；KDE、GNOME图形界面的基本操作；常用的shell命令；文字处理、电子表格、文稿演示、公式编辑、图形处理、日程管理等办公应用；上网浏览、邮件收发、即时通信、文件传输等互联网配置及应用；Linux的多媒体应用；对Linux平台上的Web、邮件、FTP、DNS和DHCP等服务器的配置和使用也做了较详细的介绍，还介绍了与Windows系统在局域网中的互联和文件共享、防火墙安全设置；最后对Linux在编程开发方面的应用进行概述性的简介。   \n    《Linux中文版应用基础》是Linux初学者、高职高专学生和教师学习和参考的理想读物，也适合各类Linux培训使用。",
+  "price": "24.00元"
+}

@@ -6,6 +6,7 @@ import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 
 import com.netease.jsontest.model.Book;
+import com.netease.jsontest.model.BookModel;
 import com.netease.jsontest.model.UserModel;
 
 import org.junit.Before;
@@ -36,7 +37,7 @@ public class MiddleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Ma
 	public void setUp() throws Exception {
 		super.setUp();
 		for (int i = 0; i < userPaths.length; i++) {
-			userJsons[i] = UserModel.get().getUserJson(getActivity(), userPaths[i]);
+			userJsons[i] = BookModel.get().getBookJson(getActivity(), userPaths[i]);
 		}
 		bookList = controller.gsonDSeri(userPaths[1], userJsons[1]);
 	}

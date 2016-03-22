@@ -1,7 +1,6 @@
 package com.netease.jsontest;
 
 import com.netease.jsontest.model.Book;
-import com.netease.jsontest.model.User;
 
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
@@ -14,9 +13,9 @@ import java.io.IOException;
 public class MiddleJsonBenchmarkTest2 {
 	public static final String TAG = "SimpleJsonBenchmarkTest2";
 
-	final static int COUNT = 100000;
+	final static int COUNT = 1000;
 
-	final String[] userPaths = {"android", "c", "js", "lisp", "mac", "music", "php", "python", "lisp"};
+	final String[] userPaths = {"book0", "book1", "book2", "book3", "book4", "book5", "book6", "book7", "book8", "book9", "book0"};
 	final String[] userJsons = new String[userPaths.length];
 
 	Book bookList;
@@ -26,7 +25,7 @@ public class MiddleJsonBenchmarkTest2 {
 		for (int i = 0; i < userPaths.length; i++) {
 			try {
 				userJsons[i] = IOUtils.toString(
-						this.getClass().getResourceAsStream("user/" + userPaths[i] + ".json"),
+						this.getClass().getResourceAsStream("book/" + userPaths[i] + ".json"),
 						"utf-8");
 			} catch (IOException e) {
 				e.printStackTrace();
