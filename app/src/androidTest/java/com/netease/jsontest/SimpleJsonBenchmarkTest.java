@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class SimpleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<MainActivity> {
+public class SimpleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<MainUIActivity> {
 	public static final String TAG = "SimpleJsonBenchmarkTest";
 
 	final static int COUNT = 1000;
@@ -29,7 +29,7 @@ public class SimpleJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Ma
 	JsonTestController<User> controller = new JsonTestController(User.class);
 
 	public SimpleJsonBenchmarkTest() {
-		super(MainActivity.class);
+		super(MainUIActivity.class);
 	}
 
 	@Before

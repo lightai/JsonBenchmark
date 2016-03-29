@@ -1,0 +1,1157 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 4550,
+  "books": [
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 5,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mircea Eliade"
+      ],
+      "pubdate": "2007-11-30",
+      "tags": [
+        {
+          "count": 2,
+          "name": "伊利亚德",
+          "title": "伊利亚德"
+        },
+        {
+          "count": 2,
+          "name": "变局创意学",
+          "title": "变局创意学"
+        },
+        {
+          "count": 2,
+          "name": "如果买得到",
+          "title": "如果买得到"
+        },
+        {
+          "count": 1,
+          "name": "*English*",
+          "title": "*English*"
+        },
+        {
+          "count": 1,
+          "name": "第三朵玫瑰英文版",
+          "title": "第三朵玫瑰英文版"
+        },
+        {
+          "count": 1,
+          "name": "灵修",
+          "title": "灵修"
+        },
+        {
+          "count": 1,
+          "name": "幻想文学",
+          "title": "幻想文学"
+        },
+        {
+          "count": 1,
+          "name": "小说",
+          "title": "小说"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s4256596.jpg",
+      "binding": "Paperback",
+      "translator": [
+        "Mac Linscott Ricketts"
+      ],
+      "catalog": "",
+      "pages": "140",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4256596.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4256596.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4256596.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2141056\/",
+      "id": "2141056",
+      "publisher": "University Of Chicago Press",
+      "isbn10": "0226204154",
+      "isbn13": "9780226204154",
+      "title": "Youth Without Youth",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2141056",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "This is soon to be a major motion picture starring Tim Roth and directed by Francis Ford Coppola. Bucharest, 1938: while Hitler gains power in Germany, the Romanian police start arresting students they suspect of belonging to the Iron Guard. Meanwhile, a man who has spent his life studying languages, poetry, and history - a man who thought his life was over - lies in a hospital bed, inexplicably alive and miraculously healthy, trying to figure out how to conceal his identity. At the intersection of the natural and supernatural, myth and history, dream and science, lies Mircea Eliade's novella. Now, in its first paperback edition, the psychological thriller features Dominic Matei, an elderly academic who experiences a cataclysmic event that allows him to live a new life with startling intellectual capacity. Sought by the Nazis for their medical experiments on the potentially life-prolonging power of electric shocks, Matei is helped to flee through Romania, Switzerland, Malta, and India. Newly endowed with prodigious powers of memory and comprehension, he finds himself face-to-face with the glory and terror of the supernatural. In this surreal, philosophy-driven fantasy, Eliade tests the boundaries of literary genre as well as the reader's imagination. Suspenseful, witty, and poignant, \"Youth Without Youth\" illuminates Eliade's longing for past loves and new texts, his erotic imagination, and his love of a thrilling mystery. It will be adapted for the screen in 2007 as Francis Ford Coppola's first feature film in over ten years.",
+      "price": "USD 12.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mircea Eliade"
+      ],
+      "pubdate": "1978-5",
+      "tags": [
+        {
+          "count": 3,
+          "name": "小说",
+          "title": "小说"
+        },
+        {
+          "count": 1,
+          "name": "外国文学",
+          "title": "外国文学"
+        },
+        {
+          "count": 1,
+          "name": "神话",
+          "title": "神话"
+        },
+        {
+          "count": 1,
+          "name": "罗马尼亚",
+          "title": "罗马尼亚"
+        },
+        {
+          "count": 1,
+          "name": "非中文书",
+          "title": "非中文书"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s27312718.jpg",
+      "binding": "Hardcover",
+      "translator": [
+        "Mac Linscott Ricketts",
+        "Mary Park Stevenson"
+      ],
+      "catalog": "",
+      "pages": "596",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s27312718.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s27312718.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s27312718.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/5503290\/",
+      "id": "5503290",
+      "publisher": "University of Notre Dame Press",
+      "isbn10": "0268009430",
+      "isbn13": "9780268009434",
+      "title": "The Forbidden Forest",
+      "url": "http:\/\/api.douban.com\/v2\/book\/5503290",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "1937-1960, Exile's Odyssey",
+      "author": [
+        "Mircea Eliade"
+      ],
+      "pubdate": "1988-7-18",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s18744428.jpg",
+      "binding": "Hardcover",
+      "translator": [
+        "Mac Linscott Ricketts"
+      ],
+      "catalog": "",
+      "pages": "248",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s18744428.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s18744428.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s18744428.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/4609032\/",
+      "id": "4609032",
+      "publisher": "University Of Chicago Press",
+      "isbn10": "0226204111",
+      "isbn13": "9780226204116",
+      "title": "Autobiography, Volume 2",
+      "url": "http:\/\/api.douban.com\/v2\/book\/4609032",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "\"Here finally are Eliade's memoirs of the first thirty years of his life in Mac Linscott Rickett's crisp and lucid English translation. They present a fascinating account of the early development of a Renaissance talent, expressed in everything from daily and periodical journalism, realistic and fantastic fiction, and general nonfiction works to distinguished contributions to the history of religions. Autobiography follows an apparently amazingly candid report of this remarkable man's progression from a mischievous street urchin and literary prodigy, through his various love affairs, a decisive and traumatic Indian sojourn, and active, brilliant participation in pre-World War II Romanian cultural life.\"--Seymour Cain, \"Religious Studies Review \"",
+      "price": "USD 35.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mircea Eliade"
+      ],
+      "pubdate": "1989-12-12",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s12346242.jpg",
+      "binding": "Hardcover",
+      "translator": [
+        "Mac Linscott Ricketts"
+      ],
+      "catalog": "",
+      "pages": "175",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s12346242.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s12346242.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s12346242.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/11875004\/",
+      "id": "11875004",
+      "publisher": "University of Chicago Press",
+      "isbn10": "0226204146",
+      "isbn13": "9780226204147",
+      "title": "Journal IV, 1979-1985",
+      "url": "http:\/\/api.douban.com\/v2\/book\/11875004",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "\"Journal IV\" is the first publication, in a translation from the Romanian manuscript, of the journal that Mircea Eliade kept during the last seven years of his life. In this period, Eliade is ensconced as a famous scholar--his works are being translated into many languages and books about him arrive regularly in the mail. His encounters with scholars of like repute are recorded in the journal; after a party in Paris, Eliade shares a taxi with Claude Levi-Strauss and inadvertently makes off with his raincoat. \nRunning like a fault line through the peak of his success, however, is Eliade's painful awareness of his physical decline--failing vision, arthritic hands, and continual fatigue. Again and again he repeats how little time he has to finish the projects he is working on--his autobiography, the third and fourth volumes of his \"History of Religious Ideas,\" and the duties associated with his editorship of the Encyclopedia of Religion. He poignantly recounts the sharpest blow: the disorganization and eventual destruction by fire of his personal library. \nWithin the scope of \"Journal IV\" Eliade and his world go to ruin. What does not decline is the vivid and persistent voice of Eliade the writer, an unbreaking voice that--with death only months away--plans a reply to critics, plots out an article, and ruminates on characters to people another novella.",
+      "price": "USD 38.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Barca, Pedro Calderon De La"
+      ],
+      "pubdate": "2008-10",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s6612651.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Carthy, Denis Florence"
+      ],
+      "catalog": "",
+      "pages": "332",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s6612651.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s6612651.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s6612651.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6682007\/",
+      "id": "6682007",
+      "publisher": "",
+      "isbn10": "1437246389",
+      "isbn13": "9781437246384",
+      "title": "Love The Greatest Enchantment; The Sorceries Of Sin; The Devotion Of The Cross",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6682007",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 51.92"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Barca, Pedro Calderon de La"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s7856108.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Carthy, Denis Florence"
+      ],
+      "catalog": "",
+      "pages": "330",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s7856108.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s7856108.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s7856108.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7288592\/",
+      "id": "7288592",
+      "publisher": "",
+      "isbn10": "1164917544",
+      "isbn13": "9781164917540",
+      "title": "Love the Greatest Enchantment; The Sorceries of Sin; The Devotion of the Cross",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7288592",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 27.98"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Barca, Pedro Calderon De La"
+      ],
+      "pubdate": "2008-10",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s10832948.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Carthy, Denis Florence"
+      ],
+      "catalog": "",
+      "pages": "332",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s10832948.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s10832948.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s10832948.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/11152672\/",
+      "id": "11152672",
+      "publisher": "",
+      "isbn10": "1437118682",
+      "isbn13": "9781437118681",
+      "title": "Love The Greatest Enchantment; The Sorceries Of Sin; The Devotion Of The Cross",
+      "url": "http:\/\/api.douban.com\/v2\/book\/11152672",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 34.97"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Barca, Pedro Calderon de La"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s8177664.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Carthy, Denis Florence"
+      ],
+      "catalog": "",
+      "pages": "330",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s8177664.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s8177664.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s8177664.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7353244\/",
+      "id": "7353244",
+      "publisher": "",
+      "isbn10": "1165030519",
+      "isbn13": "9781165030514",
+      "title": "Love the Greatest Enchantment; The Sorceries of Sin; The Devotion of the Cross",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7353244",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 41.54"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Vernois, Verdy Du"
+      ],
+      "pubdate": "2010-9",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s7862594.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Donnell, J. R."
+      ],
+      "catalog": "",
+      "pages": "132",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s7862594.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s7862594.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s7862594.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7358205\/",
+      "id": "7358205",
+      "publisher": "",
+      "isbn10": "116514218X",
+      "isbn13": "9781165142187",
+      "title": "The Tactical War Game",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7358205",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 18.94"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Vernois, Verdy Du"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s7266956.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Donnell, J. R."
+      ],
+      "catalog": "",
+      "pages": "132",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s7266956.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s7266956.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s7266956.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7360311\/",
+      "id": "7360311",
+      "publisher": "",
+      "isbn10": "1165171813",
+      "isbn13": "9781165171811",
+      "title": "The Tactical War Game",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7360311",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "$ 32.50"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Coates, Donna; Grace, Sherrill E.; Mac Dougall, Jill R."
+      ],
+      "pubdate": "2010-4",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s7759326.jpg",
+      "binding": "",
+      "translator": [
+        "Mac Dougall, Jill R."
+      ],
+      "catalog": "",
+      "pages": "323",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s7759326.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s7759326.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s7759326.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6092306\/",
+      "id": "6092306",
+      "publisher": "",
+      "isbn10": "0887548415",
+      "isbn13": "9780887548413",
+      "title": "Canada and the Theatre of War, Volume II",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6092306",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "This is a collection of stage plays by some of Canada's leading playwrights. Included are: R.H. Thomson's The Lost Boys, David French's Soldier's Heart, Stephen Massicotte's Mary's Wedding, Guy Vanderhaeghe's Dancock's Dance, Vern Thiessen's Vimy, Margaret Hollingsworth's Ever Loving, Jason Sherman's None is Too Many, and Marie Clements' Burning Vision.",
+      "price": "$ 33.84"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mircea Eliade"
+      ],
+      "pubdate": "1990-8-24",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s11402039.jpg",
+      "binding": "Hardcover",
+      "translator": [
+        "Mac Linscott Ricketts"
+      ],
+      "catalog": "",
+      "pages": "227",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s11402039.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s11402039.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s11402039.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/11875005\/",
+      "id": "11875005",
+      "publisher": "University Of Chicago Press",
+      "isbn10": "0226204162",
+      "isbn13": "9780226204161",
+      "title": "Journal I, 1945-1955",
+      "url": "http:\/\/api.douban.com\/v2\/book\/11875005",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "\"Journal I\" is a story of revewal--of the new life that began for Mircea Eliade in the fall of 1945 when he became an expatriate. Eliade came to Paris virtually empty-handed, following the death of his first wife and the Soviet takeover of Romania, which made him a \"persona non grata \"there. He had left half a lifetime in Romania: his parents, whom he never saw again; his library; unpublished and unfinished manuscripts, including the journal notebooks prior to 1940; an academic career; and\" Zalmoxis,\" the journal of religious studies he founded. \nDuring the lean years in Paris Eliade lived and worked in small, cold rooms; prepared meals on a Primus stove; pawned his valuables; and asked friends for loans. Eventually he secured a research stipend from the Bollingen Foundation. His ten years in Paris were among his most productive; the books he wrote during this period brought him worldwide acclaim as a historian of religions. He records his first meetings with Carl Jung, Pierre Teilhard de Chardin, Gershom Scholem, Georges Bataille, Andre Breton, Raffaele Pettazzoni, and many other scholars and writers. \nEliade also continued to write literary works. Numerous entries describe his five-year struggle with his novel \"The Forbidden Forest.\" Spanning the twelve fateful years from 1936 to 1948, it expresses within a fictional framework the central themes of Eliade's work on religions. Writing the novel was a Herculean task in which Eliade summarized and memorialized his old Romanian life.",
+      "price": "USD 38.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 33,
+        "average": "9.0",
+        "min": 0
+      },
+      "subtitle": "A Systems Approach",
+      "author": [
+        "Amit Singh"
+      ],
+      "pubdate": "2006-06-29",
+      "tags": [
+        {
+          "count": 40,
+          "name": "操作系统",
+          "title": "操作系统"
+        },
+        {
+          "count": 32,
+          "name": "MAC",
+          "title": "MAC"
+        },
+        {
+          "count": 30,
+          "name": "MacOSX",
+          "title": "MacOSX"
+        },
+        {
+          "count": 17,
+          "name": "OSX",
+          "title": "OSX"
+        },
+        {
+          "count": 14,
+          "name": "Apple",
+          "title": "Apple"
+        },
+        {
+          "count": 12,
+          "name": "OS",
+          "title": "OS"
+        },
+        {
+          "count": 12,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 7,
+          "name": "FreeBSD",
+          "title": "FreeBSD"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s2391954.jpg",
+      "binding": "Hardcover",
+      "translator": [],
+      "catalog": "",
+      "pages": "1680",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s2391954.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s2391954.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s2391954.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1877561\/",
+      "id": "1877561",
+      "publisher": "Addison-Wesley Professional",
+      "isbn10": "0321278542",
+      "isbn13": "9780321278548",
+      "title": "Mac OS X Internals",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1877561",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "Mac OS X was released in March 2001, but many components, such as Mach and BSD, are considerably older. Understanding the design, implementation, and workings of Mac OS X requires examination of several technologies that differ in their age, origins, philosophies, and roles.  Mac OS X Internals: A Systems Approach is the first book that dissects the internals of the system, presenting a detailed picture that grows incrementally as you read. For example, you will learn the roles of the firmware, the bootloader, the Mach and BSD kernel components (including the process, virtual memory, IPC, and file system layers), the object-oriented I\/O Kit driver framework, user libraries, and other core pieces of software. You will learn how these pieces connect and work internally, where they originated, and how they evolved. The book also covers several key areas of the Intel-based Macintosh computers.  A solid understanding of system internals is immensely useful in design, development, and debugging for programmers of various skill levels. System programmers can use the book as a reference and to construct a better picture of how the core system works. Application programmers can gain a deeper understanding of how their applications interact with the system. System administrators and power users can use the book to harness the power of the rich environment offered by Mac OS X. Finally, members of the Windows, Linux, BSD, and other Unix communities will find the book valuable in comparing and contrasting Mac OS X with their respective systems.  Mac OS X Internals focuses on the technical aspects of OS X and is so full of extremely useful information and programming examples that it will definitely become a mandatory tool for every Mac OS X programmer.",
+      "price": "USD 88.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 19,
+        "average": "8.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "莱文 (Jonathan Levin)"
+      ],
+      "pubdate": "2014-3-1",
+      "tags": [
+        {
+          "count": 68,
+          "name": "iOS",
+          "title": "iOS"
+        },
+        {
+          "count": 59,
+          "name": "OSX",
+          "title": "OSX"
+        },
+        {
+          "count": 50,
+          "name": "操作系统",
+          "title": "操作系统"
+        },
+        {
+          "count": 21,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 18,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 13,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 10,
+          "name": "计算机科学",
+          "title": "计算机科学"
+        },
+        {
+          "count": 8,
+          "name": "苹果",
+          "title": "苹果"
+        }
+      ],
+      "origin_title": "Mac OS X and iOS Internals：To the Apple’s Core",
+      "image": "https://img1.doubanio.com\/mpic\/s28020214.jpg",
+      "binding": "平装",
+      "translator": [
+        "郑思遥",
+        "房佩慈"
+      ],
+      "catalog": "第Ⅰ部分  高级用户指南\n第1章  达尔文主义：OS X的进化史\t3\n1.1  前达尔文时代：Mac OS\nClassic\t3\n1.2  浪子回头：NeXTSTEP\t4\n1.3  走进新时代：OS X操作系统\t4\n1.4  迄今为止的所有OS X版本\t5\n1.4.1  10.0——Cheetah，初出茅庐\t5\n1.4.2  10.1——Puma，更强大\t5\n1.4.3  10.2——Jaguar，渐入佳境\t6\n1.4.4  10.3——Panther和Safari\t6\n1.4.5  10.4——Tiger，转投Intel的\n怀抱\t6\n1.4.6  10.5——Leopard和UNIX\t6\n1.4.7  10.6——Snow Leopard\t7\n1.4.8  10.7——Lion\t7\n1.4.9  10.8——Mountain Lion\t8\n1.5  iOS——走向移动平台的\nOS X\t9\n1.5.1  1.x——Heavenly，\n第一代iPhone\t9\n1.5.2  2.x——App Store、3G和\n企业级的特性\t10\n1.5.3  3.x——告别第一代，\n迎来iPad\t10\n1.5.4  4.x——iPhone 4、Apple TV和\niPad 2\t10\n1.5.5  5.x——iPhone 4S和\n更新的硬件\t11\n1.5.6  iOS和OS X对比\t11\n1.6  OS X的未来\t13\n1.7  本章小结\t14\n参考文献\t15\n第2章  合众为一：OS X和iOS的架构\t17\n2.1  OS X架构概述\t17\n2.2  用户体验层\t19\n2.2.1  Aqua\t19\n2.2.2  QuickLook\t20\n2.2.3　Spotlight\t21\n2.3　Darwin——UNIX核心\t22\n2.3.1　Shell\t22\n2.3.2　文件系统\t23\n2.4  UNIX的系统目录\t23\n2.4.1  OS X特有的目录\t24\n2.4.2  iOS文件系统的区别\t25\n2.5  bundle\t25\n2.6  应用程序和app\t26\n2.6.1  Info.plist\t27\n2.6.2  Resources目录\t29\n2.6.3  NIB文件\t29\n2.6.4  通过.lproj文件实现国际化\t30\n2.6.5  图标文件(.icns)\t30\n2.6.6  CodeResources\t30\n2.7  框架\t33\n2.7.1  框架bundle格式\t33\n2.7.2  OS X和iOS公共框架列表\t35\n2.8  库\t41\n2.9  其他应用程序类型\t43\n2.9.1  Java(仅限于OS X)\t43\n2.9.2  Widget\t43\n2.9.3  BSD\/Mach原生程序\t44\n2.10  系统调用\t44\n2.10.1  POSIX\t44\n2.10.2  Mach系统调用\t45\n2.11  XNU概述\t47\n2.11.1  Mach\t47\n2.11.2  BSD层\t48\n2.11.3  libkern\t48\n2.11.4  I\/O Kit\t48\n2.12  本章小结\t48\n参考文献\t49\n第3章  站在巨人的肩膀上：OS X和\niOS使用的技术\t51\n3.1  BSD相关的特性\t51\n3.1.1  sysctl\t51\n3.1.2  kqueue\t53\n3.1.3  审计(OS X)\t54\n3.1.4  强制访问控制\t57\n3.2  OS X和iOS特有的技术\t60\n3.2.1  用户和组的管理(OS X)\t60\n3.2.2  系统配置\t62\n3.2.3  记录日志\t64\n3.2.4  Apple事件和AppleScript\t66\n3.2.5  FSEvents\t68\n3.2.6  通知\t73\n3.2.7  其他重要的API\t73\n3.3  OS X和iOS的安全机制\t73\n3.3.1  代码签名\t74\n3.3.2  隔离机制(沙盒化)\t75\n3.3.3  Entitlement：更严格的沙盒\t77\n3.3.4  沙盒机制的实施\t82\n3.4  本章小结\t83\n参考文献\t84\n第4章  庖丁解进程：Mach-O格式、\n进程以及线程内幕\t85\n4.1  关键概念回顾\t85\n4.1.1  进程和线程\t85\n4.1.2  进程生命周期\t86\n4.1.3  UNIX信号\t89\n4.2  可执行文件\t91\n4.3  通用二进制格式\t92\n4.3.1  Mach-O二进制格式\t95\n4.3.2  加载命令\t98\n4.4  动态库\t104\n4.4.1  启动时库的加载\t105\n4.4.2  库的运行时加载\t113\n4.4.3  dyld的特性\t115\n4.5  进程地址空间\t120\n4.5.1  进程入口点\t120\n4.5.2  地址空间布局随机化\t121\n4.5.3  32位地址空间(Intel)\t122\n4.5.4  64位地址空间\t123\n4.5.5  32位地址空间(iOS)\t123\n4.6  进程内存分配(用户态)\t128\n4.6.1  alloca()\t128\n4.6.2  堆分配\t128\n4.6.3  虚拟内存——系统\n管理员的角度\t130\n4.7  线程\t132\n参考文献\t134\n第5章  进程跟踪和调试\t135\n5.1  DTrace\t135\n5.1.1  D语言\t135\n5.1.2  dtruss\t138\n5.1.3  DTrace工作原理\t139\n5.2  其他剖析机制\t142\n5.2.1  CHUD的衰落\t142\n5.2.2  继任者AppleProfileFamily\t142\n5.3  进程信息\t143\n5.3.1  sysctl\t143\n5.3.2  proc_info\t144\n5.4  进程和系统快照\t146\n5.4.1  system_profiler(8)\t146\n5.4.2  sysdiagnose(1)\t146\n5.4.3  allmemory(1)\t147\n5.4.4  stackshot(1)\t148\n5.4.5  stack_snapshot系统调用\t149\n5.5  kdebug\t152\n5.5.1  基于kdebug的工具\t152\n5.5.2  kdebug代码\t152\n5.5.3  写入kdebug消息\t154\n5.5.4  读取kdebug消息\t155\n5.6  应用程序崩溃\t156\n5.6.1  应用程序挂起和采样\t159\n5.6.2  内存破坏的bug\t160\n5.7  内存泄漏\t161\n5.7.1  heap(1)\t162\n5.7.2  leaks(1)\t162\n5.7.3  malloc_history(1)\t163\n5.8  标准UNIX工具\t163\n5.8.1  通过ps(1)列出进程列表\t164\n5.8.2  top(1)：系统全局视图\t164\n5.8.3  通过lsof(1)和fuser(1)\n进行文件诊断\t165\n5.9  使用GDB\t165\n5.9.1  GDB的Darwin扩展\t166\n5.9.2  GDB用于iOS\t166\n5.9.3  LLDB\t166\n5.10  本章小结\t167\n参考文献和深入阅读\t167\n第6章  引导过程：EFI和iBoot\t169\n6.1  传统形式的引导\t169\n6.2  揭秘EFI\t171\n6.2.1  EFI的基本概念\t171\n6.2.2  EFI服务\t173\n6.2.3  NVRAM变量\t177\n6.3  OS X和boot.efi\t178\n6.3.1  boot.efi的执行流程\t179\n6.3.2  引导内核\t185\n6.3.3  内核对EFI的回调\t187\n6.3.4  Lion中boot.efi的变化\t187\n6.3.5  Boot Camp\t187\n6.3.6  bless(8)\t188\n6.4  iOS和iBoot\t192\n6.4.1  初期：引导ROM\t193\n6.4.2  普通引导\t194\n6.4.3  恢复模式引导\t195\n6.4.4  设备固件更新(DFU)模式\t195\n6.4.5  降级和回放攻击\t196\n6.5  安装镜像\t196\n6.5.1  OS X安装过程\t196\n6.5.2  iOS文件系统镜像\n(.ipsw文件)\t201\n6.6  本章小结\t206\n参考文献和深入阅读\t206\n第7章  贯穿始终——launchd\t207\n7.1  launchd\t207\n7.1.1  启动launchd\t207\n7.1.2  系统范围和用户范围的\nlaunchd\t208\n7.1.3  守护程序和代理程序\t208\n7.1.4  多面手launchd\t209\n7.2  LaunchDaemon列表\t220\n7.3  GUI shell程序\t224\n7.3.1  Finder(OS X)\t224\n7.3.2  SpringBoard(iOS)\t225\n7.4  XPC(Lion和iOS)\t230\n7.5  本章小结\t234\n参考文献和深入阅读\t235\n第Ⅱ部分  内核\n第8章  内核架构\t239\n8.1  内核基础知识\t239\n8.2  用户态和内核态\t243\n8.2.1  Intel架构——ring\t243\n8.2.2  ARM架构——CPSR\t244\n8.3  内核态\/用户态转换机制\t245\n8.3.1  Intel上的陷阱处理程序\t246\n8.3.2  自愿的内核转换\t254\n8.4  系统调用的处理\t259\n8.4.1  POSIX\/BSD系统调用\t260\n8.4.2  Mach陷阱\t263\n8.4.3  机器相关的调用\t267\n8.4.4  诊断调用\t268\n8.5  XNU和硬件抽象\t270\n8.6  本章小结\t272\n参考文献\t272\n第9章  由生到死——内核引导和\n内核崩溃\t273\n9.1  XNU源代码\t273\n9.1.1  获得源代码\t273\n9.1.2  make XNU\t274\n9.1.3  一个内核，多种架构支持\t276\n9.1.4  XNU源代码树\t278\n9.2  引导XNU\t281\n9.2.1  引导过程概览\t281\n9.2.2  OS X：vstart\t282\n9.2.3  iOS：start\t283\n9.2.4  [i386|arm]_init\t283\n9.2.5  i386_init_slave()\t285\n9.2.6  machine_startup\t285\n9.2.7  kernel_bootstrap\t286\n9.2.8  kernel_bootstrap_thread\t289\n9.2.9  bsd_init\t291\n9.2.10  bsdinit_task\t296\n9.2.11  睡眠和唤醒\t299\n9.3  引导参数\t300\n9.4  内核调试\t302\n9.4.1  “不要害怕”——\n避免panic\t303\n9.4.2  panic的实现\t304\n9.4.3  panic报告\t306\n9.5  本章小结\t310\n参考文献\t310\n第10章  Mach原语：一切以消息为\n媒介\t311\n10.1  Mach概述\t311\n10.1.1  Mach设计原则\t312\n10.1.2  Mach设计目标\t313\n10.2  Mach消息\t313\n10.2.1  简单消息\t313\n10.2.2  复杂消息\t314\n10.2.3  发送消息\t315\n10.2.4  端口\t316\n10.2.5  Mach接口生成器(MIG)\t318\n10.3  深入IPC\t323\n10.4  同步原语\t326\n10.4.1  锁组对象\t326\n10.4.2  互斥体对象\t327\n10.4.3  读写锁对象\t328\n10.4.4  自旋锁对象\t329\n10.4.5  信号量对象\t329\n10.4.6  锁集对象\t331\n10.5  机器原语\t332\n10.5.1  主机对象\t332\n10.5.2  时钟对象\t341\n10.5.3  处理器对象\t343\n10.5.4  处理器集对象\t346\n10.6  本章小结\t350\n参考文献\t350\n第11章  刹那之间——Mach调度\t351\n11.1  调度原语\t351\n11.1.1  线程\t351\n11.1.2  任务\t356\n11.1.3  任务和线程相关的API\t360\n11.1.4  任务相关的API\t361\n11.1.5  线程相关的API\t365\n11.2  调度\t369\n11.2.1  概述\t369\n11.2.2  优先级\t370\n11.2.3  运行队列\t373\n11.3  Mach调度器的独特特性\t376\n11.3.1  控制权转交\t376\n11.3.2  续体\t376\n11.3.3  抢占模式\t378\n11.3.4  异步软件陷阱(AST)\t383\n11.3.5  调度算法\t386\n11.4  定时器中断\t389\n11.4.1  中断驱动的调度\t389\n11.4.2  XNU中的定时器\n中断处理\t390\n11.5  异常\t394\n11.5.1  Mach异常模型\t394\n11.5.2  实现细节\t395\n11.6  本章小结\t403\n参考文献\t403\n第12章  Mach虚拟内存\t405\n12.1  虚拟内存架构\t405\n12.1.1  虚拟内存全貌\t405\n12.1.2  虚拟内存概述\t406\n12.1.3  用户态视角\t410\n12.2  物理内存管理\t419\n12.2.1  pmap的API\t420\n12.2.2  API在Intel架构上的\n实现示例\t421\n12.3  Mach Zone\t423\n12.3.1  Mach Zone的结构\t424\n12.3.2  引导期间的zone设置\t426\n12.3.3  zone垃圾回收\t427\n12.3.4  zone调试\t428\n12.4  内核内存分配器\t429\n12.4.1  kernel_memory_\nallocate()\t429\n12.4.2  kmem_alloc()系列函数\t431\n12.4.3  kalloc\t432\n12.4.4  OSMalloc\t433\n12.5  Mach分页器\t434\n12.5.1  Mach分页器接口\t435\n12.5.2  Universal Page List\t438\n12.5.3  分页器类型\t440\n12.6  分页策略管理\t447\n12.6.1  Pageout守护程序\t448\n12.6.2  处理页错误\t450\n12.6.3  dynamic_pager(8)\n(OS X)\t451\n12.7  本章小结\t452\n参考文献\t452\n第13章  BSD层\t453\n13.1  BSD简介\t453\n13.1.1  一统天下\t454\n13.1.2  POSIX标准中的内容\t454\n13.1.3  实现BSD\t455\n13.1.4  XNU不是完整的BSD\t455\n13.2  进程和线程\t455\n13.2.1  BSD进程结构\t456\n13.2.2  进程列表和进程组\t458\n13.2.3  线程\t459\n13.2.4  对应到Mach\t461\n13.3  进程创建\t463\n13.3.1  用户态的角度\t463\n13.3.2  内核态的角度\t464\n13.3.3  加载和执行二进制文件\t467\n13.3.4  Mach-O二进制文件\t472\n13.4  进程控制和跟踪\t475\n13.4.1  ptrace (#26)\t475\n13.4.2  proc_info (#336)\t476\n13.4.3  策略\t476\n13.4.4  进程挂起和恢复\t477\n13.5  信号\t478\n13.5.1  UNIX异常处理程序\t478\n13.5.2  硬件产生的信号\t483\n13.5.3  软件产生的信号\t484\n13.5.4  受害者的信号处理\t484\n13.6  本章小结\t485\n参考文献\t485\n第14章  有新有旧：BSD高级功能\t487\n14.1  内存管理\t487\n14.1.1  POSIX内存和页面\n管理系统调用\t487\n14.1.2  BSD内部的内存函数\t489\n14.1.3  内存压力\t492\n14.1.4  Jetsam(iOS)\t493\n14.1.5  内核地址空间布局\n随机化\t495\n14.2  工作队列\t496\n14.3  换个角度看BSD层\t499\n14.3.1  sysctl\t499\n14.3.2  kqueue\t501\n14.3.3  审计(OS X)\t503\n14.3.4  强制访问控制(MAC)\t504\n14.4  苹果的策略模块\t506\n14.5  本章小结\t509\n参考文献\t509\n第15章  文件系统和虚拟文件\n系统交换\t511\n15.1  磁盘设备和分区\t511\n15.2  通用文件系统的概念\t522\n15.2.1  文件\t522\n15.2.2  扩展属性\t522\n15.2.3  权限\t522\n15.2.4  时间戳\t522\n15.2.5  快捷方式和连接\t523\n15.3  苹果生态圈中的文件系统\t524\n15.3.1  苹果原生的文件系统\t524\n15.3.2  DOS\/Windows文件系统\t524\n15.3.3  CD\/DVD文件系统\t525\n15.3.4  基于网络的文件系统\t526\n15.3.5  伪文件系统\t528\n15.4  挂载文件系统(仅限于OS X)\t531\n15.4.1  automount\t531\n15.4.2  磁盘仲裁\t531\n15.5  磁盘镜像文件\t533\n15.5.1  原始DMG文件\t533\n15.5.2  从磁盘镜像引导(Lion)\t534\n15.6  虚拟文件系统交换\t534\n15.6.1  文件系统条目\t535\n15.6.2  挂载条目\t535\n15.6.3  vnode对象\t538\n15.7  FUSE——用户空间的\n文件系统\t541\n15.8  进程的文件I\/O操作\t543\n15.9  本章小结\t547\n参考文献和深入阅读\t547\n第16章  基于B树的HFS+文件系统\t549\n16.1  HFS+文件系统概念\t549\n16.1.1  时间戳\t549\n16.1.2  访问控制表\t550\n16.1.3  扩展属性\t550\n16.1.4  fork\t552\n16.1.5  压缩\t553\n16.1.6  Unicode支持\t558\n16.1.7  Finder集成\t558\n16.1.8  大小写敏感(HFSX)\t559\n16.1.9  日志\t560\n16.1.10  动态大小调节\t561\n16.1.11  元数据区域\t561\n16.1.12  热文件\t562\n16.1.13  动态碎片整理\t562\n16.2  HFS+的设计概念\t564\n16.3  组件\t570\n16.3.1  HFS+宗卷头\t571\n16.3.2  编录文件\t572\n16.3.3  extent溢出文件\t579\n16.3.4  属性B树\t579\n16.3.5  热文件B树\t580\n16.3.6  分配文件\t581\n16.3.7  HFS日志\t581\n16.4  VFS和内核的整合\t584\n16.4.1  fsctl(2)的整合\t584\n16.4.2  sysctl(2)的整合\t585\n16.4.3  文件系统状态通知\t585\n16.5  本章小结\t586\n参考文献\t586\n第17章  遵守协议：网络协议栈\t587\n17.1  用户态接口回顾\t588\n17.1.1  UNIX Domain套接字\t589\n17.1.2  IPv4网络协议\t589\n17.1.3  路由套接字\t590\n17.1.4  网络驱动程序套接字\t590\n17.1.5  IPSec Key Management\n套接字\t592\n17.1.6  IPv6网络协议\t592\n17.1.7  系统套接字\t593\n17.2  套接字和协议统计信息\t595\n17.3  第5层：套接字\t597\n17.3.1  套接字描述符\t597\n17.3.2  mbuf\t598\n17.3.3  内核态中的套接字\t603\n17.4  第4层：传输层协议\t604\n17.4.1  域和protosw\t605\n17.4.2  初始化域\t609\n17.5  第3层：网络层协议\t610\n17.6  第2层：网络接口层\t613\n17.6.1  OS X和iOS中的\n网络接口\t613\n17.6.2  数据链路接口层\t614\n17.6.3  ifnet结构体\t614\n17.6.4  案例研究：utun\t616\n17.7  整合所有层：网络协议栈\t620\n17.7.1  接收数据\t620\n17.7.2  发送数据\t623\n17.8  数据包过滤\t626\n17.8.1  套接字过滤器\t627\n17.8.2  ipfw(8)\t628\n17.8.3  PF包过滤器(Lion和iOS)\t629\n17.8.4  IP过滤器\t630\n17.8.5  接口过滤器\t632\n17.8.6  伯克利数据包过滤器\t633\n17.9  流量整形和QoS\t637\n17.9.1  综合服务模型\t637\n17.9.2  区分服务模型\t637\n17.9.3  实现dummynet\t638\n17.9.4  在用户态控制参数\t638\n17.10  本章小结\t639\n参考文献和深入阅读\t639\n第18章  内核扩展模块\t641\n18.1  扩展内核的功能\t641\n18.2  内核扩展(kext)\t643\n18.2.1  kext结构\t645\n18.2.2  kext安全需求\t647\n18.2.3  内核扩展的相关操作\t647\n18.2.4  kernelcache\t647\n18.2.5  multi-kext\t651\n18.2.6  从程序员的视角看kext\t651\n18.2.7  kext的内核支持\t652\n18.3  本章小结\t661\n参考文献\t662\n第19章  驱动力——I\/O Kit驱动\n程序框架\t663\n19.1  I\/O Kit简介\t664\n19.1.1  设备驱动程序的\n编程约束\t664\n19.1.2  I\/O Kit是什么\t664\n19.1.3  I\/O Kit不是什么\t666\n19.2  libkern：I\/O Kit的基类\t667\n19.2.1  OSObject\t668\n19.2.2  OSMetaClass\t668\n19.3  I\/O Registry\t669\n19.3.1  IORegistryEntry\t671\n19.3.2  IOService\t671\n19.4  用户态的I\/O Kit\t671\n19.4.1  访问I\/O Registry\t672\n19.4.2  获得\/设置驱动程序属性\t674\n19.4.3  即插即用(通知端口)\t675\n19.4.4  I\/O Kit电源管理\t676\n19.4.5  其他I\/O Kit子系统\t677\n19.4.6  I\/O Kit诊断\t678\n19.5  I\/O Kit内核驱动程序\t680\n19.5.1  驱动程序匹配\t680\n19.5.2  I\/O Kit族\t682\n19.5.3  I\/O Kit驱动程序模型\t685\n19.5.4  IOWorkLoop\t687\n19.5.5  中断处理\t689\n19.5.6  I\/O Kit内存管理\t691\n19.6  整合BSD\t693\n19.7  本章小结\t694\n参考文献和深入阅读\t695\n附录A  了解机器架构\t697",
+      "pages": "713",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s28020214.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s28020214.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s28020214.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/25870206\/",
+      "id": "25870206",
+      "publisher": "清华大学出版社",
+      "isbn10": "7302348677",
+      "isbn13": "9787302348672",
+      "title": "深入解析Mac OS X & iOS操作系统",
+      "url": "http:\/\/api.douban.com\/v2\/book\/25870206",
+      "alt_title": "Mac OS X and iOS Internals：To the Apple’s Core",
+      "author_intro": "",
+      "summary": "《深入解析Mac OS X & iOS操作系统》编著者莱文。\n系统开发者、内核黑客和对苹果感到好奇的人们注意了！本书探讨了MacOSX系统和iOS系统的方方面面，深入讲解了两个系统的架构，讨论了框架手册没有讨论的内容。本书清晰而详细地讨论了苹果操作系统的内部工作原理，包括苹果私有的API，书中的大部分内容都是首次披露。\n《深入解析Mac OS X & iOS操作系统》在漫游系统架构的时候，从用户态深入到内核态，通过带注释的代码示例揭示了每一个层次和组件，还提供了可上手的实验，并且比较了两个系统实现的区别。\n主要内容\n◆引导过程：Mac的EFI、iOS的iBoot以及内核启动过程\n◆进程、线程以及虚拟内存管理\n◆通过DTrace、ptrace和隐藏的系统调用进行调试和性能剖析\n◆系统级的API：POSIX调用、Mach陷阱以及OSX／iOS私有的API\n◆文件系统架构，包括VFS和HFS＋\n◆网络架构：从套接字到网络接口以及网络驱动程序\n◆内核扩展、驱动程序以及I／OKit架构的讨论\n◆安全特性、强制访问控制（MAC）以及iOS监狱\n《深入解析MacOSX＆iOS操作系统》的支持网站（http：／／www。newosxbook。com）包含了示例程序、可免费下载的工具、更新的参考资料以及其他额外的内容。",
+      "price": "108.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 66,
+        "average": "8.4",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Aaron Hillegass"
+      ],
+      "pubdate": "Jun 9 2008",
+      "tags": [
+        {
+          "count": 61,
+          "name": "Cocoa",
+          "title": "Cocoa"
+        },
+        {
+          "count": 41,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 27,
+          "name": "objective-c",
+          "title": "objective-c"
+        },
+        {
+          "count": 23,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 21,
+          "name": "Apple",
+          "title": "Apple"
+        },
+        {
+          "count": 14,
+          "name": "OSX",
+          "title": "OSX"
+        },
+        {
+          "count": 14,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 9,
+          "name": "开发",
+          "title": "开发"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s4263310.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "464",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4263310.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4263310.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4263310.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2969555\/",
+      "id": "2969555",
+      "publisher": "Addison-Wesley Professional",
+      "isbn10": "0321503619",
+      "isbn13": "9780321503619",
+      "title": "Cocoa® Programming for Mac® OS X",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2969555",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "Amazon.com\nThere's a reason that a large slice of the open-source movement has defected from running Linux on its laptops to running Mac OS X. The reason is the Unix core that underlies Mac OS X, and the development tools that run on that core. Cocoa makes it easy to create very slick Mac OS X interfaces for software (as well as to create applications in a hurry), and this new edition of Cocoa Programming for Mac OS X does an excellent job of teaching its readers how to put a Cocoa face on top of code (Objective-C code almost exclusively). If you know something about C and\/or C++ programming and want to apply your skills to the Mac, this is precisely the book you want.\nAuthor Aaron Hillegass teaches a Cocoa class, and his book reads like a demonstration-driven lecture in a computer lab. That is, the book takes a heavily example-centric approach to its subject, beginning with simple announcement windows and proceeding to cover the more advanced controls and object-oriented features of Cocoa and Objective-C. Throughout, he hops back and forth between descriptions of the goal to be accomplished, listings of the code that does the job, and instructions on how to use the Mac OS X development tools to speed the development process. --David Wall\nTopics covered: How to write software for Mac OS X in Objective-C and, especially, with Cocoa. The new edition shows how to use NSUndoManager, add AppleScript capability to an application, do graphics work with OpenGL, and use Cocoa under Linux using GNUstep. As well, all the basic controls and design patterns are covered. --This text refers to the Paperback edition.\nBook Info\nThe most comprehensive guide to developing Cocoa available. For the developer new to Cocoa, it provides an excellent introduction that will lead to success with the world's best object-oriented development tools. Softcover. --This text refers to an out of print or unavailable edition of this title.\nFrom the Back Cover\nThe practical guide everyone says you need!\n\"The most comprehensive guide to developing Cocoa available. For the developer new to Cocoa, it provides an excellent introduction that will lead to success with the world's best object-oriented development tools. For those familiar with Cocoa, the excellent organization and presentation make the book invaluable as a reference tool.\"\n--Bill Bumgarner, Cofounder, CodeFab\nWith the arrival of Mac OS X, Apple now has a modern operating system that calls for advanced programming capability. To take full advantage of the exciting and innovative features of OS X, Apple recommends a development framework known as Cocoa. Cocoa is a powerful collection of object-oriented tools and libraries that makes developing applications a much faster process. Mastery of Cocoa is absolutely essential for anyone doing serious development work for the Macintosh.\n\"Mac OS X and Cocoa are going to revolutionize the world of software development in the coming years... Aaron Hillegass's book is without a doubt the best aid to learning this technology.\"\n--Erik J. Barzeski, Editor, CocoaDevCentral.com\nNew technologies often have a steep learning curve and do not always come with complete instructions on how to get started or how to overcome common obstacles. Enter Cocoa(R) Programming for Mac(R) OS X, which shows you precisely how to put Cocoa to work.\n\"Reading this book is the absolute best way to learn how to harness the power of this amazing technology.\"\n--Andrew Stone, President, Stone Design, www.stone.com\nGuiding programmers through the key features of Cocoa, this book emphasizes design patterns that enable you to predict the behavior of classes you have never used before. Using a tutorial format, it takes you, step-by-step, through five applications and an InterfaceBuilder palette. Each project introduces several new ideas, and as each concept or technique is discussed, the author, drawing on his own extensive experience, shows you the advantages of working with Cocoa in object-oriented software development environments.\n0201726831B11262001 --This text refers to an out of print or unavailable edition of this title.\nExcerpt. © Reprinted by permission. All rights reserved.\nWith the arrival of Mac OS X, Apple recommends that all new applications be written using Cocoa. Cocoa is a powerful collection of tools and libraries that will make writing new programs a much faster process.\nThe increased speed does not, however, come for free. The new technologies have a steep learning curve, and Apple's documentation leaves much to be desired. This book will guide you through the ideas and techniques that separate the great Cocoa programmers from the wanna-bes.\nThis book is written for programmers who already know C++ or Java and are curious about Cocoa. The reader is not expected to have any experience with Mac programming. It is a hands-on book and assumes that the reader has access to Mac OS X and the developer tools.",
+      "price": "USD 49.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 31,
+        "average": "7.2",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "五样",
+        "杨尊五"
+      ],
+      "pubdate": "2009",
+      "tags": [
+        {
+          "count": 31,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 9,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 4,
+          "name": "实用秘籍",
+          "title": "实用秘籍"
+        },
+        {
+          "count": 4,
+          "name": "《打開Mac新世界》",
+          "title": "《打開Mac新世界》"
+        },
+        {
+          "count": 3,
+          "name": "mac",
+          "title": "mac"
+        },
+        {
+          "count": 2,
+          "name": "工具书",
+          "title": "工具书"
+        },
+        {
+          "count": 2,
+          "name": "楊尊五",
+          "title": "楊尊五"
+        },
+        {
+          "count": 2,
+          "name": "TOOL",
+          "title": "TOOL"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s3942556.jpg",
+      "binding": "精装全彩",
+      "translator": [],
+      "catalog": "",
+      "pages": "236",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s3942556.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s3942556.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s3942556.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3945376\/",
+      "id": "3945376",
+      "publisher": "东南大学出版社",
+      "isbn10": "7564114509",
+      "isbn13": "9787564114503",
+      "title": "打开Mac新世界2.0",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3945376",
+      "alt_title": "",
+      "author_intro": "五样，本名杨尊五，台湾知名网站——老地方冰果室首席编辑，畅销书作家。",
+      "summary": "《打开Mac新世界2.0:Mac OS X初学者完全对应版》讲述了：刚踏入Mac堂界的您，是否一直遗憾于没有一本介绍Mac入门的好书呢？ 现在由老地方冰果室首席编辑——五样（杨尊五），以过来人的学习历程，带您体验Mac各式功能与活用技法；内容除了教读者学会用Mac外，并提供大量作者的使用经验谈，快速带领读者学到Mac的精髓。 这本市面上最具质感、最美丽的Mac书，不仅能让您迅速熟悉操作环境，同时还能真正活用Mac，玩出自己的生活品味；相信在看过《打开Mac新世界2.0:Mac OS X初学者完全对应版》后，一定能获得意想不到的惊喜。",
+      "price": "86.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 30,
+        "average": "6.9",
+        "min": 0
+      },
+      "subtitle": "苹果人最爱的超酷软件精选",
+      "author": [
+        "黄盟胜"
+      ],
+      "pubdate": "2008",
+      "tags": [
+        {
+          "count": 28,
+          "name": "mac",
+          "title": "mac"
+        },
+        {
+          "count": 15,
+          "name": "Apple",
+          "title": "Apple"
+        },
+        {
+          "count": 12,
+          "name": "苹果",
+          "title": "苹果"
+        },
+        {
+          "count": 11,
+          "name": "MacOSX",
+          "title": "MacOSX"
+        },
+        {
+          "count": 5,
+          "name": "Macfans",
+          "title": "Macfans"
+        },
+        {
+          "count": 4,
+          "name": "电脑",
+          "title": "电脑"
+        },
+        {
+          "count": 4,
+          "name": "IT",
+          "title": "IT"
+        },
+        {
+          "count": 2,
+          "name": "大陆",
+          "title": "大陆"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s2969798.jpg",
+      "binding": "全彩精装",
+      "translator": [],
+      "catalog": "",
+      "pages": "256",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s2969798.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s2969798.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s2969798.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3012589\/",
+      "id": "3012589",
+      "publisher": "东南大学出版社",
+      "isbn10": "7564108878",
+      "isbn13": "9787564108878",
+      "title": "Mac玩家特区",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3012589",
+      "alt_title": "",
+      "author_intro": "黄盟胜，网络用名droger，资深Mac玩家，多家Mac类网站撰稿人。",
+      "summary": "本书搜罗国内外论坛一致推崇的酷炫软件，并由资深Mac玩家操刀，提供不为人知的Mac秘技，让您在一部电脑上跑XP+Mac OS 两套系统，并彻底活用Mac独有的创意软件，激发Mac所有潜能。",
+      "price": "86.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 68,
+        "average": "8.1",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mark Dalrymple",
+        "Scott Knaster"
+      ],
+      "pubdate": "2009-01-02",
+      "tags": [
+        {
+          "count": 58,
+          "name": "Objective-C",
+          "title": "Objective-C"
+        },
+        {
+          "count": 29,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 24,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 12,
+          "name": "iPhone",
+          "title": "iPhone"
+        },
+        {
+          "count": 12,
+          "name": "Cocoa",
+          "title": "Cocoa"
+        },
+        {
+          "count": 10,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 7,
+          "name": "apple",
+          "title": "apple"
+        },
+        {
+          "count": 6,
+          "name": "计算机",
+          "title": "计算机"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s4527016.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "360",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4527016.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4527016.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4527016.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3425861\/",
+      "id": "3425861",
+      "publisher": "Apress",
+      "isbn10": "1430218150",
+      "isbn13": "9781430218159",
+      "title": "Learn Objective–C on the Mac (Learn Series) (Volume 0)",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3425861",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "Take your coding skills to the next level with this extensive guide to Objective--C, the native programming language for developing sophisticated software applications for Mac OS X. Objective--C is a powerful, object--oriented extension of C, making this book the perfect follow--up to Dave Mark's bestselling Learn C on the Mac, Mac OS X Edition. Whether you're an experienced C programmer or you're coming from a different language such as C++ or Java, leading Mac experts Mark Dalrymple and Scott Knaster show you how to harness the powers of Objective--C in your applications! * A complete course on the basics of Objective--C using Apple's free Xcode tools * An introduction to object--oriented programming * Comprehensive coverage of inheritance, composition, object initialization, categories, protocols, memory management, and organizing source files * A brief tour of Cocoa's foundation framework and AppKit * A helpful \"learning curve\" guide for non--C developers What you'll learn * Learn Objective--C programming, the gateway to programming your Mac or iPhone * Write applications for the Mac OS X interface, the cleanest user--interface around * Understand variables and how to design your own data structures * Work with the file system * Connect to data sources and the Internet  Who this book is for For anyone wanting to learn to program native applications in Mac OS X, including developers new to the Mac, developers new to Objective--C, or students entirely new to programming.",
+      "price": "USD 39.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 45,
+        "average": "6.5",
+        "min": 0
+      },
+      "subtitle": "Mac功夫·OS X的300多个技巧和小窍门",
+      "author": [
+        "[美] Keir Thomas"
+      ],
+      "pubdate": "2012-11",
+      "tags": [
+        {
+          "count": 42,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 12,
+          "name": "工具",
+          "title": "工具"
+        },
+        {
+          "count": 10,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 10,
+          "name": "IT",
+          "title": "IT"
+        },
+        {
+          "count": 9,
+          "name": "技巧",
+          "title": "技巧"
+        },
+        {
+          "count": 8,
+          "name": "工具书",
+          "title": "工具书"
+        },
+        {
+          "count": 5,
+          "name": "mac",
+          "title": "mac"
+        },
+        {
+          "count": 3,
+          "name": "unix",
+          "title": "unix"
+        }
+      ],
+      "origin_title": "Mac Kung Fu:Over 300 Tips,Tricks, Hints,and Hacks for OS X Lion",
+      "image": "https://img1.doubanio.com\/mpic\/s24413999.jpg",
+      "binding": "平装",
+      "translator": [
+        "周庆成",
+        "万　琦"
+      ],
+      "catalog": "目　　录\n第1章　介绍　　1\n1.1　如何读这本书　　1\n1.2　所有Mac电脑都不需要安装额外插件　　2\n1.3　致谢　　　　2\n1.4　共享　　　　2\n第2章　在使用小技巧之前　　3\n2.1　通过键入命令行来启动隐藏设置　　3\n2.2　使用苹果菜单或应用程序菜单　　4\n2.3　创建一个Time Machine备份　　4\n2.4　使用鼠标和触控板　　4\n2.5　管理员账户　　5\n2.6　注销和登录　　5\n2.7　使用程序窗口　　6\n2.8　使用苹果键盘和快捷键　　6\n第3章　技巧集锦　　8\n小技巧1　在Dock上显示iTunes音轨信息　　8\n小技巧2　关闭渐隐和弹出动画效果　　9\n小技巧3　不用鼠标就能打开应用程序　　11\n小技巧4　在快速查看的预览窗口里高亮选中文本　　11\n小技巧5　轻松地调整窗口大小　　12\n小技巧6　应用程序全屏状态下调出Dock边栏　　12\n小技巧7　通过推动屏幕边缘来切换桌面　　13\n小技巧8　用密码保护USB闪存卡　　13\n小技巧9　找到当前壁纸文件的路径　　15\n小技巧10　文本摘要工具　　15\n小技巧11　通过滚动手势显示文件堆栈或应用程序Exposé　　16\n小技巧12　快速创建文件名列表　　17\n小技巧13　控制滚动效果　　17\n小技巧14　访问所有的键盘功能　　19\n小技巧15　让外接显示器的字体显示效果更平滑　　19\n小技巧16　快速输入常用符号和字符　　19\n小技巧17　自动重命名图片　　21\n小技巧18　安全清倒废纸篓　　23\n小技巧19　自定义图标　　23\n小技巧20　查看软件版本信息　　24\n小技巧21　在桌面上使用Dashboard里的Widget　　25\n小技巧22　把文件夹里的图片添加到可用壁纸列表　　26\n小技巧23　将屏幕截图直接复制到剪贴板　　26\n小技巧24　让笔记本电脑深度睡眠以节省电量　　26\n小技巧25　精通Mission Control　　27\n小技巧26　加快系统启动速度　　29\n小技巧27　了解你在Finder窗口里的详细位置　　29\n小技巧28　调整Launchpad的可视化特效　　30\n小技巧29　延长苹果笔记本电脑的电池寿命　　31\n小技巧30　将各种视觉效果应用到图片上　　31\n小技巧31　让电子邮件充满个性　　32\n小技巧32　通过屏幕保护程序选择播放哪首音乐　　33\n小技巧33　创建一个绝对安全的私人文件保险箱　　33\n小技巧34　查看Wi-Fi详细信息　　35\n小技巧35　快速切换耳机和麦克风接口　　36\n小技巧36　个性化Launchpad　　36\n小技巧37　为“文本编辑”添加字数统计功能　　37\n小技巧38　点击并按住键盘快捷键　　39\n小技巧39　用指定应用程序打开Spotlight的搜索结果文件　　39\n小技巧40　快速浏览日历　　39\n小技巧41　了解Spotlight搜索结果的确切位置　　40\n小技巧42　轻松输入特殊字符　　40\n小技巧43　在文档里自动创建链接　　41\n小技巧44　控制应用程序开机自动启动　　42\n小技巧45　监视CPU的使用率和活动\n状态　　42\n小技巧46　创建文档模板和替换短语　　43\n小技巧47　保持苹果电脑的“清醒”状态　　44\n小技巧48　检测苹果电脑的内存芯片　　45\n小技巧49　创建一张OS X操作系统安装\/启动光盘　　46\n小技巧50　从崩溃和死机中恢复　　48\n小技巧51　分享你的地址簿　　49\n小技巧52　更改Finder窗口的文字字体　　49\n小技巧53　对电脑进行压力测试　　50\n小技巧54　注释文件以加速搜索　　51\n小技巧55　找回资源库文件夹　　52\n小技巧56　快速在桌面上创建文件替身　　53\n小技巧57　为Dock文件栈添加视觉特效　　53\n小技巧58　在桌面上浏览文件的详细信息　　55\n小技巧59　压缩PDF文件　　55\n小技巧60　启用键盘重复输入　　56\n小技巧61　快速整理工具栏上的图标　　56\n小技巧62　保存可重用的文本片段　　56\n小技巧63　隐藏文件　　57\n小技巧64　在Finder窗口标题栏上显示路径　　58\n小技巧65　设置截图选项　　59\n小技巧66　创建智能颜色选取器应用程序　　60\n小技巧67　在没有Time Machine硬盘的环境下使用Time Machine备份文件　　62\n小技巧68　让Dock栏的图标更小　　63\n小技巧69　一种隐藏的文件栈列表模式　　64\n小技巧70　直接打开你正在快速查看的文件　　65\n小技巧71　隐藏所有的窗口　　65\n小技巧72　改善Finder窗口里的分栏视图　　65\n小技巧73　显示Spotlight和Dock里文件所在的位置　　66\n小技巧74　善用效能利器Finder窗口　　67\n小技巧75　使用打印机池快速打印　　68\n小技巧76　快速关机、重启或进入睡眠　　68\n小技巧77　浏览图片和影片的隐藏信息　　69\n小技巧78　通过拖动打印文件　　69\n小技巧79　精通Spotlight　　70\n小技巧80　切换Finder窗口的浏览视图　　72\n小技巧81　重置苹果电脑的硬件设置　　72\n小技巧82　了解磁盘剩余空间　　73\n小技巧83　找回忘记的密码　　74\n小技巧84　查看打印内容　　74\n小技巧85　强制使用某个应用程序打开文档　　75\n小技巧86　保存Spotlight搜索条件　　75\n小技巧87　在Google地图中查看地址　　76\n小技巧88　快速执行算术运算　　76\n小技巧89　获取多个文件的大小总和　　77\n小技巧90　使用彩色标签来管理项目组文件　　77\n小技巧91　录制影片、截屏视频及播客　　78\n小技巧92　在Finder窗口中打印文件　　79\n小技巧93　添加光驱推出按钮　　80\n小技巧94　访问隐藏的菜单选项　　80\n小技巧95　快速启动Google搜索　　81\n小技巧96　对登录图片应用视觉特效　　81\n小技巧97　用Cover Flow方式浏览iCal事件　　82\n小技巧98　放大鼠标指针　　82\n小技巧99　熟练切换应用程序　　83\n小技巧100　调整苹果电脑的字典　　84\n小技巧101　设置超低音量　　84\n小技巧102　在文件栈中快速查看文件　　85\n小技巧103　浏览被隐藏的应用程序图标　　85\n小技巧104　锁定文件　　86\n小技巧105　换掉Dashboard和Mission Control的壁纸　　87\n小技巧106　使用屏幕保护程序作为桌面背景　　89\n小技巧107　在苹果系统登录界面上查看技术支持信息　　90\n小技巧108　使用Apple Remote遥控器浏览启动菜单　　91\n小技巧109　禁用程序重启时自动打开文件　　91\n小技巧110　创建兼容所有操作系统的加密档案　　93\n小技巧111　快速查看单词含义　　95\n小技巧112　修复苹果电脑，尤其在硬盘出现问题时　　96\n小技巧113　取消下载文件的“文件隔离”　　96\n小技巧114　查看正在编辑文件的存放位置　　97\n小技巧115　使用键盘快捷键剪切文件　　97\n小技巧116　直接弹开文件夹　　97\n小技巧117　在上下翻页时移动光标位置　　98\n小技巧118　在打开\/存储对话框中直接进入文件位置　　98\n小技巧119　解除应用程序崩溃　　99\n小技巧120　把剪切板里的图片保存为文件　　99\n小技巧121　仅用键盘操作桌面任务　　100\n小技巧122　创建邮件快捷方式　　100\n小技巧123　检查苹果电脑的保修服务和技术支持　　101\n小技巧124　锁定屏幕　　101\n小技巧125　用另一个应用程序打开当前工作的文件　　102\n小技巧126　熟练操作PDF　　103\n小技巧127　在QuickTime Player中编辑影片　　105\n小技巧128　推出CD\/DVD光盘　　106\n小技巧129　检测第二台显示器　　107\n小技巧130　使用触控板调整影片播放进度　　107\n小技巧131　捕捉屏幕截图　　107\n小技巧132　永久忽略软件更新　　108\n小技巧133　创建字体预览文档　　109\n小技巧134　在终端程序中快速浏览某个命令的man页面　　109\n小技巧135　自动完成　　110\n小技巧136　让Dock栏只显示正在运行的程序　　110\n小技巧137　在Dock栏上添加最近使用的项目文件栈　　111\n小技巧138　自定义Mission Control界面的高亮颜色　　112\n小技巧139　快速访问系统偏好设置工具　　113\n小技巧140　隐藏桌面图标　　114\n小技巧141　修复密码　　115\n小技巧142　将窗口最小化为应用程序图标　　116\n小技巧143　临时打开\/关闭Dock栏的放大功能　　116\n小技巧144　移除系统偏好设置面板中的图标　　116\n小技巧145　加快PDF文件的浏览速度　　118\n小技巧146　使用图片编辑器向文档中插入图片　　118\n小技巧147　文件压缩的高级技巧　　118\n小技巧148　拍摄照片的高级技巧　　119\n小技巧149　熟练选中文本内容　　120\n小技巧150　在文本编辑程序中搜索文字　　121\n小技巧151　在Mail中快速查看附件和网页　　122\n小技巧152　把Finder窗口中的链接放到Dock栏上　　122\n小技巧153　设置小键盘为键盘快捷键　　123\n小技巧154　清理缓存　　124\n小技巧155　更改登录界面壁纸　　124\n小技巧156　使用快捷键显示桌面　　126\n小技巧157　通过终端快速查看文件　　126\n小技巧158　新建位于当前文件夹位置的终端窗口　　126\n小技巧159　鼠标连上电脑后关闭触控板　　127\n小技巧160　只安装打印机驱动而不安装插件　　127\n小技巧161　发送前往应用程序的链接　　128\n小技巧162　做出更大的Safari搜索框　　128\n小技巧163　复制计算器程序的结果　　128\n小技巧164　通过书签快速访问图片和PDF　　129\n小技巧165　在Safari全屏模式下缩小页面的宽度　　129\n小技巧166　下载软件的更新　　129\n小技巧167　连接不支持屏幕共享的电脑　　130\n小技巧168　在Dock中添加空白区域　　131\n小技巧169　从其他窗口获取信息　　132\n小技巧170　查看特定时间创建的文件　　133\n小技巧171　在Safari中下载文件　　133\n小技巧172　在iCal程序中浏览两周内的安排　　136\n小技巧173　取消开机提示音　　136\n小技巧174　放大桌面　　137\n小技巧175　减少Time Machine备份的频率　　138\n小技巧176　切换文档窗口　　139\n小技巧177　快速重命名文件　　139\n小技巧178　把文件导入Spotlight索引内　　140\n小技巧179　禁用询问是否备份的对话框　　141\n小技巧180　让苹果笔记本电脑的硬盘更快进入睡眠状态　　141\n小技巧181　自定义系统声音　　142\n小技巧182　在访问只读文件夹时获得提示　　143\n小技巧183　快速发送邮件　　143\n小技巧184　在“预览”程序中缩放、旋转或翻转图片　　144\n小技巧185　快速新建便笺　　144\n小技巧186　通过快捷键打开Finder窗口　　145\n小技巧187　在苹果电脑上熟练操作Podcast　　145\n小技巧188　一眼看出PDF是否含有多页　　147\n小技巧189　控制屏幕保护程序　　147\n小技巧190　从iPhone和iPad中获取图片和影片　　147\n小技巧191　把网页保存到磁盘中　　147\n小技巧192　旧物换钱　　148\n小技巧193　缩短iCal事件的持续时间　　149\n小技巧194?让苹果电脑“说话”　　149\n小技巧195?精通字典应用程序　　150\n小技巧196?优化Finder窗口的滚动效果　　151\n小技巧197?放大字体，轻松记录　　151\n小技巧198?存储对话框默认显示为扩展模式　　152\n小技巧199?全屏快速查看　　153\n小技巧200?检查输入文字的语法　　153\n小技巧201?调整Dock栏的观感　　154\n小技巧202?向PDF文档中添加手绘图　　155\n小技巧203?删减右键菜单中的选项　　155\n小技巧204?退出Finder程序　　156\n小技巧205?撤销操作　　156\n小技巧206?新建包含所选文件的文件夹　　157\n小技巧207?快速移除Dashboard界面中的Widget　　157\n小技巧208?拖动文件后对齐桌面上的图标　　157\n小技巧209?观看OS X系统的慢速动画效果　　157\n小技巧210?帮助辨认被隐藏的应用程序　　158\n小技巧211?中断文件拖动　　159\n小技巧212?删除Time Machine备份中的文件　　159\n小技巧213?连接到共享文件夹或服务器　　160\n小技巧214?浏览其他国家的App Store　　160\n小技巧215?停止生成.DS_store文件　　161\n小技巧216?保存终端窗口中的内容　　161\n小技巧217?启用隐藏的最小化视觉特效　　162\n小技巧218?更好地利用双指实现右键单击　　163\n小技巧219?把一系列图片转换成PDF文件　　163\n小技巧220?一次只显示一个程序窗口　　164\n小技巧221?在Finder窗口左边栏添加废纸篓　　164\n小技巧222?在打开\/存储对话框中使用快速查看功能　　165\n小技巧223?从影片文件中提取出声音　　165\n小技巧224?自动将PDF文档导出到特定文件夹　　166\n小技巧225?复制并粘贴纯文本　　167\n小技巧226?使用启动选项　　167\n小技巧227?创建安全备注　　168\n小技巧228?一次性关闭所有应用程序　　169\n小技巧229?升级电脑内存　　169\n小技巧230?在命令行工具中打开GUI应用程序　　170\n小技巧231?快速复制多封邮件内容　　171\n小技巧232?通过终端窗口搜索文件　　172\n小技巧233?启用Root用户权限　　172\n小技巧234?自动唤醒苹果笔记本电脑　　173\n小技巧235?将终端命令行结果输出到GUI程序中　　174\n小技巧236?禁用某些OS X系统的功能　　175\n小技巧237?重新定义键盘快捷键　　177\n小技巧238?复制文本的字体类型　　178\n小技巧239?使用手势激活应用程序Exposé功能　　178\n小技巧240?更改替身指向的文件　　178\n小技巧241?在Spotlight搜索结果列表中选择类别　　179\n小技巧242?重设Dock栏　　179\n小技巧243?更改菜单栏图标的位置　　179\n小技巧244?唤醒苹果笔记本电脑　　180\n小技巧245?整蛊朋友的苹果电脑　　180\n小技巧246?以实际尺寸查看图片　　181\n小技巧247?转换音频和视频格式　　182\n小技巧248?扩展快速查看功能支持的文件格式　　182\n小技巧249?通过Google即时搜索选中文本　　183\n小技巧250?启用另一个Dock栏堆栈动画　　183\n小技巧251?使用特殊手势切换到前一个桌面空间　　183\n小技巧252?了解文件的来源　　184\n小技巧253?在登录界面中添加提示窗口　　184\n小技巧254?通过命令行启用Time Machine　　185\n小技巧255?修复磁盘　　186\n小技巧256?拆分标签　　187\n小技巧257?把Time Machine备份移动到更大的硬盘　　187\n小技巧258?浏览邮件内的纯文本　　188\n小技巧259?扩展Spotlight支持的文件类型　　189\n小技巧260?诊断网络故障　　190\n小技巧261?加快建立SSH\/SFTP\/FTP连接　　190\n小技巧262?使用预览程序在文档中添加签名　　191\n小技巧263?加快Mail程序的运行速度　　192\n小技巧264?使Chrome浏览器网页窗口填满整个桌面　　193\n小技巧265?搜索系统文件　　193\n小技巧266?设置开机默认启动的操作系统　　194\n小技巧267?对电脑运行状态进行转储快照　　195\n小技巧268?在打开\/存储对话框中使用相对路径　　195\n小技巧269?立即取消对话框　　195\n小技巧270?搜索换行符和制表符　　196\n小技巧271?在阳光下看清屏幕　　196\n小技巧272?掌握“存储为”对话框的快捷键　　196\n小技巧273?快速调用应用程序的偏好设置　　196\n小技巧274?看到更大的壁纸缩略图　　197\n小技巧275?快速切换标签　　197\n小技巧276?浏览旧的Time Machine硬盘　　197\n小技巧277?用Safari浏览站内链接　　198\n小技巧278?远程获取苹果电脑中的文件　　198\n小技巧279?在应用程序中前进和后退　　199\n小技巧280?游戏　　199\n小技巧281?查看磁盘空间的使用情况　　200\n小技巧282?全屏运行X11应用程序　　201\n小技巧283?让Dashboard界面的切换方式变回覆盖模式　　201\n小技巧284?美化iTunes的可视化效果　　202\n小技巧285?光标跳到“文本编辑”程序的指定行　　202\n小技巧286?在Launchpad界面中添加Finder程序　　202\n小技巧287?转发邮件　　203\n小技巧288?创建苹果电脑间的即时网络连接　　203\n小技巧289?从屏幕保护程序包中获取精美壁纸　　203\n小技巧290?使用Emoji表情　　204\n小技巧291?在文本编辑程序中输入并检查外文　　205\n小技巧292?在恢复模式中使用Safari　　206\n小技巧293?从Windows迁移数据到苹果电脑　　206\n小技巧294?扩展QuickTime Player能识别的文件类型　　207\n小技巧295?阅读产品的官方使用手册　　207\n小技巧296?在苹果电脑上使用非苹果生产的键盘　　208\n小技巧297?在登录时自动创建服务器连接　　208\n小技巧298?反选文件　　209\n小技巧299?放置多个相同的Widget　　209\n小技巧300?逐秒浏览影片　　210\n小技巧301?让网站以应用程序方式打开　　210\n小技巧302?在线分享影片剪辑　　211\n小技巧303?在任意位置新建文件夹　　211\n小技巧304?使用快速查看功能浏览网页　　211\n小技巧305?通过Finder窗口获取FTP服务器中的文件　　212\n小技巧306?禁用大写锁定键　　212\n小技巧307?启用键盘背光　　213\n小技巧308?查看电池状况　　214\n小技巧309?轻松放大图片和PDF文件　　214\n小技巧310?获取真正的仙女座星系图片　　214\n小技巧311?重启Dock栏　　215\n小技巧312?使用语音操控苹果电脑　　215\n小技巧313?设置三指触控手势　　217\n小技巧314?与不支持AirDrop功能的苹果电脑分享文件　　217\n小技巧315?继续你的苹果电脑冒险：一些必备的应用程序　　218",
+      "ebook_url": "http:\/\/read.douban.com\/ebook\/744352\/",
+      "pages": "220",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s24413999.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s24413999.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s24413999.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/20256399\/",
+      "id": "20256399",
+      "publisher": "人民邮电出版社",
+      "isbn10": "7115295891",
+      "isbn13": "9787115295897",
+      "title": "Mac功夫",
+      "url": "http:\/\/api.douban.com\/v2\/book\/20256399",
+      "alt_title": "Mac Kung Fu:Over 300 Tips,Tricks, Hints,and Hacks for OS X Lion",
+      "author_intro": "作者介绍：\nKeir Thomas是一位Mac与Linux技术方面的专家，写过10多本畅销的计算机书籍，销量高达百万册，并被译成多国文字。他制作的Kindle电子书持续位居亚马逊排行榜高位。Thomas和他的两只宠物猫住在英国。除了撰写计算机书籍以外，他还经营着一个很小的名叫Puppywolf的诗歌出版社，并且正在尝试出版他写的小说。\n译者简介：\n周庆成，江西南昌人，毕业于上海海洋大学数学系。在学校的数字海洋研究所里接触了Mac和iOS，从此对移动开发产生兴趣。喜欢看书，兴趣广泛，对各类知识都非常渴求。经常翻译一些文章，现在翻译另一本Objective-C语言的入门书。目前居住于上海，从事游戏开发。\n万琦 江西南昌人。刚步入社会,处于迷茫期 中的90后⼀一员。四川师范大学计算机专业毕业生一枚,不堪打杂 之苦毅然踏上考研不归 路。天性爱折腾,任何东西都想花点时间研究。正 以“成为⼀一名合格的程序 员”为目标奋斗。",
+      "summary": "内容简介：\n一直以来，苹果电脑以其独特便捷的操作系统、出色的设计风格而广受全世界用户的赞誉。每一代Mac系统都成为果粉们追捧并研究的对象。秉承着辉煌传统，崭新的Mac OS X系统继续担当新技术的领跑者，Mission Control、Launchpad、全屏应用程序、多点触控，以及联结各种社会化媒体的精彩功能使电脑使用方式产生了颠覆式的革新。\n本书通过多达300余个小技巧，通俗易懂地介绍了OS X 操作系统的各种常用工具及神秘功能，是一本非常实用的Mac技术修炼秘籍。无论是新手还是高级用户，你都可从本书中找到一些意想不到的内容。通过学习本书，读者可以实现以下目标：\n灵活运用终端程序来打造个性化的Mac\n熟练利用键盘快捷键来加速日常工作\n研习各种OS X 内建神秘功能来优化使用体验\n每个技巧的学习都不超过几分钟，但会让你长久受益，使你的Mac生涯变得更加高效，产生质的飞跃。",
+      "ebook_price": "25.00",
+      "price": "49.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 17,
+        "average": "7.7",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Leander Kahney"
+      ],
+      "pubdate": "2004-10-25",
+      "tags": [
+        {
+          "count": 18,
+          "name": "Mac",
+          "title": "Mac"
+        },
+        {
+          "count": 12,
+          "name": "苹果",
+          "title": "苹果"
+        },
+        {
+          "count": 11,
+          "name": "设计",
+          "title": "设计"
+        },
+        {
+          "count": 7,
+          "name": "文化",
+          "title": "文化"
+        },
+        {
+          "count": 7,
+          "name": "apple",
+          "title": "apple"
+        },
+        {
+          "count": 6,
+          "name": "传记",
+          "title": "传记"
+        },
+        {
+          "count": 4,
+          "name": "IT",
+          "title": "IT"
+        },
+        {
+          "count": 3,
+          "name": "创意&设计",
+          "title": "创意&设计"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s7050966.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "268",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s7050966.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s7050966.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s7050966.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1483080\/",
+      "id": "1483080",
+      "publisher": "No Starch Press",
+      "isbn10": "1886411832",
+      "isbn13": "9781886411838",
+      "title": "The Cult of Mac",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1483080",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "There is no product on the planet that enjoys the devotion of a Macintosh computer. Apple's machines have legions of loyal, sometimes demented fans. The Cult of Mac surveys the devoted following that has grown up around Macintosh computers. Like fans of a football team or a rock group, Macintosh fanatics have their own subculture, with clearly defined obsessions, rites, and passages. Famously dedicated to their computers, many Mac fans eat, sleep, and breathe the Macintosh. Fans who get Mac tattoos and haircuts, people who attend Apple Store openings like they are Grateful Dead shows, counterculture icons who love the Mac, people who turn old Macs into aquariums (or bongs), Ellen Fein lookalike contests, erotic fiction featuring Steve Jobs; it's all here. Technology reporter Leander Kahney exposes all sides of Mac fanaticism, from the innocuous to the insane.",
+      "price": "USD 39.95"
+    }
+  ]
+}

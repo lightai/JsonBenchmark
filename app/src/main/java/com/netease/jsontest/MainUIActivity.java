@@ -13,8 +13,8 @@ import android.widget.TextView;
 import com.netease.jsontest.model.BookList;
 import com.netease.jsontest.model.BookModel;
 
-public class MainActivity extends AppCompatActivity {
-    public static final String TAG = "MainActivity";
+public class MainUIActivity extends AppCompatActivity {
+    public static final String TAG = "MainUIActivity";
 
     final String[] paths = {"android", "android100", "c100", "ios", "java", "js", "mac", "python"};
     final JsonTestController<BookList> testController = new JsonTestController(BookList.class);

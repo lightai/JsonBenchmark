@@ -1,0 +1,37 @@
+{
+  "rating": {
+	"max": 10,
+	"numRaters": 0,
+	"average": "0.0",
+	"min": 0
+  },
+  "subtitle": "",
+  "author": [
+	"何芳",
+	"何芳"
+  ],
+  "pubdate": "2005-3-1",
+  "tags": [],
+  "origin_title": "",
+  "image": "https://img1.doubanio.com\/mpic\/s1166728.jpg",
+  "binding": "平装（带盘）",
+  "translator": [],
+  "catalog": "第1章 照片的获取素材\n1 通过扫描获取素材\n2 扫描图像处理技巧\n3 黑白照片上色\n第2章 数码相机的拍摄技巧\n……\n第3章 制作艺术照\n……\n第4章 照片的其他加工技术\n……\n第5章 照片的打印、加工与冲印\n……\n第6章 制作电子相册\n……",
+  "pages": "236",
+  "images": {
+	"small": "https://img1.doubanio.com\/spic\/s1166728.jpg",
+	"large": "https://img1.doubanio.com\/lpic\/s1166728.jpg",
+	"medium": "https://img1.doubanio.com\/mpic\/s1166728.jpg"
+  },
+  "alt": "http:\/\/book.douban.com\/subject\/1220500\/",
+  "id": "1220500",
+  "publisher": "红旗出版社",
+  "isbn10": "7505110969",
+  "isbn13": "9787505110960",
+  "title": "中文Photoshop CS数码照片处理",
+  "url": "http:\/\/api.douban.com\/v2\/book\/1220500",
+  "alt_title": "",
+  "author_intro": "",
+  "summary": "",
+  "price": "38.00元"
+}

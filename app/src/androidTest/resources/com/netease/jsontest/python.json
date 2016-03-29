@@ -1,0 +1,1153 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 1098,
+  "books": [
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 3,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "All the Words, Volume 2",
+      "author": [
+        "Monty Python",
+        "Graham Chapman",
+        "Eric Idle",
+        "Terry Gillian",
+        "Terry Jones"
+      ],
+      "pubdate": "1989-11-12",
+      "tags": [
+        {
+          "count": 2,
+          "name": "英剧",
+          "title": "英剧"
+        },
+        {
+          "count": 2,
+          "name": "英语文学",
+          "title": "英语文学"
+        },
+        {
+          "count": 1,
+          "name": "BBC",
+          "title": "BBC"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s2721950.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "384",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s2721950.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s2721950.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s2721950.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1886640\/",
+      "id": "1886640",
+      "publisher": "Pantheon",
+      "isbn10": "0679726489",
+      "isbn13": "9780679726487",
+      "title": "The Complete Monty Python's Flying Circus",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1886640",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "Forty-five classic episodes of the most entertaining writing to have gone into television anywhere. The minister of silly walks, the dead parrot, banter in a cheese shop - here is every silly, satirical skit, every snide insult, every saucy aside.",
+      "price": "USD 16.00"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Graham Chapman",
+        "Monty Python"
+      ],
+      "pubdate": "1984",
+      "tags": [
+        {
+          "count": 1,
+          "name": "MontyPython",
+          "title": "MontyPython"
+        },
+        {
+          "count": 1,
+          "name": "英文原版",
+          "title": "英文原版"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s2721953.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "68",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s2721953.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s2721953.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s2721953.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2266854\/",
+      "id": "2266854",
+      "publisher": "Methuen Publishing, Ltd.",
+      "isbn10": "0413774201",
+      "isbn13": "9780413774200",
+      "title": "Monty Python's Big Red Book",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2266854",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "Not that big...or particularly red.  Pages of silliness based on the original television series.",
+      "price": "USD 16.95"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python         Cdbmgs         48691"
+      ],
+      "pubdate": "2004-07-31",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "Audio CD",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1849937\/",
+      "id": "1849937",
+      "publisher": "BMG SPECIAL PRODUCTS",
+      "isbn10": "6308618837",
+      "isbn13": "9786308618833",
+      "title": "Monty Python and the Holy Grail",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1849937",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "USD 6.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python                                                                                        "
+      ],
+      "pubdate": "2007-09-01",
+      "tags": [
+        {
+          "count": 1,
+          "name": "平面设计",
+          "title": "平面设计"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s4266877.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "96",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s4266877.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s4266877.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s4266877.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2457738\/",
+      "id": "2457738",
+      "publisher": "Methuen Publishing Ltd",
+      "isbn10": "0413776425",
+      "isbn13": "9780413776426",
+      "title": "The  Brand New Monty Python Papperbok (Methuen Humour)",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2457738",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "USD 24.95"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/12237786\/",
+      "id": "12237786",
+      "publisher": "",
+      "isbn10": "0571254985",
+      "isbn13": "9780571254989",
+      "title": "QI Boxset",
+      "url": "http:\/\/api.douban.com\/v2\/book\/12237786",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/12278078\/",
+      "id": "12278078",
+      "publisher": "",
+      "isbn10": "0679727027",
+      "isbn13": "9780679727026",
+      "title": "The Complete Monty Python&#039;s Flying Circus",
+      "url": "http:\/\/api.douban.com\/v2\/book\/12278078",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s11842918.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "368",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s11842918.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s11842918.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s11842918.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/11976147\/",
+      "id": "11976147",
+      "publisher": "",
+      "isbn10": "0413741001",
+      "isbn13": "9780413741004",
+      "title": "Monty Python Flying Circus - Just the Words",
+      "url": "http:\/\/api.douban.com\/v2\/book\/11976147",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Monty Python"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/11976406\/",
+      "id": "11976406",
+      "publisher": "",
+      "isbn10": "0413776913",
+      "isbn13": "9780413776914",
+      "title": "The Brand New &quot;Monty Python&quot;Papperbok",
+      "url": "http:\/\/api.douban.com\/v2\/book\/11976406",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Chapman, Graham\/ Palin, Michael\/ Cleese, John\/ Gilliam, Terry\/ Idle, Eric\/ Jones, Terry\/ Monty Python (COR)\/ McCabe, Bob (CON)"
+      ],
+      "pubdate": "",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "HRD",
+      "translator": [],
+      "catalog": "",
+      "pages": "359",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/2808437\/",
+      "id": "2808437",
+      "publisher": "St Martins Pr",
+      "isbn10": "0312339119",
+      "isbn13": "9780312339111",
+      "title": "The Pythons",
+      "url": "http:\/\/api.douban.com\/v2\/book\/2808437",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": "341.11元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Python Bonkers"
+      ],
+      "pubdate": "2006-2-10",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s2398498.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "260",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s2398498.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s2398498.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s2398498.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1755900\/",
+      "id": "1755900",
+      "publisher": "Lulu Press",
+      "isbn10": "1411677315",
+      "isbn13": "9781411677319",
+      "title": "A Million Little Pieces of Feces",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1755900",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "(Selected excerpts and outside reviews can be found by clicking on the blue Python Bonkers hyperlink.) This book may share an alphabetical lineage with the Frey book, but there is no melodramatic redemption here -- it is not a parody of that book but its own entity. As one of the characters from the book says, \"We're still involved in the commission of the acts that will require redemption -- and those stories are always so much more fun.\" Bonkers and his bizarre \"team\" embarks on a gonzo tear through the streets of Los Angeles and across the pop cultural landscape as well. In his satirical quest for truth in journalism, and life, he must navigate through the many odd tiers of social class, in both the Southern California culture and in his Machiavellian office life and its absurd red and blue political divisions. This is no heart-wrenching tale of excess, its destination is hilarity, so it presses the pedal to the metal and takes no prisoners.",
+      "price": "USD 18.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 0,
+        "average": "0.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Terry Jones,  John Gleese, Eric Idle,  Michael Palen ) Python Monty ( Graham Chapman"
+      ],
+      "pubdate": "1971-09-30",
+      "tags": [],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif",
+      "binding": "Hardcover",
+      "translator": [],
+      "catalog": "",
+      "pages": "",
+      "images": {
+        "small": "https://img1.doubanio.com\/f\/shire\/9ec0301cff99c866e9b4f386743f612d594f1836\/pics\/book-default-small.gif",
+        "large": "https://img3.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-large.gif",
+        "medium": "https://img1.doubanio.com\/f\/shire\/5522dd1f5b742d1e1394a17f44d590646b63871d\/pics\/book-default-medium.gif"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/4090057\/",
+      "id": "4090057",
+      "publisher": "Methuen young books",
+      "isbn10": "0416668909",
+      "isbn13": "9780416668902",
+      "title": "Monty Python's Big Red Book",
+      "url": "http:\/\/api.douban.com\/v2\/book\/4090057",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "",
+      "price": ""
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 580,
+        "average": "8.7",
+        "min": 0
+      },
+      "subtitle": "深度探索动态语言核心技术",
+      "author": [
+        "陈儒"
+      ],
+      "pubdate": "2008-6",
+      "tags": [
+        {
+          "count": 1277,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 447,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 233,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 204,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 199,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 177,
+          "name": "编译原理",
+          "title": "编译原理"
+        },
+        {
+          "count": 156,
+          "name": "程序语言",
+          "title": "程序语言"
+        },
+        {
+          "count": 138,
+          "name": "脚本引擎",
+          "title": "脚本引擎"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s3435132.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "",
+      "ebook_url": "http:\/\/read.douban.com\/ebook\/1499455\/",
+      "pages": "480",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s3435132.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s3435132.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s3435132.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3117898\/",
+      "id": "3117898",
+      "publisher": "电子工业出版社",
+      "isbn10": "7121068745",
+      "isbn13": "9787121068744",
+      "title": "Python源码剖析",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3117898",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C\/C++编写Python的扩展模块，还能将Python嵌入到C\/C++程序中，为自己的系统添加动态扩展和动态编程的能力。.\n为了更好地利用Python语言，无论是使用Python语言本身，还是将Python与C\/C++交互使用，深刻理解Python的运行原理都是非常重要的。本书以CPython为研究对象，在C代码一级，深入细致地剖析了Python的实现。书中不仅包括了对大量Python内置对象的剖析，更将大量的篇幅用于对Python虚拟机及Python高级特性的剖析。通过此书，读者能够透彻地理解Python中的一般表达式、控制结构、异常机制、类机制、多线程机制、模块的动态加载机制、内存管理机制等核心技术的运行原理，同时，本书所揭示的动态语言的核心技术对于理解其他动态语言，如 Javascript、Ruby等也有较大的参考价值。..\n本书适合于Python程序员、动态语言爱好者、C程序员阅读",
+      "ebook_price": "38.39",
+      "price": "69.80元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1271,
+        "average": "8.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Magnus Lie Hetland"
+      ],
+      "pubdate": "2010年7月",
+      "tags": [
+        {
+          "count": 1483,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 697,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 318,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 299,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 287,
+          "name": "脚本语言",
+          "title": "脚本语言"
+        },
+        {
+          "count": 264,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 148,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 121,
+          "name": "软件开发",
+          "title": "软件开发"
+        }
+      ],
+      "origin_title": "Beginning Python: From Novice to Professional, Second Edition",
+      "image": "https://img3.doubanio.com\/mpic\/s4387251.jpg",
+      "binding": "平装",
+      "translator": [
+        "司维",
+        "曾军崴",
+        "谭颖华"
+      ],
+      "catalog": "第1章 基础知识\n1.1 安装Python\n1.1.1 Windows\n1.1.2 Linux和UNIX\n1.1.3 苹果机（Macintosh）\n1.1.4 其他发布版\n1.1.5 时常关注，保持更新\n1.2 交互式解释器\n1.3 算法是什么\n1.4 数字和表达式\n1.4.1 长整型数\n1.4.2 十六进制和八进制\n1.5 变量\n1.6 语句\n1.7 获取用户输入\n1.8 函数\n1.9 模块\n1.9.1 cmath和复数\n1.9.2 回到future\n1.10 保存并执行程序\n1.10.1 通过命令提示符运行Python脚本\n1.10.2 让脚本像普通程序一样运行\n1.10.3 注释\n1.11 字符串\n1.11.1 单引号字符串和转义引号\n1.11.2 拼接字符串\n1.11.3 字符串表示和repr\n1.11.4 input和rawinpm的比较\n1.11.5 长字符串、原始字符串和Unicode\n1.12 小结\n1.12.1 本章的新函数\n1.12.2 接下来学什么\n第2章 列表和元组\n2.1 序列概览\n2.2 通用序列操作\n2.2.1 索引\n2.2.2 分片\n2.2.3 序列相加\n2.2.4.乘法\n2.2.5 成员资格\n2.2.6 长度、最小值和最大值\n2.3 列表：Python的“苦力”\n2.3.1 list函数\n2.3.2 基本的列表操作\n2.3.3 列表方法\n2.4 元组：不可变序列\n2.4.1 tuple函数\n2.4.2 基本元组操作\n2.4.3 那么，意义何在\n2.5 小结\n2.5.1 本章的新函数\n2.5.2 接下来学什么\n第3章 使用字符串\n3.1 基本字符串操作\n3.2 字符串格式化：精简版\n3.3 字符串格式化：完整版\n3.3.1 简单转换\n3.3.2 字段宽度和精度\n3.3.3 符号、对齐和0填充\n3.4 字符串方法\n3.4.1 f1nd\n3.4.2 join\n3.4.3 jower\n3.4.4 replace\n3.4.5 spl1t\n3.4.6 strlD\n3.4.7 tralqslate\n3.5 小结\n3.5.1 本章的新函数\n3.5.2 接下来学什么\n第4章 字典：当索引不好用时\n4.1 字典的使用\n4.2 创建和使用字典\n4.2.1 dict函数\n4.2.2 基本字典操作\n4.2.3 字典的格式化字符串\n4.2.4 字典方法\n4.3 小结\n4.3.1 本章的新函数\n4.3.2 接下来学什么\n第5章 条件、循环和其他语句\n5.1 print和import的更多信息\n5.1.1 使用逗号输出\n5.1.2 把某件事作为另一件事导入\n5.2 赋值魔法\n5.2.1 序列解包\n5.2.2 链式赋值\n5.2.3 增量赋值\n5.3 语句块：缩排的乐趣\n5.4 条件和条件语句\n5.4.1 这就是布尔变量的作用\n5.4.2 条件执行和if语句\n5.4.3 else子句\n5.4.4 elif子句\n5.4.5 嵌套代码块\n5.4.6 更复杂的条件\n5.4.7 断言\n5.5 循环\n5.5.1 while循环\n5.5.2 for循环\n5.5.3 循环遍历字典元素\n5.5.4 一些迭代工具\n5.5.5 跳出循环\n5.5.6 循环中的else子句\n5.6 列表推导式——轻量级循环\n5.7 三人行\n5.7.1 什么都没发生\n5.7.2 使用del删除\n5.7.3 使用exec和eval执行和求值字符串\n5.8 小结\n5.8.1 本章的新函数\n5.8.2 接下来学什么\n第6章 抽象\n6.1 懒惰即美德\n6.2 抽象和结构\n6.3 创建函数\n6.3.1 记录函数\n6.3.2 并非真正函数的函数\n6.4 参数魔法\n6.4.1 值从哪里来\n6.4.2 我能改变参数吗\n6.4.3 关键字参数和默认值\n6.4.4 收集参数\n6.4.5 反转过程\n6.4.6 练习使用参数\n6.5 作用域\n6.6 递归\n6.6.1 两个经典：阶乘和幂\n6.6.2 另外一个经典：二元查找\n6.7 小结\n6.7.1 本章的新函数\n6.7.2 接下来学什么\n第7章 更加抽象\n7.1 对象的魔力\n7.1.1 多态\n7.1.2 封装\n7.1.3 继承\n7.2 类和类型\n7.2.1 类到底是什么\n7.2.2 创建自己的类\n7.2.3 特性、函数和方法\n7.2.4 类的命名空间\n7.2.5 指定超类\n7.2.6 调查继承\n7.2.7 多个超类\n7.2.8 接口和内省\n7.3 一些关于面向对象设计的思考\n7.4 简明总结\n7.4.1 本章的新函数\n7.4.2 接下来学什么\n第8章 异常\n8.1 什么是异常\n8.2 按自己的方式出错\n8.2.1 raise语句\n8.2.2 自定义异常类\n8.3 捕捉异常\n8.4 不止一个except子句\n8.5 用一个块捕捉两个异常\n8.6 捕捉对象\n8.7 真正的全捕捉\n8.8 万事大吉\n8.9 最后\n8.10 异常和函数\n8.11 异常之禅\n8.12小结\n8.12.1 本章的新函数\n8.12.2 接下来学什么\n第9章 魔法方法、属性和迭代器\n9.1 准备工作\n9.2 构造方法\n9.2.1 重写一般方法和特殊的构造方法\n9.2.2 调用未绑定的超类构造方法\n9.2.3 使用super、函数\n9.3 成员访问\n9.3.1 基本的序列和映射规则\n9.3.2 子类化列表，字典和字符串\n9.4 更多魔力\n9.5 属性\n9.5.1 property函数\n9.5.2 静态方法和类成员方法\n9.5.3 getattr、setattr和它的朋友们\n9.6 迭代器\n9.6.1 迭代器规则\n9.6.2 从迭代器得到序列\n9.7 生成器\n9.7.1 创建生成器\n9.7.2 递归生成器\n9.7.3 通用生成器\n9.7.4 生成器方法\n9.7.5 模拟生成器\n9.8 八皇后问题\n9.8.1 生成器和回溯\n9.8.2 问题\n9.8.3 状态表示\n9.8.4 寻找冲突\n9.8.5 基本情况\n9.8.6 需要递归的情况\n9.8.7 打包\n9.9 小结\n9.9.1 本章的新函数\n9.9.2 接下来学什么\n第10章 充电时刻\n10.1 模块\n10.1.1 模块是程序\n10.1.2 模块用于定义\n10.1.3 让你的模块可用\n10.1.4 包\n10.2 探究模块\n10.2.1 模块中有什么\n10.2.2 用help获取帮助\n10.2.3 文档\n10.2.4 使用源代码\n10.3 标准库：一些最爱\n10.3.1 sys\n10.3.2 OS\n10.3.3 fileinput\n10.3.4 集合、堆和双端队列\n10.3.5 time\n10.3.6 random\n10.3.7 shelve\n10.3.8 re\n10.3.9 其他有趣的标准模块\n10.4 小结\n10.4.1 本章的新函数\n10.4.2 接下来学什么\n第11章 文件和素材\n11.1 打开文件\n11.1.1 文件模式\n11.1.2 缓冲\n11.2 基本文件方法\n11.2.1 读和写\n11.2.2 管式输出\n11.2.3 读写行\n11.2.4 关闭文件\n11.2.5 使用基本文件方法\n11.3 对文件内容进行迭代\n11.3.1 按字节处理\n11.3.2 按行操作\n11.3.3 读取所有内容\n11.3.4 使用fileinput实现懒惰行迭代\n11.3.5 文件迭代器\n11.4 小结\n11.4.1 本章的新函数\n11.4.2 接下来学什么\n第12章 图形用户界面\n12.1 丰富的平台\n12.2 下载和安装wxpytbon\n12.3 创建示例GUI应用程序\n12.3.1 开始\n12.3.2 窗口和组件\n12.3.3 标签、标题和位置\n12.3.4 更智能的布局\n12.3.5 事件处理\n12.3.6 完成了的程序\n12.4 但是我宁愿用\n12.4..1 使用Tkinter\n12.4.2 使用Jython和Swing\n12.4..3 使用其他开发包\n12.5 小结\n第13章 数据库支持\n13.1 Python数据库API\n13.1.1 全局变量\n13.1.2 异常\n13.1.3 连接和游标\n13.1.4 类型\n13.2 SQLite和PySQLite\n13.2.1 入门\n13.2.2 数据库应用程序示例\n13.3 小结\n13.3.1 本章的新函数\n13.3.2 接下来学什么\n第14章 网络编程\n14.1 少数几个网络设计模块\n14.1.1 socket模块\n14.1.2 urllib和urllib2模块\n14.1.3 其他模块\n14.2 SocketServer和它的朋友们\n14.3 多连接\n14.3.1 使用SocketServer进行分叉和线程处理\n14.3.2 带有select和port的异步I／O\n14.4 Twisted\n14.4.1 下裁并安装Twisted\n14.4.2 编写Twisted服务器\n14.5 小结\n14.5.1 本章的新函数\n14.5.2 接下来学什么\n第15章 Python和万维网\n15.1 屏幕抓取\n15.1.1 Tidy和XHTML解析\n……\n第16章 测试\n第17章 扩展Python\n第18章 程序打包\n第19章 好玩的编程\n第20章 项目1：即时标记\n第21章 项目2：画幅好画\n第22章 项目3：万能的XML\n第23章 项目4：新闻聚合\n第24章 项目5：虚拟茶话会\n第25章 项目6：使用CGI进行远程编辑\n第26章 项目7：自定义电子公告板\n第27章 项目8：使用XML-RPC进行文件共享\n第28章 项目9：文件共享2——GUI版本\n第29章 项目10：DIY街机游戏\n附录A 简明版本\n附录B Python参考手册\n附录C 在线资源\n附录D Python3.0",
+      "pages": "471",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4387251.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4387251.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4387251.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/4866934\/",
+      "id": "4866934",
+      "publisher": "人民邮电出版社",
+      "isbn10": "7115230277",
+      "isbn13": "9787115230270",
+      "title": "Python基础教程",
+      "url": "http:\/\/api.douban.com\/v2\/book\/4866934",
+      "alt_title": "Beginning Python: From Novice to Professional, Second Edition",
+      "author_intro": "Magnus Lie Hetland是挪威科技大学副教授，教授算法。喜欢钻研新的编程语言，是Python语言的坚定支持者。他写过很多Python方面的书和在线教程，比如深受大家欢迎的网上教程Instant Python。",
+      "summary": "本书是经典教程的全新改版，作者根据Python 3.0版本的种种变化，全面改写了书中内容，做到既能“瞻前”也能“顾后”。本书层次鲜明、结构严谨、内容翔实，特别是在最后几章，作者将前面讲述的内容应用到了10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程。本书既适合初学者夯实基础，又能帮助Python程序员提升技能，即使是 Python方面的技术专家，也能从书里找到令你耳目一新的东西。",
+      "series": {
+        "id": "660",
+        "title": "图灵程序设计丛书"
+      },
+      "price": "69.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1187,
+        "average": "7.7",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美]Wesley J. Chun（陳仲才）"
+      ],
+      "pubdate": "2008-06",
+      "tags": [
+        {
+          "count": 1190,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 529,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 219,
+          "name": "程序语言",
+          "title": "程序语言"
+        },
+        {
+          "count": 211,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 157,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 153,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 143,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 86,
+          "name": "开发",
+          "title": "开发"
+        }
+      ],
+      "origin_title": "Core Python Programming, 2nd Edition",
+      "image": "https://img3.doubanio.com\/mpic\/s3140466.jpg",
+      "binding": "平装",
+      "translator": [
+        "CPUG"
+      ],
+      "catalog": "第1部分　Python核心\n第1章　欢迎来到Python世界\n1.1　什么是Python\n1.2　起源\n1.3　特点\n1.3.1　高级\n1.3.2　面向对象\n1.3.3　可升级\n1.3.4　可扩展\n1.3.5　可移植性\n1.3.6　易学\n1.3.7　易读\n1.3.8　易维护\n1.3.9　健壮性\n1.3.10　高效的快速原型开发工具\n1.3.11　内存管理器\n1.3.12　解释性和（字节）编译性\n1.4　下载和安装Python\n1.5　运行Python\n1.5.1　命令行上的交互式解释器\n1.5.2　从命令行启动脚本\n1.5.3　集成开发环境\n1.5.4　其他的集成开发环境和执行环境\n1.6　Python文档\n1.7　比较Python（Python与其他语言的比较）\n1.8　其他实现\n1.9　练习\n第2章　快速入门\n2.1　程序输出，print语句及“Hello World!”\n2.2　程序输入和raw_input（）内建函数\n2.3　注释\n2.4　操作符\n2.5　变量和赋值\n2.6　数字\n2.7　字符串\n2.8　列表和元组\n2.9　字典\n2.10　代码块及缩进对齐\n2.11　if语句\n2.12　while循环\n2.13　for循环和range（）内建函数\n2.14　列表解析\n2.15　文件和内建函数open（）、file（）\n2.16　错误和异常\n2.17　函数\n2.17.1　如何定义函数\n2.17.2　如何调用函数\n2.17.3　默认参数\n2.18　类\n2.19　模块\n2.19.1　如何导入模块\n2.19.2　如何访问一个模块函数或访问一个模块变量\n2.20　实用的函数\n2.21　练习\n第3章　Python基础\n3.1　语句和语法\n3.1.1　注释（#）\n3.1.2　继续（\\）\n3.1.3　多个语句构成代码组（:）\n3.1.4　代码组由不同的缩进分隔\n3.1.5　同一行书写多个语句（;）\n3.1.6　模块\n3.2　变量赋值\n3.2.1　赋值操作符\n3.2.2　增量赋值\n3.2.3　多重赋值\n3.2.4　“多元”赋值\n3.3　标识符\n3.3.1　合法的Python标识符\n3.3.2　关键字\n3.3.3　内建\n3.3.4　专用下划线标识符\n3.4　基本风格指南\n3.4.1　模块结构和布局\n3.4.2　在主程序中书写测试代码\n3.5　内存管理\n3.5.1　变量定义\n3.5.2　动态类型\n3.5.3　内存分配\n3.5.4　引用计数\n3.5.5　垃圾收集\n3.6　第一个Python程序\n3.7　相关模块和开发工具\n3.8　练习\n第4章　Python对象\n4.1　Python 对象\n4.2　标准类型\n4.3　其他内建类型\n4.3.1　类型对象和type类型对象\n4.3.2　None--Python的Null对象\n4.4　内部类型\n4.4.1　代码对象\n4.4.2　帧对象\n4.4.3　跟踪记录对象\n4.4.4　切片对象\n4.4.5　省略对象\n4.4.6　XRange 对象\n4.5　标准类型操作符\n4.5.1　对象值的比较\n4.5.2　对象身份比较\n4.5.3　布尔类型\n4.6　标准类型内建函数\n4.6.1　type（）\n4.6.2　cmp（）\n4.6.3　str（）和repr（）（及``操作符）\n4.6.4　type（）和isinstance（）\n4.6.5　Python类型操作符和内建函数总结\n4.7　类型工厂函数\n4.8　标准类型的分类\n4.8.1　存储模型\n4.8.2　更新模型\n4.8.3　访问模型\n4.9　不支持的类型\n4.10　练习\n第5章　数字\n5.1　数字简介\n5.1.1　如何创建数值对象并用其赋值（数字对象）\n5.1.2　如何更新数字对象\n5.1.3　如何删除数字对象\n5.2　整型\n5.2.1　布尔型\n5.2.2　标准整型\n5.2.3　长整型\n5.2.4　整型和长整型的统一\n5.3　双精度浮点型\n5.4　复数\n5.5　操作符\n5.5.1　混合模式操作符\n5.5.2　标准类型操作符\n5.5.3　算术操作符\n5.5.4　*位操作符（只适用于整型）\n5.6　内建函数与工厂函数\n5.6.1　标准类型函数\n5.6.2　数字类型函数\n5.6.3　仅用于整型的函数\n5.7　其他数字类型\n5.7.1　布尔“数”\n5.7.2　十进制浮点型\n5.8　相关模块\n5.9　练习\n第6章　序列：字符串、列表和元组\n6.1　序列\n6.1.1　标准类型操作符\n6.1.2　序列类型操作符\n6.1.3　内建函数（BIF）\n6.2　字符串\n6.3　字符串和操作符\n6.3.1　标准类型操作符\n6.3.2　序列操作符切片（[]和[:]）\n6.4　只适用于字符串的操作符\n6.4.1　格式化操作符（％）\n6.4.2　字符串模板: 更简单的替代品\n6.4.3　原始字符串操作符（r\/R）\n6.4.4　Unicode字符串操作符（u\/U）\n6.5　内建函数\n6.5.1　标准类型函数\n6.5.2　序列类型函数\n6.5.3　字符串类型函数\n6.6　字符串内建函数\n6.7　字符串的独特特性\n6.7.1　特殊字符串和控制字符\n6.7.2　三引号\n6.7.3　字符串不变性\n6.8　Unicode\n6.8.1　术语\n6.8.2　什么是Unicode\n6.8.3　怎样使用Unicode\n6.8.4　Codec是什么\n6.8.5　编码解码\n6.8.6　把Unicode应用到实际应用中\n6.8.7　从现实中得来的教训\n6.8.8　Python的Unicode支持\n6.9　相关模块\n6.10　字符串关键点总结\n6.11　列表\n6.12　操作符\n6.12.1　标准类型操作符\n6.12.2　序列类型操作符\n6.12.3　列表类型操作符和列表解析\n6.13　内建函数\n6.13.1　标准类型函数\n6.13.2　序列类型函数\n6.13.3　列表类型内建函数\n6.14　列表类型的内建函数\n6.15　列表的特殊特性\n6.16　元组\n6.17　元组操作符和内建函数\n6.17.1　标准类型操作符、序列类型操作符和内建函数\n6.17.2　元组类型操作符和内建函数、内建方法\n6.18　元组的特殊特性\n6.18.1　不可变性给元组带来了什么影响\n6.18.2　元组也不是那么“不可变”\n6.18.3　默认集合类型\n6.18.4　单元素元组\n6.18.5　字典的关键字\n6.19　相关模块\n6.20　*拷贝Python对象、浅拷贝和深拷贝\n6.21　序列类型小结\n6.22　练习\n第7章　映像和集合类型\n7.1　映射类型：字典\n7.1.1　如何创建字典和给字典赋值\n7.1.2　如何访问字典中的值\n7.1.3　如何更新字典\n7.1.4　如何删除字典元素和字典\n7.2　映射类型操作符\n7.2.1　标准类型操作符\n7.2.2　映射类型操作符\n7.3　映射类型的内建函数和工厂函数\n7.3.1　标准类型函数[type（）、str（）和cmp（）]\n7.3.2　映射类型相关的函数\n7.4　映射类型内建方法\n7.5　字典的键\n7.5.1　不允许一个键对应多个值\n7.5.2　键必须是可哈希的\n7.6　集合类型\n7.6.1　如何创建集合类型和给集合赋值\n7.6.2　如何访问集合中的值\n7.6.3　如何更新集合\n7.6.4　如何删除集合中的成员和集合\n7.7　集合类型操作符\n7.7.1　标准类型操作符（所有的集合类型）\n7.7.2　集合类型操作符（所有的集合类型）\n7.7.3　集合类型操作符（仅适用于可变集合）\n7.8　内建函数\n7.8.1　标准类型函数\n7.8.2　集合类型工厂函数\n7.9　集合类型内建方法\n7.9.1　方法（所有的集合方法）\n7.9.2　方法（仅适用于可变集合）\n7.9.3　操作符和内建方法比较\n7.10　集合类型总结表\n7.11　相关模块\n7.12　练习\n第8章　条件和循环\n8.1　if语句\n8.1.1　多重条件表达式\n8.1.2　单一语句的代码块\n8.2　else语句\n8.3　elif（即else-if）语句\n8.4　条件表达式（即“三元操作符”）\n8.5　while语句\n8.5.1　一般语法\n8.5.2　计数循环\n8.5.3　无限循环\n8.6　for语句\n8.6.1　一般语法\n8.6.2　用于序列类型\n8.6.3　用于迭代器类型\n8.6.4　range（）内建函数\n8.6.5　xrange（） 内建函数\n8.6.6　与序列相关的内建函数\n8.7　break语句\n8.8　continue语句\n8.9　pass语句\n8.10　再谈else语句\n8.11　迭代器和iter（）函数\n8.11.1　什么是迭代器\n8.11.2　为什么要迭代器\n8.11.3　如何迭代\n8.11.4　使用迭代器\n8.11.5　可变对象和迭代器\n8.11.6　如何创建迭代器\n8.12　列表解析\n8.13　生成器表达式\n8.14　相关模块\n8.15　练习\n第9章　文件和输入输出\n9.1　文件对象\n9.2　文件内建函数（open（）和file（））\n9.2.1　工厂函数file（）\n9.2.2　通用换行符支持（UNS）\n9.3　文件内建方法\n9.3.1　输入\n9.3.2　输出\n9.3.3　文件内移动\n9.3.4　文件迭代\n9.3.5　其他\n9.3.6　文件方法杂项\n9.4　文件内建属性\n9.5　标准文件\n9.6　命令行参数\n9.7　文件系统\n9.8　文件执行\n9.9　永久存储模块\n9.9.1　pickle和marshal模块\n9.9.2　DBM风格的模块\n9.9.3　shelve模块\n9.10　相关模块\n9.11　练习\n第10章　错误和异常\n10.1　什么是异常\n10.1.1　错误\n10.1.2　异常\n10.2　Python 中的异常\n10.3　检测和处理异常\n10.3.1　try-except语句\n10.3.2　包装内建函数\n10.3.3　带有多个except的try语句\n10.3.4　处理多个异常的except语句\n10.3.5　捕获所有异常\n10.3.6　“异常参数”\n10.3.7　在应用使用我们封装的函数\n10.3.8　else子句\n10.3.9　finally子句\n10.3.10　try-finally语句\n10.3.11　try-except-else-finally：厨房一锅端\n10.4　上下文管理\n10.4.1　with语句\n10.4.2　*上下文管理协议\n10.5　*字符串作为异常\n10.6　触发异常\n10.7　断言\n10.8　标准异常\n10.9　*创建异常\n10.10　（现在）为什么用异常\n10.11　到底为什么要异常\n10.12　异常和sys模块\n10.13　相关模块\n10.14　练习\n第11章　函数和函数式编程\n11.1　什么是函数？\n11.1.1　函数vs过程\n11.1.2　返回值与函数类型\n11.2　调用函数\n11.2.1　函数操作符\n11.2.2　关键字参数\n11.2.3　默认参数\n11.2.4　参数组\n11.3　创建函数\n11.3.1　def语句\n11.3.2　声明与定义比较\n11.3.3　前向引用\n11.3.4　函数属性\n11.3.5　内部\/内嵌函数\n11.3.6　*函数（与方法）装饰器\n11.4　传递函数\n11.5　Formal Arguments\n11.5.1　位置参数\n11.5.2　默认参数\n11.6　可变长度的参数\n11.6.1　非关键字可变长参数（元组）\n11.6.2　关键字变量参数（字典）\n11.6.3　调用带有可变长参数对象函数\n11.7　函数式编程\n11.7.1　匿名函数与lambda\n11.7.2　内建函数apply（）、filter（）、map（）、reduce（）\n11.7.3　偏函数应用\n11.8　变量作用域\n11.8.1　全局变量与局部变量\n11.8.2　globa语句\n11.8.3　作用域的数字\n11.8.4　闭包\n11.8.5　作用域和lambda\n11.8.6　变量作用域和名称空间\n11.9　*递归\n11.10　生成器\n11.10.1　简单的生成器特性\n11.10.2　加强的生成器特性\n11.11　练习\n第12章　模块\n12.1　什么是模块\n12.2　模块和文件\n12.2.1　模块名称空间\n12.2.2　搜索路径和路径搜索\n12.3　名称空间\n12.3.1　名称空间与变量作用域比较\n12.3.2　名称查找、确定作用域、覆盖\n12.3.3　无限制的名称空间\n12.4　导入模块\n12.4.1　import语句\n12.4.2　from-import语句\n12.4.3　多行导入\n12.4.4　扩展的import语句（as）\n12.5　模块导入的特性\n12.5.1　载入时执行模块\n12.5.2　导入（import）和加载（load）\n12.5.3　导入到当前名称空间的名称\n12.5.4　被导入到导入者作用域的名字\n12.5.5　关于__future__\n12.5.6　警告框架\n12.5.7　从ZIP文件中导入模块\n12.5.8　“新的”导入钩子\n12.6　模块内建函数\n12.6.1　__import__（）\n12.6.2　globals（）和locals（）\n12.6.3　reload（）\n12.7　包\n12.7.1　目录结构\n12.7.2　使用from-import导入包\n12.8　模块的其他特性\n12.8.1　自动载入的模块\n12.8.2　阻止属性导入\n12.8.3　不区分大小的导入\n12.8.4　源代码编码\n12.8.5　导入循环\n12.8.6　模块执行\n12.9　相关模块\n12.10　练习\n第13章　面向对象编程\n13.1　引言\n13.2　面向对象编程\n13.2.1　面向对象设计与面向对象编程的关系\n13.2.2　现实中的问题\n13.2.3　*常用术语\n13.3　类\n13.3.1　创建类\n13.3.2　声明与定义\n13.4　类属性\n13.4.1　类的数据属性\n13.4.2　Methods\n13.4.3　决定类的属性\n13.4.4　特殊的类属性\n13.5　实例\n13.5.1　初始化：通过调用类对象来创建实例\n13.5.2　__init__（）“构造器”方法\n13.5.3　__new__（）“构造器”方法\n13.5.4　__del__（）“解构器”方法\n13.6　实例属性\n13.6.1　“实例化”实例属性（或创建一个更好的构造器）\n13.6.2　查看实例属性\n13.6.3　特殊的实例属性\n13.6.4　建类型属性\n13.6.5　实例属性vs类属性\n13.7　绑定和方法调用\n13.7.1　调用绑定方法\n13.7.2　调用非绑定方法\n13.8　静态方法和类方法\n13.8.1　staticmethod（）和classmethod（）内建函数\n13.8.2　使用函数修饰符\n13.9　组合\n13.10　子类和派生\n13.11　继承\n13.11.1　__bases__类属性\n13.11.2　通过继承覆盖方法\n13.11.3　从标准类型派生\n13.11.4　多重继承\n13.12　类、实例和其他对象的内建函数\n13.12.1　issubclass（）\n13.12.2　isinstance（）\n13.12.3　hasattr（）、getattr（）、setattr（）、delattr（）\n13.12.4　dir（）\n13.12.5　super（）\n13.12.6　vars（）\n13.13　用特殊方法定制类\n13.13.1　简单定制（RoundFloat2）\n13.13.2　数值定制（Time60）\n13.13.3　迭代器（RandSeq和AnyIter）\n13.13.4　*多类型定制（NumStr）\n13.14　私有化\n13.15　*授权\n13.15.1　包装\n13.15.2　实现授权\n13.16　新式类的高级特性（Python 2.2+）\n13.16.1　新式类的通用特性\n13.16.2　__slots__类属性\n13.16.3　__getattribute__（）特殊方法\n13.16.4　描述符\n13.16.5　元类和__metaclass__\n13.17　相关模块和文档\n13.18　练习\n第14章　执行环境\n14.1　可调用对象\n14.1.1　函数\n14.1.2　方法\n14.1.3　类\n14.1.4　类的实例\n14.2　代码对象\n14.3　可执行的对象声明和内建函数\n14.3.1　callable（）\n14.3.2　compile（）\n14.3.3　eval（）\n14.3.4　exec\n14.3.5　input（）\n14.3.6　使用Python在运行时生成和执行Python代码\n14.4　执行其他（Python）程序\n14.4.1　导入\n14.4.2　execfile（）\n14.4.3　将模块作为脚本执行\n14.5　执行其他（非Python）程序\n14.5.1　os.system（）\n14.5.2　os.popen（）\n14.5.3　os.fork（）、os.exec*（）、os.wait*（）\n14.5.4　os.spawn*（）\n14.5.5　subprocess 模块\n14.5.6　相关函数\n14.6　受限执行\n14.7　结束执行\n14.7.1　sys.exit（） and SystemExit\n14.7.2　sys.exitfunc（）\n14.7.3　os._exit（） 函数\n14.7.4　os.kill（） Function\n14.8　各种操作系统接口\n14.9　相关模块\n14.10　练习\n第2部分　高级主题\n第15章　正则表达式\n15.1　引言\/动机\n15.2　正则表达式使用的特殊符号和字符\n15.2.1　用管道符号（|）匹配多个正则表达式模式\n15.2.2　匹配任意一个单个的字符（.）\n15.2.3　从字符串的开头或结尾或单词边界开始匹配（^\/$ \/\\b \/\\B ）\n15.2.4　创建字符类（[]）\n15.2.5　指定范围（-）和否定（^）\n15.2.6　使用闭包操作符（*，+，?，{}）实现多次出现\/重复匹配\n15.2.7　特殊字符表示、字符集\n15.2.8　用圆括号（（））组建组\n15.3　正则表达式和Python语言\n15.3.1　re模块：核心函数和方法\n15.3.2　使用compile（）编译正则表达式\n15.3.3　匹配对象和group（）、groups（）方法\n15.3.4　用match（）匹配字符串\n15.3.5　search（）在一个字符串中查找一个模式（搜索与匹配的比较）\n15.3.6　匹配多个字符串（|）\n15.3.7　匹配任意单个字符（.）\n15.3.8　创建字符集合（[]）\n15.3.9　重复、特殊字符和子组\n15.3.10　从字符串的开头或结尾匹配及在单词边界上的匹配\n15.3.11　用findall（）找到每个出现的匹配部分\n15.3.12　用sub（）（和subn（））进行搜索和替换\n15.3.13　用split（）分割（分隔模式）\n15.4　正则表达式示例\n15.4.1　匹配一个字符串\n15.4.2　搜索与匹配的比较，“贪婪”匹配\n15.5　练习\n第16章　网络编程\n16.1　引言\n16.1.1　什么是客户端\/服务器架构\n16.1.2　客户端\/服务器网络编程\n16.2　套接字：通信端点\n16.2.1　什么是套接字\n16.2.2　套接字地址：主机与端口\n16.2.3　面向连接与无连接\n16.3　Python中的网络编程\n16.3.1　socket（）模块函数\n16.3.2　套接字对象（内建）方法\n16.3.3　创建一个TCP服务器\n16.3.4　创建TCP客户端\n16.3.5　运行我们的客户端与TCP服务器\n16.3.6　创建一个UDP服务器\n16.3.7　创建一个UDP客户端\n16.3.8　执行UDP服务器和客户端\n16.3.9　Socket模块属性\n16.4　*SocketServer模块\n16.4.1　创建一个SocketServerTCP服务器\n16.4.2　创建SocketServerTCP客户端\n16.4.3　执行TCP服务器和客户端\n16.5　Twisted框架介绍\n16.5.1　创建一个Twisted Reactor TCP服务器\n16.5.2　创建一个Twisted Reactor TCP客户端\n16.5.3　执行TCP服务器和客户端\n16.6　相关模块\n16.7　练习\n第17章　网络客户端编程\n17.1　什么是因特网客户端\n17.2　文件传输\n17.2.1　文件传输网际协议\n17.2.2　文件传输协议（FTP）\n17.2.3　Python和FTP\n17.2.4　ftplib.FTP类方法\n17.2.5　交互式FTP示例\n17.2.6　客户端FTP程序举例\n17.2.7　FTP的其他方面\n17.3　网络新闻\n17.3.1　Usenet与新闻组\n17.3.2　网络新闻传输协议（NNTP）\n17.3.3　Python和NNTP\n17.3.4　nntplib.NNTP类方法\n17.3.5　交互式NNTP举例\n17.3.6　客户端程序NNTP举例\n17.3.7　NNTP的其他方面\n17.4　电子邮件\n17.4.1　电子邮件系统组件和协议\n17.4.2　发送电子邮件\n17.4.3　Python和SMTP\n17.4.4　smtplib.SMTP类方法\n17.4.5　交互式SMTP示例\n17.4.6　SMTP的其他方面\n17.4.7　接收电子邮件\n17.4.8　POP和IMAP\n17.4.9　Python和POP3\n17.4.10　交互式POP3举例\n17.4.11　poplib.POP3类方法\n17.4.12　客户端程序SMTP和POP3举例\n17.5　相关模块\n17.5.1　电子邮件\n17.5.2　其他网络协议\n17.6　练习\n第18章　多线程编程\n18.1　引言\/动机\n18.2　线程和进程\n18.2.1　什么是进程\n18.2.2　什么是线程\n18.3　Python、线程和全局解释器锁\n18.3.1　全局解释器锁（GIL）\n18.3.2　退出线程\n18.3.3　在Python中使用线程\n18.3.4　没有线程支持的情况\n18.3.5　Python的threading模块\n18.4　thread模块\n18.5　threading模块\n18.5.1　Thread类\n18.5.2　斐波那契、阶乘和累加和\n18.5.3　threading模块中的其他函数\n18.5.4　生产者-消费者问题和Queue模块\n18.6　相关模块\n18.7　练习\n第19章　图形用户界面编程\n19.1　简介\n19.1.1　什么是Tcl、Tk和Tkinter\n19.1.2　安装和使用Tkinter　533\n19.1.3　客户端\/服务器架构　534\n19.2　Tkinter与Python编程　534\n19.2.1　Tkinter模块：把Tk引入你的程序\n19.2.2　GUI程序开发简介\n19.2.3　顶层窗口：Tkinter.Tk（）\n19.2.4　Tk组件\n19.3　Tkinter举例\n19.3.1　标签组件\n19.3.2　按钮组件\n19.3.3　标签和按钮组件\n19.3.4　标签、按钮和进度条组件\n19.3.5　偏函数应用举例\n19.3.6　中级Tkinter范例\n19.4　其他GUI简介\n19.4.1　Tk Interface eXtensions （Tix）\n19.4.2　Python MegaWidgets （PMW）\n19.4.3　wxWidgets和wxPython\n19.4.4　GTK+和PyGTK\n19.5　相关模块和其他GUI\n19.6　练习\n第20章　Web编程\n20.1　介绍\n20.1.1　Web应用：客户端\/服务器计算\n20.1.2　因特网\n20.2　使用Python进行Web应用：创建一个简单的Web客户端\n20.2.1　统一资源定位符\n20.2.2　urlparse模块\n20.2.3　urllib模块\n20.2.4　urllib2模块\n20.3　高级Web客户端\n20.4　CGI：帮助Web服务器处理客户端数据\n20.4.1　CGI介绍\n20.4.2　CGI应用程序\n20.4.3　cgi模块\n20.5　建立CGI应用程序\n20.5.1　建立Web服务器\n20.5.2　建立表单页\n20.5.3　生成结果页\n20.5.4　生成表单和结果页面\n20.5.5　全面交互的Web站点\n20.6　在CGI中使用Unicode编码\n20.7　高级CGI\n20.7.1　Mulitipart表单提交和文件的上传\n20.7.2　多值字段\n20.7.3　cookie\n20.7.4　使用高级CGI\n20.8　Web（HTTP）服务器\n20.9　相关模块\n20.10　练习\n第21章　数据库编程\n21.1　介绍\n21.1.1　持久存储\n21.1.2　基本的数据库操作和SQL语言\n21.1.3　数据库和Python\n21.2　Python数据库应用程序程序员接口（DB-API）\n21.2.1　模块属性\n21.2.2　连接对象\n21.2.3　游标对象\n21.2.4　类型对象和构造器\n21.2.5　关系数据库\n21.2.6　数据库和Python：接口程序\n21.2.7　使用数据库接口程序举例\n21.3　对象-关系管理器（ORM）\n21.3.1　考虑对象，而不是SQL\n21.3.2　Python和ORM\n21.3.3　雇员数据库举例\n21.3.4　总结\n21.4　相关模块\n21.5　练习\n第22章　扩展Python　623\n22.1　引言\/动机\n22.1.1　什么是扩展\n22.1.2　为什么要扩展Python\n22.2　创建Python扩展\n22.2.1　创建您的应用程序代码\n22.2.2　用样板来包装你的代码\n22.2.3　编译\n22.2.4　导入和测试\n22.2.5　引用计数\n22.2.6　线程和全局解释器锁（GIL）\n22.3　相关话题\n22.4　练习\n第23章　其他话题\n23.1　Web服务\n23.2　用Win32的COM来操作微软Office\n23.2.1　客户端COM编程\n23.2.2 微软Excel\n23.2.3　微软Word　第1部分　Python核心\n23.2.4　微软PowerPoint\n23.2.5　微软Outlook\n23.2.6　中等规模的例子\n23.3　用Jython写Python和Java的程序\n23.3.1　什么是Jython\n23.3.2　Swing GUI开发（Java或者Python!）\n23.4　练习\n23.2.4　微软PowerPoint\n23.2.5　微软Outlook\n23.2.6　中等规模的例子\n23.3　用Jython写Python和Java的程序\n23.3.1　什么是Jython\n23.3.2　Swing GUI开发（Java或者Python!）\n23.4　练习",
+      "pages": "654",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s3140466.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s3140466.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s3140466.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3112503\/",
+      "id": "3112503",
+      "publisher": "人民邮电出版社",
+      "isbn10": "711517850X",
+      "isbn13": "9787115178503",
+      "title": "Python核心编程（第二版）",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3112503",
+      "alt_title": "Core Python Programming, 2nd Edition",
+      "author_intro": "",
+      "summary": "本书是Python开发者的完全指南——针对 Python 2.5全面升级\n·学习专业的Python风格、最佳实践和好的编程习惯；\n·加强对Python对象、内存模型和Python面向对象特性的深入理解；\n·构建更有效的Web、CGI、互联网、网络和其他客户端\/服务器架构应用程序及软件；\n·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；\n·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I\/0相关的应用程序的能力；\n·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。",
+      "price": "89.0"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 1063,
+        "average": "8.3",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Mark Pilgrim"
+      ],
+      "pubdate": "19 July, 2004",
+      "tags": [
+        {
+          "count": 908,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 300,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 199,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 136,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 96,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 71,
+          "name": "入门",
+          "title": "入门"
+        },
+        {
+          "count": 69,
+          "name": "脚本",
+          "title": "脚本"
+        },
+        {
+          "count": 67,
+          "name": "程序语言",
+          "title": "程序语言"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s4180565.jpg",
+      "binding": "Paperback",
+      "translator": [],
+      "catalog": "",
+      "pages": "414",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4180565.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4180565.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4180565.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/1440658\/",
+      "id": "1440658",
+      "publisher": "Apress",
+      "isbn10": "1590593561",
+      "isbn13": "9781590593561",
+      "title": "Dive Into Python",
+      "url": "http:\/\/api.douban.com\/v2\/book\/1440658",
+      "alt_title": "",
+      "author_intro": "Mark Pilgrim is an accessibility architect in the IBM Emerging Technologies Group. He is the author of several technical books,\nincluding Dive Into Accessibility, a free online tutorial on web accessibility. He lives in North Carolina with his wife and newborn son, and spends his copious free time sunbathing, skydiving, and\nreading Immanuel Kant's Critique of Pure Reason.",
+      "summary": "Dive Into Python 是为有经验的程序员编写的一本 Python 书。",
+      "price": "$39.99"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 740,
+        "average": "8.2",
+        "min": 0
+      },
+      "subtitle": "（第3版）",
+      "author": [
+        "Mark Lutz"
+      ],
+      "pubdate": "2009-8",
+      "tags": [
+        {
+          "count": 787,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 346,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 162,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 157,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 135,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 124,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 122,
+          "name": "O'Reilly",
+          "title": "O'Reilly"
+        },
+        {
+          "count": 108,
+          "name": "入门",
+          "title": "入门"
+        }
+      ],
+      "origin_title": "Learning Python",
+      "image": "https://img1.doubanio.com\/mpic\/s3952568.jpg",
+      "binding": "平装",
+      "translator": [
+        "侯靖"
+      ],
+      "catalog": "前言\n第一部分 使用入门第1章 问答环节\n人们为何使用Python\n软件质量\n开发者效率\nPython是“脚本语言”吗\n好吧,Python的缺点是什么呢\n如今谁在使用Python\n使用Python可以做些什么\n系统编程\n用户图形接口\nInternet脚本\n组件集成\n数据库编程\n快速原型\n数值计算和科学计算编程\n游戏.图像.人工智能.XML.机器人等\nPython有哪些技术上的优点\n面向对象\n免费\n可移植\n功能强大\n可混合\n使用简单\nPython是工程,不是艺术\n简单易学\n名字来源于MontyPython\nPython和其他语言比较起来怎么样\n本章小结\n头脑风暴\n本章习题\n习题解答\n第2章 Python如何运行程序.\nPython解释器简介\n程序执行\n程序员的视角\nPython的视角\n执行模块的变种\nPython实现的替代者\n执行优化工具\n冻结二进制文件\n未来的可能性\n本章小结\n头脑风暴\n本章习题\n习题解答\n第3章 如何运行程序\n交互模式下编写代码\n在交互提示模式下测试代码\n使用交互提示模式\n系统命令行和文件\n使用命令行和文件\nUNIX可执行脚本(#!)\nUNIXenv查找技巧\n点击文件图标\n在Windows中点击图标\nraw_input的技巧\n图标点击的其他限制\n模块导入和重载\n模块的显要特性：属性\nimport和reload的使用注意事项\nIDLE用户界面\nIDLE基础\n使用IDLE\n高级IDLE工具\n其他的IDE\n嵌入式调用\n动付二进制的可执行性\n文本编辑器启动的选择\n其他的启动选择\n未来的可能\n我应该选用哪种\n本章小结74..\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第一部分 练习题\n第二部分 类型和运算第4章 介绍Python对象类型.\n为什么使用内置类型\nPython的核心数据类型\n数字\n字符串\n序列的操作\n不可变性\n类型特定的方法\n寻求帮助\n编写字符串的其他方法\n模式匹配\n列表\n序列操作\n类型特定的操作\n边界检查\n嵌套\n列表解析\n字典\n映射操作\n重访嵌套\n键的排序：for循环\n迭代和优化\n不存在的键：if测试\n元组\n为什么要用元组\n文件\n其他文件类工具\n其他核心类型\n如何破坏代码的灵活性\n用户定义的类\n剩余的内容\n本章小结\n头脑风暴\n本章习题\n习题解答\n第5章 数字\nPython的数字类型\n数字常量\n内置数学工具和扩展\nPython表达式操作符\n混合操作所遵循的操作符优先级.\n括号分组的子表达式\n混合类型自动升级\n预习：运算符重载\n在实际应用中的数字\n变量和基本的表达式\n数字显示的格式\nstr和repr显示格式\n除法：传统除法.Floor除法和真除法.\n位操作\n长整型数\n复数\n十六进制和八进制记数\n其他的内置数学工具\n其他数字类型\n小数数字\n集合\n布尔型\n第三方扩展\n本章小结\n头脑风暴\n本章习题\n习题解答\n第6章 动态类型简介.\n缺少类型声明语句的情况\n变量.对象和引用\n类型属于对象,而不是变量\n对象的垃圾收集\n共享引用\n共享引用和在原处修改\n共享引用和相等\n动态类型随处可见\n本章小结\n头脑风暴\n本章习题\n习题解答\n第7章 字符串\n字符串常量\n单双引号字符串是一样的\n用转义序列代表特殊字节\n字符串抑制转义\n三重引号编写多行字符串块\n字符串编码更大的字符集\n实际应用中的字符串\n基本操作\n索引和分片\n为什么要在意：分片\n字符串转换工具\n修改字符串\n字符串格式化\n更高级的字符串格式化\n基于字典的字符串格式化\n字符串方法\n字符串方法实例：修改字符串\n字符串方法实例：文本解析\n实际应用中的其他常见字符串方法\n最初的字符串模块\n通常意义下的类型分类\n同样分类的类型共享其操作集合\n可变类型能够在原处修改\n本章小结\n头脑风暴\n本章习题\n习题解答\n第8章 列表与字典.\n列表\n实际应用中的列表\n基本列表操作\n索引.分片和矩阵\n原处修改列表\n字典\n实际应用中的字典\n字典的基本操作\n原处修改字典\n其他字典方法\n语言表\n字典用法注意事项\n为什么要在意字典接口\n本章小结\n头脑风暴\n本章习题\n习题解答\n第9章 元组.文件及其他\n元组\n实际应用中的元组\n为什么有了列表还要元组\n文件\n打开文件\n使用文件\n实际应用中的文件\n其他文件工具\n重访类型分类\n为什么要在意操作符重载\n对象灵活性\n引用VS拷贝\n比较.相等性和真值\nPython中真和假的含义\nPython的类型层次\nPython中的其他类型\n内置类型陷阱\n赋值生成引用,而不是拷贝\n重复能够增加层次深度.\n留意循环数据结构\n不可变类型不可以在原处改变\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第二部分 练习题\n第三部分 语句和语法第10章 Python语句简介.\n重访Python程序结构\nPython的语句\n两个if的故事\nPython增加了什么\nPython删除了什么\n终止行就是终止语句\n为什么使用缩进语法\n几个特殊实例\n简短实例：交互循环\n一个简单的交互式循环\n对用户输入数据做数学运算\n用测试输入数据来处理错误\n用try语句处理错误\n嵌套代码三层\n本章小结\n头脑风暴\n本章习题\n习题解答\n第11章 赋值.表达式和打印\n赋值语句\n赋值语句的形式\n序列赋值\n多目标赋值语句\n增强赋值语句\n变量命名规则\n表达式语句\n表达式语句和在原处的修改\n打印语句\nPython的“HelloWorld”程序\n重定向输出流\nprint〉〉file扩展\n本章小结\n头脑风暴\n本章习题\n习题解答\n第12章 if测试.\nif语句\n通用格式\n基本例子\n多路分支\nPython语法规则\n代码块分隔符\n语句的分隔符\n一些特殊情况\n真值测试\nif\/else三元表达式\n为什么要在意布尔值\n本章小结\n头脑风暴\n本章习题\n习题解答\n第13章 while和for循环\nwhile循环\n一般格式\n例子\nbreak.continue.pass和循环else\n一般循环格式\n例子\n为什么要在意“模拟C语言的while循环”\nfor循环\n一般格式\n例子\n为什么要在意“文件扫描”\n迭代器：初探\n文件迭代器\n其他内置类型迭代器\n其他迭代环境\n用户定义的迭代器\n编写循环的技巧\n循环计数器：while和range\n非完备遍历：range\n修改列表：range\n并行遍历：zip和map\n产生偏移和元素：enumerate\n列表解析：初探\n列表解析基础\n对文件使用列表解析\n扩展列表解析语法\n本章小结\n头脑风暴\n本章习题\n习题解答\n第14章 文档\nPython文档资源\n#注释\ndir函数\n文档字符串：__doc__\nPyDoc：help函数\nPyDoc：HTML报表\n标准手册集\n网络资源\n已出版的书籍.\n常见编写代码的陷阱\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第三部分 练习题\n第四部分 函数第15章 函数基础\n为何使用函数\n编写函数\ndef语句\ndef语句是实时执行的\n第一个例子：定义和调用\n定义\n调用\nPython中的多态\n第二个例子：寻找序列的交集\n定义\n调用\n重访多态\n本地变量\n本章小结\n头脑风暴\n本章习题\n习题解答\n第16章 作用域和参数\n作用域法则\n函数作用域基础\n变量名解析：LEGB原则\n作用域实例\n内置作用域\nglobal语句\n最小化全局变量\n最小化文件间的修改\n其他访问全局变量的方法\n作用域和嵌套函数\n嵌套作用域的细节\n嵌套作用域举例\n传递参数\n参数和共享引用\n避免可变参数的修改\n对参数输出进行模拟\n特定的参数匹配模型\n关键字参数和默认参数的实例\n任意参数的实例\n关键字参数和默认参数的混合\nmin调用\n一个更有用的例子：通用set函数\n参数匹配：细节\n为什么要在意：关键字参数\n本章小结\n头脑风暴\n本章习题\n习题解答\n第17章 函数的高级话题.\n匿名函数：lambda\nlambda表达式\n为什么使用lambda\n如何（不要）让Python代码变得晦涩难懂\n嵌套lambda和作用域\n作为参数来应用函数\n内置函数apply\n为什么要在意：回调\n传入关键字参数\n和apply类似的调用语法\n在序列中映射函数：map\n函数式编程工具：filter和reduce\n重访列表解析：映射\n列表解析基础\n增加测试和嵌套循环\n列表解析和矩阵\n理解列表解析\n为什么要在意：列表解析和map\n重访迭代器：生成器\n生成器函数实例\n扩展生成器函数协议：send和next\n迭代器和内置类型\n生成器表达式：迭代器遇到列表解析\n对迭代的各种方法进行计时\n函数设计概念\n函数是对象：简洁调用\n函数陷阱\n本地变量是静态检测的\n默认和可变对象\n没有return语句的函数\n嵌套作用域的循环变量\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第四部分 练习题\n第五部分 模块第18章 模块：宏伟蓝图.\n为什么使用模块\nPython程序构架\n如何组织一个程序\n导入和属性\n标准库模块\nimport如何工作\n搜索\n编译（可选）\n运行\n第三方工具：distutils\n本章小结\n头脑风暴\n本章习题\n习题解答\n第19章 模块代码编写基础.\n模块的创建\n模块的使用\nimport语句\nfrom语句\nfrom*语句\n导入只发生一次\nimport和from是赋值语句\n文件间变量名的改变\nimport和from的对等性\nfrom语句潜在的陷阱\n模块命名空间\n文件生成命名空间\n属性名的点号运算\n导入和作用域\n命名空间的嵌套\n重载模块\nreload基础\nreload实例\n为什么要在意：模块重载\n本章小结\n头脑风暴\n本章习题\n习题解答\n第20章 模块包\n包导入基础\n包和搜索路径设置\n__init__.py包文件\n包导入实例\n包对应的from和import\n为什么要使用包导入\n三个系统的传说\n为什么要在意：模块包\n本章小结\n头脑风暴\n本章习题\n习题解答\n第21章高级模块话题\n在模块中隐藏数据\n最小化from*的破坏：_X和__all__.\n启用以后的语言特性\n混合用法模式：__name__和__main__\n以__name__进行单元测试\n修改模块搜索路径\nimportas扩展\n相对导入语法\n为什么使用相对导入\n模块设计理念\n模块是对象：元程序\n模块陷阱\n顶层代码的语句次序的重要性\n通过变量名字符串导入模块\nfrom复制变量名,而不是连接\nfrom*会让变量语义模糊\nreload不会影响from导入\nreload.from以及交互模式测试\nreload的使用没有传递性\n递归形式的fromimport无法工作\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第五部分 练习题\n第六部分 类和OOP第22章OOP：宏伟蓝图\n为何使用类\n概览OOP\n属性继承搜索\n类和实例\n类方法调用\n编写类树\nOOP是为了代码重用\n本章小结\n头脑风暴\n本章习题\n习题解答\n第23章类代码编写基础.\n类产生多个实例对象\n类对象提供默认行为\n实例对象是具体的元素\n第一个例子\n类通过继承进行定制\n第二个例子\n类是模块内的属性\n类可以截获Python运算符\n第三个例子\n为什么要使用运算符重载\n世界上最简单的Python类\n本章小结\n头脑风暴\n本章习题\n习题解答\n第24章类代码编写细节.\nclass语句\n一般形式\n例子\n方法\n例子\n调用超类的构造器\n其他方法调用的可能性\n继承\n属性树的构造\n继承方法的专有化\n类接口技术\n抽象超类\n运算符重载\n常见的运算符重载方法\n__getitem__拦截索引运算\n__getitem__和__iter__实现迭代\n用户定义的迭代器\n__getattr__和__setattr__捕捉属性的引用\n模拟实例属性的私有性\n__repr__和__str__会返回字符串表达形式\n__radd__处理右侧加法\n__call__拦截调用\n函数接口和回调代码\n__del__是析构器\n命名空间：完整的内容\n简单变量名：如果赋值就不是全局变量\n属性名称：对象命名空间\nPython命名空间的“禅”：赋值将变量名分类\n命名空间字典\n命名空间链接\n一个更实际的例子\n本章小结\n头脑风暴\n本章习题\n习题解答\n第25章类的设计\nPython和OOP\n通过调用标记进行重载（或不要）\n类作为记录\n类和继承：“是一个”关系\n类和组合：“有一个”关系\n重访流处理器\n为什么要在意：类和持续性\nOOP和委托\n多重继承\n类是对象：通用对象的工厂\n为什么有工厂\n方法是对象：绑定或无绑定\n重访文档字符串\n为什么要在意：绑定方法和回调函数\n类和模块\n本章小结\n头脑风暴\n本章习题\n习题解答\n第26章类的高级主题\n扩展内置类型\n通过嵌入扩展类型\n通过子类扩展类型\n类的伪私有属性\n变量名压缩概览\n为什么使用伪私有属性\n新式类\n钻石继承变动\n其他新式类的扩展\n静态和类方法\n使用静态和类方法\n函数装饰器\n装饰器例子\n类陷阱\n修改类属性的副作用\n多重继承：顺序很重要\n类.方法以及嵌套作用域\n“过度包装”\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第六部分 练习题\n第七部分 异常和工具第27章异常基础\n为什么使用异常\n异常的角色\n异常处理：简明扼要\ntry\/except\/else语句\ntry语句分句\ntry\/else分句\n例子：默认行为\n例子：捕捉内置异常\ntry\/finally语句\n例子：利用try\/finally编写终止行为\n统一try\/except\/finally\n通过嵌套合并finally和except\n合并try的例子\nraise语句\n例子：引发并捕捉用户定义的异常\n例子：利用raise传入额外的数据\n例子：利用raise传递异常\nassert语句\n例子：收集约束条件（但不是错误）\nwith\/as环境管理器\n基本使用\n环境管理协议\n为什么要在意：错误检查\n本章小结\n头脑风暴\n本章习题\n习题解答\n第28章异常对象\n基于字符串的异常\n字符串异常就要出局了\n基于类的异常\n类异常例子\n为什么使用类异常\n内置Exception类\n定义异常文本\n发送额外数据和实例行为\nraise语句的一般形式\n本章小结\n头脑风暴\n本章习题\n习题解答\n第29章异常的设计\n嵌套异常处理器\n例子：控制流程嵌套\n例子：语法嵌套化\n异常的习惯用法\n异常不总是错误\n函数信号条件和raise\n在try外进行调试\n运行进程中的测试\n关于sys.exc_info\n与异常有关的技巧\n应该包装什么\n捕捉太多：避免空except语句\n捕捉过少：使用基于类的分类\n异常陷阱\n字符串异常匹配是通过同一性而不是通过值\n捕捉到错误的异常\n核心语言总结\nPython工具集\n大型项目的开发工具\n本章小结\n头脑风暴\n本章习题\n习题解答\n头脑风暴：第七部分 练习题\n第八部分 附录\n附录A安装和配置\n附录B每部分练习题解答",
+      "pages": "656",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s3952568.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s3952568.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s3952568.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3948354\/",
+      "id": "3948354",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111267761",
+      "isbn13": "9787111267768",
+      "title": "Python学习手册",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3948354",
+      "alt_title": "Learning Python",
+      "author_intro": "",
+      "summary": "《Python学习手册(第3版)》讲述了：Python可移植、功能强大、易于使用，是编写独立应用程序和脚本应用程序的理想选择。无论你是刚接触编程或者刚接触Python，通过学习《Python学习手册(第3版)》，你可以迅速高效地精通核心Python语言基础。读完《Python学习手册(第3版)》，你会对这门语言有足够的了解，从而可以在你所从事的任何应用领域中使用它。\n《Python学习手册(第3版)》是作者根据过去10年用于教学而广为人知的培训课程的材料编写而成的。除了有许多详实说明和每章小结之外，每章还包括一个头脑风暴：这是《Python学习手册(第3版)》独特的一部分，配合以实用的练习题和复习题，让读者练习新学的技巧并测试自己的理解程度。\n《Python学习手册(第3版)》包括：\n类型和操作——深入讨论Python主要的内置对象类型：数字、列表和字典等。\n语句和语法——在Python中输入代码来建立并处理对象，以及Python一般的语法模型。\n函数——Python基本的面向过程工具，用于组织代码和重用。\n模块——封装语句、函数以及其他工具，从而可以组织成较大的组件。\n类和OOP——Python可选的面向对象编程工具，可用于组织程序代码从而实现定制和重用。\n异常和工具——异常处理模型和语句，并介绍编写更大程序的开发工具。\n讨论Python 3.0。\n《Python学习手册(第3版)》让你对Python语言有深入而完整的了解，从而帮助你理解今后遇到的任何Python应用程序实例。如果你准备探索Google和YouTube为什么选中了Python，《Python学习手册(第3版)》就是你入门的最佳指南。",
+      "price": "89.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 704,
+        "average": "7.4",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "哲思社区"
+      ],
+      "pubdate": "2009-9",
+      "tags": [
+        {
+          "count": 630,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 247,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 128,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 111,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 85,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 80,
+          "name": "哲思",
+          "title": "哲思"
+        },
+        {
+          "count": 80,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 66,
+          "name": "Python,可爱",
+          "title": "Python,可爱"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s3901817.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "实例故事\nCDays“光盘故事”\nCDay-5 Python初体验和原始需求\nCDay-4 可用的首个Python脚本\nCDay-3 通过函式进行功能化\nCDay-2 完成核心功能\nCDay-1 实用化中文\nCDay-0 时刻准备着！发布\nCDay+1 优化！对白个儿的反省\nCDay+2 界面！不应该是难事儿\nCDay+3 优化！多线程\nCDayN 基于Python的无尽探索\nKDays “Web应用故事”\nKDay0 Web开发启航\nKDay1 品尝Karrigell\nKDay2 通过表单直接完成功能\nKDay3 使用第3方模块规范化表单\nKDay4 使用KS模式重构代码\nKDay5 通过session重构应用流程\nKDay6 利用mill人性化组织成员信息\nKDayN 经验总结，畅想Web应用\nPython学习作弊条\n环境篇\nPCS0 如何安装Python\nPCS1 交互环境之命令行\nPCS2 交互环境之iPython\nPCS3 交互环境之winpy\nPCS4 常用自省\nPCS5 Python脚本文件\nPCS6 Python与中文\nPCS7 Python编码规范\n语法篇\nPCS100 import\nPCS101 内建数据类型\nPCS102 For循环\nPCS103 缩进\nPCS104 注释\nPCS105 对象\nPCS106 文件对象\nPCS107 字串格式化\nPCS108 函式\nPCS109 系统参数\nPCS110 逻辑分支\nPCS111 类\nPCS112 异常\nPCS113 交互参数\nPCS114 FP初体验\n模块篇\nPCS200 os（stat；path）\nPCS201 cmd\nPCS202 chardet\nPCS203 epydoc\nPCS204 ConfigParser\nPCS205 内建函式(enumerate)\nPCS206 thread\nPCS207 threading\nPCS208 dict4ini\nPCS209 fnmatch\nPCS210 pickle\nPCS211 base64\nPCS212 shutil\nPCS213 time\nPCS214 ElementTree\nPCS215 random\nPCS216 socket\nPCS217 Tkinter\n框架篇\nPCS300 CherryPy\nPCS301 Karrigell\nPC$302 Leo\nPCS303 MoinMoin\nPCS304 Python Web应用框架纵论\n友邻篇\nPCS400 GAE\nPCS401 DHTML\nPCS402 XML\nPCS403 思维导图\nPCS404 代码重构浅说\n附录引言\n术语索引\n行者箴言\nZ跋",
+      "pages": "484",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s3901817.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s3901817.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s3901817.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/3884108\/",
+      "id": "3884108",
+      "publisher": "电子工业出版社",
+      "isbn10": "7121085143",
+      "isbn13": "9787121085147",
+      "title": "可爱的Python",
+      "url": "http:\/\/api.douban.com\/v2\/book\/3884108",
+      "alt_title": "",
+      "author_intro": "行者，中国Python 社区中的自称。这本书就是由众多华蟒行者完成的。",
+      "summary": "本书的内容主要来自CPyUG社区的邮件列表，由Python的行者根据自身经验组织而成，是为从来没有听说过Python的其他语言程序员准备的一份实用的导学性质的书。笔者试图将优化后的学习体验，通过故事的方式传达给读者，同时也分享了蟒样（Pythonic式）的知识获取技巧，而且希望将最常用的代码和思路，通过作弊条（Cheat Sheet，提示表单）的形式分享给有初步基础的Python 用户，来帮助大家多快好省地完成功能。\n本书期望成为学习使用Python的同好们的沟通话题，引发进一步的学习\/应用\/创造\/推广，就是笔者的追求！因为Python语言本身是种非常灵活的动态脚本语言，同一个目标可以使用多种方式完成，笔者为了让拥有各种不同技术背景的读者可以快速无碍地理解，选择了一种实际上可能比较笨拙的方式来实现功能，聪明的读者一定可以看出来的，那么请会心一笑，因为您已经和我们心灵相通了！",
+      "price": "55.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 818,
+        "average": "8.8",
+        "min": 0
+      },
+      "subtitle": "简明 Python 教程",
+      "author": [
+        "Swaroop C H"
+      ],
+      "pubdate": "2008-10-1",
+      "tags": [
+        {
+          "count": 643,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 295,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 188,
+          "name": "入门",
+          "title": "入门"
+        },
+        {
+          "count": 158,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 92,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 67,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 66,
+          "name": "教程",
+          "title": "教程"
+        },
+        {
+          "count": 56,
+          "name": "简洁",
+          "title": "简洁"
+        }
+      ],
+      "origin_title": "A Byte of Python",
+      "image": "https://img3.doubanio.com\/mpic\/s4612135.jpg",
+      "binding": "平装",
+      "translator": [
+        "沈洁元"
+      ],
+      "catalog": "Table of Contents\n1. Welcome\n2. Dedication\n3. Preface\n4. Introduction\n5. Installation\n6. First Steps\n7. Basics\n8. Operators and Expressions\n9. Control Flow\n10. Functions\n11. Modules\n12. Data Structures\n13. Problem Solving\n14. Object Oriented Programming\n15. Input and Output\n16. Exceptions\n17. Standard Library\n18. More\n19. What Next\n20. Appendix: FLOSS\n21. Appendix: Colophon\n22. Appendix: History Lesson\n23. Appendix: Revision History\n24. Translations\n25. Translation Howto",
+      "pages": "149",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4612135.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4612135.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4612135.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/5948760\/",
+      "id": "5948760",
+      "publisher": "Lulu Marketplace",
+      "isbn10": "9577296467",
+      "isbn13": "9789577296467",
+      "title": "A Byte of Python",
+      "url": "http:\/\/api.douban.com\/v2\/book\/5948760",
+      "alt_title": "A Byte of Python",
+      "author_intro": "Swaroop C H is 27 years of age. He is currently a Product Leader at Infibeam, one of the largest ecommerce companies in India. He has previously worked at Yahoo!, Adobe and his own startup.",
+      "summary": "'A Byte of Python' is a book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.",
+      "price": "USD 27.98"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 144,
+        "average": "8.0",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "张若愚"
+      ],
+      "pubdate": "2012-1",
+      "tags": [
+        {
+          "count": 414,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 275,
+          "name": "科学计算",
+          "title": "科学计算"
+        },
+        {
+          "count": 156,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 119,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 79,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 50,
+          "name": "算法",
+          "title": "算法"
+        },
+        {
+          "count": 42,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 34,
+          "name": "编程语言",
+          "title": "编程语言"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img1.doubanio.com\/mpic\/s7025859.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "目 录\n第1章 软件包的安装和介绍 ....................1\n1.1 Python简介 ......................................1\n1.2 安装软件包 ......................................2\n1.2.1 Python(x,y)..................................... 2\n1.2.2 Enthought Python Distribution (EPD) ............................................. 3\n1.3 方便的开发工具 ..............................3\n1.3.1 IPython ........................................... 4\n1.3.2 Spyder ............................................ 8\n1.3.3 Wing IDE 101 .............................. 12\n1.4 函数库介绍 ....................................13\n1.4.1 数值计算库 ................................. 13\n1.4.2 符号计算库 ................................. 14\n1.4.3 界面设计 ..................................... 14\n1.4.4 绘图与可视化 ............................. 14\n1.4.5 图像处理和计算机视觉 .............. 15\n第2章 NumPy——快速处理数据 .......... 16\n2.1 ndarray对象 ...................................16\n2.1.1 创建数组 ..................................... 16\n2.1.2 存取元素 ..................................... 21\n2.1.3 多维数组 ..................................... 24\n2.1.4 结构数组 ..................................... 29\n2.1.5 内存结构 ..................................... 32\n2.2 ufunc运算 ......................................35\n2.2.1 四则运算 ..................................... 37\n2.2.2 比较和布尔运算 ......................... 39\n2.2.3 自定义ufunc函数 ...................... 40\n2.2.4 广播 ............................................. 42\n2.2.5 ufunc函数的方法 ....................... 46\n2.3 多维数组的下标存取 ....................48\n2.3.1 下标对象 ..................................... 48\n2.3.2 整数数组作为下标 ..................... 49\n2.3.3 一个复杂的例子 ......................... 51\n2.3.4 布尔数组作为下标 ..................... 53\n2.4 庞大的函数库 ............................... 54\n2.4.1 求和、平均值、方差 ................. 54\n2.4.2 最值和排序 ................................. 55\n2.4.3 多项式函数 ................................. 57\n2.4.4 分段函数 ..................................... 60\n2.4.5 统计函数 ..................................... 62\n2.5 线性代数 ....................................... 65\n2.5.1 各种乘积运算 ............................. 65\n2.5.2 解线性方程组 ............................. 67\n2.6 掩码数组 ....................................... 69\n2.7 文件存取 ....................................... 72\n2.8 内存映射数组 ............................... 75\n第3章 SciPy——数值计算库 ................. 79\n3.1 常数和特殊函数 ........................... 79\n3.2 优化——optimize .......................... 81\n3.2.1 最小二乘拟合 ............................. 81\n3.2.2 函数最小值 ................................. 84\n3.2.3 非线性方程组求解 ..................... 86\n3.3 插值——interpolate ....................... 88\n3.3.1 B样条曲线插值 .......................... 88\n3.3.2 外推和Spline拟合 ..................... 90\n3.3.3 二维插值 ..................................... 91\n3.4 数值积分——integrate .................. 93\n3.4.1 球的体积 ..................................... 93\n3.4.2 解常微分方程组 ......................... 95\n3.5 信号处理——signal ....................... 97\nVIII\nPython 科学计算\n目 录\n3.5.1 中值滤波 ..................................... 97\n3.5.2 滤波器设计 ................................. 98\n3.6 图像处理——ndimage .................100\n3.6.1 膨胀和腐蚀 ............................... 101\n3.6.2 Hit和Miss ................................. 102\n3.7 统计——stats ................................105\n3.7.1 连续和离散概率分布................ 105\n3.7.2 二项、泊松、伽玛分布 ............ 108\n3.8 嵌入C语言程序——weave ........112\n第4章 SymPy——符号运算好帮手 .... 115\n4.1 从例子开始 ..................................115\n4.1.1 封面上的经典公式.................... 115\n4.1.2 球体体积 ................................... 117\n4.2 数学表达式 ..................................119\n4.2.1 符号 ........................................... 119\n4.2.2 数值 ........................................... 121\n4.2.3 运算符和函数 ........................... 122\n4.3 符号运算 ......................................125\n4.3.1 表达式变换和化简.................... 125\n4.3.2 方程 ........................................... 128\n4.3.3 微分 ........................................... 129\n4.3.4 微分方程 ................................... 130\n4.3.5 积分 ........................................... 131\n4.4 其他功能 ......................................133\n4.4.1 平面几何 ................................... 133\n4.4.2 绘图 ........................................... 135\n第5章 matplotlib——绘制精美 的图表 ..................................... 139\n5.1 快速绘图 ......................................139\n5.1.1 使用pyplot模块绘图 ............... 139\n5.1.2 以面向对象方式绘图................ 142\n5.1.3 配置属性 ................................... 143\n5.1.4 绘制多个子图 ........................... 145\n5.1.5 配置文件 ................................... 147\n5.1.6 在图表中显示中文.................... 149\n5.2 Artist对象 ................................... 152\n5.2.1 Artist对象的属性 ..................... 154\n5.2.2 Figure容器 ................................ 155\n5.2.3 Axes容器 .................................. 156\n5.2.4 Axis容器 ................................... 159\n5.2.5 Artist对象的关系 ..................... 163\n5.3 坐标变换和注释 ......................... 164\n5.3.1 4种坐标系 ................................ 167\n5.3.2 坐标变换的步骤 ....................... 169\n5.3.3 制作阴影效果 ........................... 173\n5.3.4 添加注释 ................................... 174\n5.4 绘图函数简介 ............................. 177\n5.4.1 对数坐标图 ............................... 177\n5.4.2 极坐标图 ................................... 178\n5.4.3 柱状图 ....................................... 179\n5.4.4 散列图 ....................................... 180\n5.4.5 图像 ........................................... 181\n5.4.6 等值线图 ................................... 184\n5.4.7 三维绘图 ................................... 187\n第6章 Traits——为Python添加类型 定义 ......................................... 190\n6.1 开发背景 ..................................... 190\n6.2 Trait属性的功能 ......................... 192\n6.3 Trait类型对象 ............................. 196\n6.4 Trait的元数据 ............................. 198\n6.5 预定义的Trait类型 .................... 200\n6.6 Property属性 ............................... 204\n6.7 Trait属性监听 ............................. 206\n6.8 Event和Button属性 .................. 210\n6.9 Trait属性的从属关系 ................. 211\n6.10 动态添加Trait属性 .................. 213\n6.11 创建自己的Trait类型 .............. 215\n6.11.1 从TraitType继承 ................. 215\n6.11.2 使用Trait() ............................ 217\n6.11.3 定义TraitHandler类 ............. 219\nIX\n目\n录\n第7章 TraitsUI——轻松制作用户 界面 ......................................... 221\n7.1 默认界面 ......................................221\n7.2 用View定义界面 ........................222\n7.2.1 外部视图和内部视图................ 222\n7.2.2 多模型视图 ............................... 226\n7.2.3 Group对象 ................................ 228\n7.2.4 配置视图 ................................... 231\n7.3 用Handler控制界面和模型 .......232\n7.3.1 用Handler处理事件 ................. 233\n7.3.2 Controller和UIInfo对象.......... 237\n7.3.3 响应Trait属性的事件 .............. 238\n7.4 属性编辑器 ..................................240\n7.4.1 编辑器演示程序 ....................... 241\n7.4.2 对象编辑器 ............................... 243\n7.4.3 字符串列表编辑器.................... 248\n7.4.4 对象列表编辑器 ....................... 250\n7.5 菜单、工具条和状态栏 ..............252\n7.6 设计自己的编辑器 ......................255\n7.6.1 Trait编辑器的工作原理 ........... 255\n7.6.2 制作matplotlib的编辑器 ......... 259\n7.6.3 CSV数据绘图工具 ................... 262\n第8章 Chaco——交互式图表 ............. 264\n8.1 面向脚本绘图 ..............................264\n8.2 面向应用绘图 ..............................265\n8.2.1 多条曲线 ................................... 267\n8.2.2 Plot对象的结构 ........................ 271\n8.2.3 编辑绘图属性 ........................... 275\n8.2.4 容器(Container) ......................... 276\n8.3 添加交互工具 ..............................279\n8.3.1 平移和缩放 ............................... 279\n8.3.2 选取范围 ................................... 282\n8.3.3 选取数据点 ............................... 284\n8.3.4 套索工具 ................................... 287\n8.4 二次开发 ......................................289\n8.4.1 用Kiva库在数组上绘图 .......... 290\n8.4.2 Enable库的组件 ....................... 292\n8.4.3 设计圆形选择工具 ................... 297\n8.4.4 制作动画演示 ........................... 301\n第9章 TVTK——数据的三维可视化 .... 303\n9.1 流水线(Pipeline) .......................... 304\n9.1.1 显示圆锥 ................................... 304\n9.1.2 用ivtk观察流水线 ................... 307\n9.2 数据集(Dataset) ........................... 313\n9.2.1 ImageData .................................. 313\n9.2.2 RectilinearGrid ........................... 318\n9.2.3 StructuredGrid............................ 319\n9.2.4 PolyData .................................... 321\n9.3 可视化实例 ................................. 324\n9.3.1 切面 ........................................... 325\n9.3.2 等值面 ....................................... 330\n9.3.3 流线 ........................................... 333\n9.4 TVTK的改进 .............................. 337\n9.4.1 TVTK的基本用法 .................... 338\n9.4.2 Trait属性 ................................... 339\n9.4.3 序列化(Pickling) ........................ 339\n9.4.4 集合迭代 ................................... 340\n9.4.5 数组操作 ................................... 341\n第10章 Mayavi——更方便的可视化 .... 343\n10.1 用mlab快速绘图 ..................... 343\n10.1.1 点和线 ................................... 343\n10.1.2 Mayavi的流水线 .................. 345\n10.1.3 二维图像的可视化 ............... 348\n10.1.4 网格面 ................................... 352\n10.1.5 修改和控制流水线 ............... 356\n10.1.6 标量场 ................................... 358\n10.1.7 矢量场 ................................... 361\n10.2 Mayavi和TVTK之间 的关系 ....................................... 363\n10.2.1 显示TVTK流水线 .............. 363\n10.2.2 两条流水线之间的关系 ....... 365\nX\nPython 科学计算\n目 录\n10.3 Mayavi应用程序 .......................367\n10.3.1 操作流水线 ........................... 368\n10.3.2 命令行和对象浏览器 ........... 371\n10.4 将Mayavi嵌入到界面中 ..........374\n第11章 VPython——制作3D演示 动画 ...................................... 378\n11.1 场景、物体和照相机 ................378\n11.1.1 控制场景窗口 ....................... 380\n11.1.2 控制照相机 ........................... 383\n11.1.3 模型的属性 ........................... 384\n11.1.4 三维模型 ............................... 387\n11.2 制作动画演示 ............................390\n11.2.1 简单动画 ............................... 390\n11.2.2 盒子中反弹的球 ................... 391\n11.3 与场景交互 ................................393\n11.3.1 响应键盘事件 ....................... 394\n11.3.2 响应鼠标事件 ....................... 394\n11.4 用界面控制场景 ........................397\n11.5 创建复杂模型 ............................400\n11.5.1 faces()的用法 ........................ 400\n11.5.2 读入模型数据 ....................... 402\n第12章 OpenCV——图像处理和计算机 视觉 ...................................... 408\n12.1 存储图像数据的Mat对象 ........409\n12.1.1 Mat对象和NumPy数组 ..... 410\n12.1.2 像素点类型 ........................... 414\n12.1.3 其他数据类型 ....................... 415\n12.1.4 Vector类型 ........................... 417\n12.1.5 在图像上绘图 ....................... 418\n12.2 图像处理 ....................................421\n12.2.1 二维卷积 ............................... 421\n12.2.2 形态学运算 ........................... 424\n12.2.3 填充——floodFill .................. 426\n12.2.4 去瑕疵——inpaint ................. 427\n12.3 图像变换 ....................................428\n12.3.1 几何变换 ............................... 428\n12.3.2 重映射——remap .................. 430\n12.3.3 直方图统计 ........................... 433\n12.3.4 二维离散傅立叶变换 ........... 437\n12.4 图像识别 ................................... 440\n12.4.1 用霍夫变换检测直线 和圆 ....................................... 440\n12.4.2 图像分割 ............................... 444\n12.4.3 用SURF进行特征匹配 ....... 450\n第13章 数据和文件 ............................ 453\n13.1 声音的输入输出 ....................... 453\n13.1.1 读写WAV文件 ................... 453\n13.1.2 用pyAudio播放和录音 ....... 456\n13.2 视频的输入输出 ....................... 459\n13.2.1 读写视频文件 ....................... 459\n13.2.2 安装视频编码 ....................... 464\n13.3 读写HDF5文件 ....................... 465\n13.4 读写Excel文件 ........................ 469\n13.4.1 写Excel文件 ........................ 469\n13.4.2 读Excel文件 ........................ 471\n第14章 数字信号系统 ......................... 473\n14.1 FIR和IIR滤波器 ..................... 473\n14.2 FIR滤波器设计 ........................ 477\n14.2.1 用firwin()设计滤波器 .......... 479\n14.2.2 用remez()设计滤波器 .......... 481\n14.2.3 滤波器的级联 ....................... 483\n14.3 IIR滤波器设计 ......................... 485\n14.3.1 巴特沃斯低通滤波器 ........... 485\n14.3.2 双线性变换 ........................... 487\n14.3.3 滤波器的频带转换 ............... 490\n14.4 数字滤波器的频率响应 ........... 494\n14.5 二次均衡滤波器设计工具 ....... 497\n14.6 零相位滤波器 ........................... 500\n14.7 重取样 ....................................... 501\nXI\n目\n录\n第15章 频域信号处理 ........................ 505\n15.1 FFT演示程序 ............................505\n15.1.1 FFT知识复习 ....................... 505\n15.1.2 合成时域信号 ....................... 509\n15.1.3 三角波FFT演示程序 .......... 511\n15.2 观察信号的频谱 ........................512\n15.2.1 窗函数 ................................... 515\n15.2.2 频谱平均 ............................... 517\n15.2.3 谱图 ....................................... 519\n15.3 卷积运算 ....................................522\n15.3.1 快速卷积 ............................... 522\n15.3.2 分段运算 ............................... 524\n15.4 信号处理 ....................................526\n15.4.1 基本框架 ............................... 527\n15.4.2 频域滤波器 ........................... 528\n15.4.3 频率变调处理 ....................... 530\n15.4.4 用谱图差减法降噪 ............... 531\n15.5 Hilbert变换 ................................532\n第16章 用C语言提高计算效率 ......... 537\n16.1 用ctypes调用DLL库 ..............537\n16.2 用Weave嵌入C++程序 ...........541\n16.2.1 Weave的工作原理 ............... 541\n16.2.2 处理NumPy数组 ................. 543\n16.2.3 使用blitz()提速..................... 546\n16.2.4 扩展模块 ............................... 548\n16.3 用Cython将Python编译 成C ............................................549\n16.3.1 编译Cython程序 ................. 549\n16.3.2 提高计算效率 ....................... 550\n16.3.3 快速访问NumPy数组 ......... 553\n16.4 用SWIG创建扩展模块 ............555\n16.4.1 SWIG的调用方法 和实例 .................................. 555\n16.4.2 SWIG基础 ............................ 558\n16.4.3 SWIG处理NumPy数组 ...... 566\n第17章 自适应滤波器 ......................... 571\n17.1 自适应滤波器简介 ................... 571\n17.1.1 系统识别 ............................... 571\n17.1.2 信号预测 ............................... 572\n17.1.3 信号均衡 ............................... 572\n17.2 NLMS计算公式 ....................... 573\n17.3 用NumPy实现NLMS算法 .... 575\n17.3.1 系统辨识模拟 ....................... 577\n17.3.2 信号均衡模拟 ....................... 579\n17.3.3 卷积逆运算 ........................... 581\n17.4 用C语言加速NLMS运算...... 583\n17.4.1 用SWIG编写扩展模块 ....... 583\n17.4.2 用Weave嵌入C++程序 ...... 586\n第18章 单摆和双摆模拟 ..................... 588\n18.1 单摆模拟 ................................... 588\n18.1.1 小角度时的摆动周期 ........... 589\n18.1.2 大角度时的摆动周期 ........... 590\n18.2 双摆模拟 ................................... 592\n18.2.1 公式推导 ............................... 592\n18.2.2 微分方程的数值解 ............... 595\n18.2.3 动画演示 ............................... 598\n第19章 分形几何 ................................ 599\n19.1 Mandelbrot集合 ........................ 599\n19.1.1 使用NumPy加速计算 ......... 601\n19.1.2 使用Weave加速计算 .......... 603\n19.1.3 连续的逃逸时间 ................... 604\n19.1.4 Mandelbrot演示程序 ........... 605\n19.2 迭代函数系统(IFS) ................... 606\n19.2.1 二维仿射变换 ....................... 610\n19.2.2 迭代函数系统设计器 ........... 610\n19.3 L-System分形 ........................... 613\n19.4 分形山脉 ................................... 616\n19.4.1 一维中点移位法 ................... 616\n19.4.2 二维中点移位法 ................... 618\n19.4.3 菱形方形算法 ....................... 619",
+      "pages": "621",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s7025859.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s7025859.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s7025859.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/7175280\/",
+      "id": "7175280",
+      "publisher": "清华大学出版社",
+      "isbn10": "730227360X",
+      "isbn13": "9787302273608",
+      "title": "Python科学计算",
+      "url": "http:\/\/api.douban.com\/v2\/book\/7175280",
+      "alt_title": "",
+      "author_intro": "张若愚，毕业于华中理工大学(现华中科技大学)通信工程专业，2004年获日本姬路工业大学(现兵库县立大学)硕士学位。毕业后于日本神户制钢综合研究所从事研究开发工作至今，研究方向为：嵌入式DSP信号处理系统开发，嵌入式MCU控制系统开发，工业控制软件开发，信号处理、数据处理以及生产系统的计算机模拟。在工作中他积极采用Python作为主要编程语言，在数据处理、信号分析、工业控制、算法模拟等领域取得了较好的研究成果。已完成的研究课题有：嵌入式声音分离系统、车载音响设备、超声波探伤系统、压缩机系统的数字模拟等。",
+      "summary": "本书介绍如何用Python开发科学计算的应用程序，除了介绍数值计算之外，还着重介绍如何制作交互式的2D、3D图像，如何设计精巧的程序界面，如何与C语言编写的高速计算程序结合，如何编写声音、图像处理算法等内容。书中涉及的Python扩展库包括NumPy、SciPy、SymPy、matplotlib、Traits、TraitsUI、Chaco、TVTK、Mayavi、VPython、OpenCV等，涉及的应用领域包括数值运算、符号运算、二维图表、三维数据可视化、三维动画演示、图像处理以及界面设计等。\n书中以大量实例引导读者逐步深入学习，每个实例程序都有详尽的解释，并都能在本书推荐的运行环境中正常运行。此外，本书附有大量的图表和插图，力求减少长篇的理论介绍和公式推导，以便读者通过实例和数据学习并掌握理论知识。",
+      "price": "98.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 160,
+        "average": "7.5",
+        "min": 0
+      },
+      "subtitle": "黑客与逆向工程师的Python编程之道",
+      "author": [
+        "[美] Justin Seitz"
+      ],
+      "pubdate": "2011-3",
+      "tags": [
+        {
+          "count": 366,
+          "name": "python",
+          "title": "python"
+        },
+        {
+          "count": 185,
+          "name": "逆向工程",
+          "title": "逆向工程"
+        },
+        {
+          "count": 178,
+          "name": "安全",
+          "title": "安全"
+        },
+        {
+          "count": 161,
+          "name": "黑客",
+          "title": "黑客"
+        },
+        {
+          "count": 118,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 85,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 67,
+          "name": "Python",
+          "title": "Python"
+        },
+        {
+          "count": 48,
+          "name": "programming",
+          "title": "programming"
+        }
+      ],
+      "origin_title": "Gray Hat Python: Python Programming for Hackers and Reverse Engineers",
+      "image": "https://img3.doubanio.com\/mpic\/s4676930.jpg",
+      "binding": "平装",
+      "translator": [
+        "丁赟卿 译",
+        "崔孝晨 审校"
+      ],
+      "catalog": "第1章  搭建开发环境\t1\n1.1  操作系统要求\t1\n1.2  获取和安装Python 2.5\t2\n1.2.1  在Windows下安装Python\t2\n1.2.2  在Linux下安装Python\t2\n1.3  安装Eclipse和PyDev\t4\n1.3.1  黑客挚友：ctype库\t5\n1.3.2  使用动态链接库\t6\n1.3.3  构建C数据类型\t8\n1.3.4  按引用传参\t9\n1.3.5  定义结构体和联合体\t9\n第2章  调试器原理和设计\t12\n2.1  通用寄存器\t13\n2.2  栈\t15\n2.3  调试事件\t17\n2.4  断点\t18\n2.4.1  软断点\t18\n2.4.2  硬件断点\t20\n2.4.3  内存断点\t22\n第3章  构建自己的Windows调试器\t24\n3.1  Debugee，敢问你在何处\t24\n3.2  获取寄存器状态信息\t33\n3.2.1  线程枚举\t34\n3.2.2  功能整合\t35\n3.3  实现调试事件处理例程\t39\n3.4  无所不能的断点\t44\n3.4.1  软断点\t44\n3.4.2  硬件断点\t49\n3.4.3  内存断点\t55\n3.5  总结\t59\n第4章  PyDbg——Windows下的纯Python调试器\t60\n4.1  扩展断点处理例程\t60\n4.2  非法内存操作处理例程\t63\n4.3  进程快照\t66\n4.3.1  获取进程快照\t67\n4.3.2  汇总与整合\t70\n第5章  Immunity Debugger——两极世界的最佳选择\t74\n5.1  安装Immunity Debugger\t74\n5.2  Immunity Debugger 101\t75\n5.2.1  PyCommand命令\t76\n5.2.2  PyHooks\t76\n5.3  Exploit（漏洞利用程序）开发\t78\n5.3.1  搜寻exploit友好指令\t78\n5.3.2 “坏”字符过滤\t80\n5.3.3  绕过Windows 下的DEP机制\t82\n5.4  破除恶意软件中的反调试例程\t87\n5.4.1  IsDebuugerPresent\t87\n5.4.2  破除进程枚举例程\t88\n第6章  钩子的艺术\t90\n6.1  使用PyDbg部署软钩子\t90\n6.2  使用Immunity Debugger部署硬钩子\t95\n第7章  DLL注入与代码注入技术\t101\n7.1  创建远程线程\t101\n7.1.1  DLL注入\t102\n7.1.2  代码注入\t105\n7.2  遁入黑暗\t108\n7.2.1  文件隐藏\t109\n7.2.2  构建后门\t110\n7.2.3  使用py2exe编译Python代码\t114\n第8章  Fuzzing\t117\n8.1  几种常见的bug类型\t118\n8.1.1  缓冲区溢出\t118\n8.1.2  整数溢出\t119\n8.1.3  格式化串攻击\t121\n8.2  文件Fuzzer\t122\n8.3  后续改进策略\t129\n8.3.1  代码覆盖率\t129\n8.3.2  自动化静态分析\t130\n第9章  Sulley\t131\n9.1  安装Sulley\t132\n9.2  Sulley中的基本数据类型\t132\n9.2.1  字符串\t133\n9.2.2  分隔符\t133\n9.2.3  静态和随机数据类型\t134\n9.2.4  二进制数据\t134\n9.2.5  整数\t134\n9.2.6  块与组\t135\n9.3  行刺WarFTPD\t136\n9.3.1  FTP 101\t137\n9.3.2  创建FTP协议描述框架\t138\n9.3.3  Sulley会话\t139\n9.3.4  网络和进程监控\t140\n9.3.5  Fuzzing测试以及Sulley的Web界面\t141\n第10章  面向Windows驱动的Fuzzing测试技术\t145\n10.1  驱动通信基础\t146\n10.2  使用Immunity Debugger进行驱动级的Fuzzing测试\t147\n10.3  Driverlib——面向驱动的静态分析工具\t151\n10.3.1  寻找设备名称\t152\n10.3.2  寻找IOCTL分派例程\t153\n10.3.3  搜寻有效的IOCTL控制码\t155\n10.4  构建一个驱动Fuzzer\t157\n第11章  IDAPython——IDA PRO环境下的Python脚本编程\t162\n11.1  安装IDAPython\t163\n11.2  IDAPython函数\t164\n11.2.1  两个工具函数\t164\n11.2.2  段（Segment）\t164\n11.2.3  函数\t165\n11.2.4  交叉引用\t166\n11.2.5  调试器钩子\t166\n11.3  脚本实例\t167\n11.3.1  搜寻危险函数的交叉代码\t168\n11.3.2  函数覆盖检测\t169\n11.3.3  检测栈变量大小\t171\n第12章  PYEmu——脚本驱动式仿真器\t174\n12.1  安装PyEmu\t174\n12.2  PyEmu概览\t175\n12.2.1  PyCPU\t175\n12.2.2  PyMemory\t176\n12.2.3  PyEmu\t176\n12.2.4  指令执行\t176\n12.2.5  内存修改器与寄存器修改器\t177\n12.2.6  处理例程（Handler）\t177\n12.3  IDAPyEmu\t182\n12.3.1  函数仿真\t184\n12.3.2  PEPyEmu\t187\n12.3.3  可执行文件加壳器\t188\n12.3.4  UPX加壳器\t188\n12.3.5  利用PEPyEmu脱UPX壳\t189",
+      "pages": "216",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4676930.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4676930.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4676930.jpg"
+      },
+      "alt": "http:\/\/book.douban.com\/subject\/6025284\/",
+      "id": "6025284",
+      "publisher": "电子工业出版社",
+      "isbn10": "7121129019",
+      "isbn13": "9787121129018",
+      "title": "Python灰帽子",
+      "url": "http:\/\/api.douban.com\/v2\/book\/6025284",
+      "alt_title": "Gray Hat Python: Python Programming for Hackers and Reverse Engineers",
+      "author_intro": "Justin Seitz是一名Immunity公司的高级安全研究员，他在以往的工作中花费了大量的时间从事漏洞挖掘、逆向工程、编写漏洞利用以及编写Python代码的研究。",
+      "summary": "《Python灰帽子》是由知名安全机构Immunity Inc的资深黑帽Justin Seitz主笔撰写的一本关于编程语言Python如何被广泛应用于黑客与逆向工程领域的书籍。老牌黑客，同时也是Immunity Inc的创始人兼首席技术执行官（CTO）Dave Aitel为这本书担任了技术编辑一职。书中绝大部分篇幅着眼于黑客技术领域中的两大经久不衰的话题：逆向工程与漏洞挖掘，并向读者呈现了几乎每个逆向工程师或安全研究人员在日常工作中所面临的各种场景，其中包括：如何设计与构建自己的调试工具，如何自动化实现烦琐的逆向分析任务，如何设计与构建自己的fuzzing工具，如何利用fuzzing 测试来找出存在于软件产品中的安全漏洞，一些小技巧诸如钩子与注入技术的应用，以及对一些主流Python安全工具如PyDbg、 Immunity Debugger、Sulley、IDAPython、PyEmu等的深入介绍。作者借助于如今黑客社区中备受青睐的编程语言 Python引领读者构建出精悍的脚本程序来一一应对上述这些问题。出现在书中的相当一部分Python代码实例借鉴或直接来源于一些优秀的开源安全项目，诸如Pedram Amini的Paimei，由此读者可以领略到安全研究者们是如何将黑客艺术与工程技术优雅融合来解决那些棘手问题的。",
+      "price": "39.00元"
+    }
+  ]
+}

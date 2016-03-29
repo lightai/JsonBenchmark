@@ -8,7 +8,6 @@ import android.util.Log;
 import com.netease.jsontest.model.BookList;
 import com.netease.jsontest.model.BookModel;
 
-import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -18,7 +17,7 @@ import org.junit.runner.RunWith;
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<MainActivity> {
+public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<MainUIActivity> {
 	public static final String TAG = "LargeJsonBenchmarkTest";
 
 	final String[] paths = {"android", "android100", "c100", "ios", "java", "js", "mac", "python"};
@@ -30,7 +29,7 @@ public class LargeJsonBenchmarkTest extends ActivityInstrumentationTestCase2<Mai
 	JsonTestController<BookList> controller = new JsonTestController(BookList.class);
 
 	public LargeJsonBenchmarkTest() {
-		super(MainActivity.class);
+		super(MainUIActivity.class);
 	}
 
 	@Before
