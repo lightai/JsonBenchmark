@@ -39,7 +39,7 @@ public class JsonModel {
         try {
             String json = jsonMap.get(book);
             if (json == null) {
-                json = IOUtils.toString(getClass().getResourceAsStream("book/" + book + ".json"), "utf-8");
+                json = IOUtils.toString(getClass().getResourceAsStream(book), "utf-8");
                 jsonMap.put(book, json);
             }
             return json;

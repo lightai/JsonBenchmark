@@ -43,13 +43,13 @@ public class JsonTestModel {
     }
 
     public List<TestBean<Book>> getBookTestBeanList() {
-        if (userTestBeanList == null) {
-            userTestBeanList = new ArrayList<>();
+        if (bookTestBeanList == null) {
+          bookTestBeanList = new ArrayList<>();
 
-            for (int i = 0; i < userPaths.length; i++) {
+            for (int i = 0; i < bookPaths.length; i++) {
                 TestBean<Book> item = new TestBean<>();
-                item.path = userPaths[i];
-                item.json = JsonModel.get().getUserJson(userPaths[i]);
+                item.path = bookPaths[i];
+                item.json = JsonModel.get().getBookJson("/com/netease/jsontest/book/" + bookPaths[i] + ".json");
                 item.t = gson.fromJson(item.json, Book.class);
                 bookTestBeanList.add(item);
             }
@@ -58,21 +58,21 @@ public class JsonTestModel {
         return bookTestBeanList;
     }
 
-    public List<TestBean<BookList>> getBookListTestBeanList() {
-        if (userTestBeanList == null) {
-            userTestBeanList = new ArrayList<>();
-
-            for (int i = 0; i < userPaths.length; i++) {
-                TestBean<BookList> item = new TestBean<>();
-                item.path = userPaths[i];
-                item.json = JsonModel.get().getUserJson(userPaths[i]);
-                item.t = gson.fromJson(item.json, BookList.class);
-                bookListTestBeanList.add(item);
-            }
-        }
-
-        return bookListTestBeanList;
-    }
+//    public List<TestBean<BookList>> getBookListTestBeanList() {
+//        if (userTestBeanList == null) {
+//            userTestBeanList = new ArrayList<>();
+//
+//            for (int i = 0; i < userPaths.length; i++) {
+//                TestBean<BookList> item = new TestBean<>();
+//                item.path = userPaths[i];
+//                item.json = JsonModel.get().getBookJson(userPaths[i]);
+//                item.t = gson.fromJson(item.json, BookList.class);
+//                bookListTestBeanList.add(item);
+//            }
+//        }
+//
+//        return bookListTestBeanList;
+//    }
     
     static final JsonTestModel sInstance = new JsonTestModel();
     public static JsonTestModel instance() {

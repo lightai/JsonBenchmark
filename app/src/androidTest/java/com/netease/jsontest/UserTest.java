@@ -19,18 +19,48 @@ public class UserTest extends ActivityInstrumentationTestCase2<MainUIActivity> {
 		super(MainUIActivity.class);
 	}
 
-	@Test
-	public void testGsonDeserialize() {
-		new Application.UserTest().testGsonDeserialize();
-	}
+//	@Test
+//	public void testGsonDeserialize() {
+//		new Application.BookTest().testGsonDeserialize();
+//	}
 
   @Test
   public void testJacksonDeserialize() {
-    new Application.UserTest().testJacksonDeserialize();
+    new Application.BookTest().testJacksonDeserialize();
   }
 
-  @Test
-  public void testFastjsonDeserialize() {
-    new Application.UserTest().testFastjsonDeserialize();
-  }
+//  @Test
+//  public void testFastjsonDeserialize() {
+//    new Application.BookTest().testFastjsonDeserialize();
+//  }
+
+//  @Test
+//  public void testReflectInvoke() {
+//    new Application.ReflectionTest().testReflection();
+//  }
+//
+//  @Test
+//  public void testReflectWithouCacheInvoke() {
+//    new Application.ReflectionTest().testReflectionWithoutCache();
+//  }
+//
+//  @Test
+//  public void testNormalInvoke() {
+//    new Application.ReflectionTest().testNormal();
+//  }
+
+//    @Test
+//  public void testJacksonSerialize() {
+//    new Application.BookTest().testJacksonSerialize();
+//  }
+
+//  @Test
+//  public void testGsonSerialize() {
+//    new Application.BookTest().testGsonSerialize();
+//  }
+
+//  @Test
+//  public void testFastjsonSerialize() {
+//    new Application.BookTest().testFastjsonSerialize();
+//  }
 }
